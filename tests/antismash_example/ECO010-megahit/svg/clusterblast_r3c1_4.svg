@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="179,35 184,30 200,30 200,40 184,40 179,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00290&lt;/b&gt;&lt;br&gt;UPF0340 protein BH3766&lt;br&gt;Location: 7089 - 7653" locus_tag="NCFMKG_00290" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="213,40 256,40 261,35 256,30 213,30 213,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00295&lt;/b&gt;&lt;br&gt;Bifunctional O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase&lt;br&gt;Location: 7995 - 9279" locus_tag="NCFMKG_00295" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="263,40 293,40 298,35 293,30 263,30 263,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00300&lt;/b&gt;&lt;br&gt;Homoserine O-acetyltransferase&lt;br&gt;Location: 9325 - 10261" locus_tag="NCFMKG_00300" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="300,35 305,30 310,30 310,40 305,40 300,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00305&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 10333 - 10591" locus_tag="NCFMKG_00305" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="310,35 315,30 351,30 351,40 315,40 310,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00310&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 10590 - 11685" locus_tag="NCFMKG_00310" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="358,40 380,40 385,35 380,30 358,30 358,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00315&lt;/b&gt;&lt;br&gt;ATP-dependent dethiobiotin synthetase BioD&lt;br&gt;Location: 11885 - 12596" locus_tag="NCFMKG_00315" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="386,40 431,40 436,35 431,30 386,30 386,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00320&lt;/b&gt;&lt;br&gt;Adenosylmethionine-8-amino-7-oxononanoate aminotransferase&lt;br&gt;Location: 12620 - 13970" locus_tag="NCFMKG_00320" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="441,35 446,30 488,30 488,40 446,40 441,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00325&lt;/b&gt;&lt;br&gt;UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2&lt;br&gt;Location: 14096 - 15341" locus_tag="NCFMKG_00325" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="495,35 500,30 547,30 547,40 500,40 495,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00330&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 15527 - 16931" locus_tag="NCFMKG_00330" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="547,35 552,30 601,30 601,40 552,40 547,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00335&lt;/b&gt;&lt;br&gt;Radical SAM core domain-containing protein&lt;br&gt;Location: 16927 - 18367" locus_tag="NCFMKG_00335" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NZ_CP046457" description="NZ_CP046457 (2103559-2125138): Candidatus Syntrophocurvum alkaliphilum isolat... (12% of genes show similarity), ranthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP046457&amp;start=2103559&amp;end=2125138" target="_blank">NZ_CP046457 (2103559-2125138)</a>: Candidatus Syntrophocurvum alkaliphilum isolat... (12% of genes show similarity), ranthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 12,80 12,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10265&lt;/b&gt;&lt;br&gt;DUF3796 domain-containing protein&lt;br&gt;Location: 2124950 - 2124615" locus_tag="SYNTR_RS10265" class="clusterblast-orf" id="dummy-1_h1_4_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="19,85 24,80 31,80 31,90 24,90 19,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10260&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2124418 - 2124116" locus_tag="SYNTR_RS10260" class="clusterblast-orf" id="dummy-1_h1_4_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="41,85 46,80 84,80 84,90 46,90 41,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10255&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 2123851 - 2122688" locus_tag="SYNTR_RS10255" class="clusterblast-orf" id="dummy-1_h1_4_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="96,90 114,90 119,85 114,80 96,80 96,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10250&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2122382 - 2121768" locus_tag="SYNTR_RS10250" class="clusterblast-orf" id="dummy-1_h1_4_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="125,85 130,80 143,80 143,90 130,90 125,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10245&lt;/b&gt;&lt;br&gt;23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH&lt;br&gt;Location: 2121604 - 2121125" locus_tag="SYNTR_RS10245" class="clusterblast-orf" id="dummy-1_h1_4_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="146,85 151,80 186,80 186,90 151,90 146,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10240&lt;/b&gt;&lt;br&gt;trypsin-like peptidase domain-containing protein&lt;br&gt;Location: 2121033 - 2119954" locus_tag="SYNTR_RS10240" class="clusterblast-orf" id="dummy-1_h1_4_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="191,85 196,80 238,80 238,90 196,90 191,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10235&lt;/b&gt;&lt;br&gt;UDP-N-acetylglucosamine 1-carboxyvinyltransferase&lt;br&gt;Location: 2119832 - 2118582&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_00325&lt;/b&gt;&lt;br&gt;Percentage identity: 68&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 555&lt;br&gt;E-value: 7.52e-197" locus_tag="SYNTR_RS10235" class="clusterblast-orf" id="dummy-1_h1_4_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="238,85 243,80 271,80 271,90 243,90 238,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10230&lt;/b&gt;&lt;br&gt;peptidase MA family metallohydrolase&lt;br&gt;Location: 2118566 - 2117703" locus_tag="SYNTR_RS10230" class="clusterblast-orf" id="dummy-1_h1_4_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="276,85 281,80 310,80 310,90 281,90 276,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10225&lt;/b&gt;&lt;br&gt;thioredoxin-disulfide reductase&lt;br&gt;Location: 2117567 - 2116662" locus_tag="SYNTR_RS10225" class="clusterblast-orf" id="dummy-1_h1_4_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="312,85 317,80 363,80 363,90 317,90 312,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10220&lt;/b&gt;&lt;br&gt;peptidoglycan DD-metalloendopeptidase family protein&lt;br&gt;Location: 2116602 - 2115244&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_00330&lt;/b&gt;&lt;br&gt;Percentage identity: 39&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 298&lt;br&gt;E-value: 1.17e-94" locus_tag="SYNTR_RS10220" class="clusterblast-orf" id="dummy-1_h1_4_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="367,85 372,80 418,80 418,90 372,90 367,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10215&lt;/b&gt;&lt;br&gt;thioether cross-link-forming SCIFF peptide maturase&lt;br&gt;Location: 2115138 - 2113762&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_00335&lt;/b&gt;&lt;br&gt;Percentage identity: 55&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 516&lt;br&gt;E-value: 1.18e-179" locus_tag="SYNTR_RS10215" class="clusterblast-orf" id="dummy-1_h1_4_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="421,85 426,80 426,80 426,90 426,90 421,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10210&lt;/b&gt;&lt;br&gt;six-cysteine ranthipeptide SCIFF&lt;br&gt;Location: 2113700 - 2113560" locus_tag="SYNTR_RS10210" class="clusterblast-orf" id="dummy-1_h1_4_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="434,85 439,80 482,80 482,90 439,90 434,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10200&lt;/b&gt;&lt;br&gt;adenylosuccinate synthase&lt;br&gt;Location: 2113341 - 2112064" locus_tag="SYNTR_RS10200" class="clusterblast-orf" id="dummy-1_h1_4_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="488,85 493,80 558,80 558,90 493,90 488,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10195&lt;/b&gt;&lt;br&gt;Lon family ATP-dependent protease&lt;br&gt;Location: 2111909 - 2110017" locus_tag="SYNTR_RS10195" class="clusterblast-orf" id="dummy-1_h1_4_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="559,85 564,80 576,80 576,90 564,90 559,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10190&lt;/b&gt;&lt;br&gt;50S ribosomal protein L9&lt;br&gt;Location: 2109995 - 2109549" locus_tag="SYNTR_RS10190" class="clusterblast-orf" id="dummy-1_h1_4_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="576,85 581,80 612,80 612,90 581,90 576,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10185&lt;/b&gt;&lt;br&gt;DUF2232 domain-containing protein&lt;br&gt;Location: 2109536 - 2108589" locus_tag="SYNTR_RS10185" class="clusterblast-orf" id="dummy-1_h1_4_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="612,85 617,80 624,80 624,90 617,90 612,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10180&lt;/b&gt;&lt;br&gt;MazG-like family protein&lt;br&gt;Location: 2108586 - 2108266" locus_tag="SYNTR_RS10180" class="clusterblast-orf" id="dummy-1_h1_4_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="628,85 633,80 636,80 636,90 633,90 628,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10175&lt;/b&gt;&lt;br&gt;30S ribosomal protein S18&lt;br&gt;Location: 2108155 - 2107931" locus_tag="SYNTR_RS10175" class="clusterblast-orf" id="dummy-1_h1_4_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="637,85 642,80 653,80 653,90 642,90 637,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10170&lt;/b&gt;&lt;br&gt;single-stranded DNA-binding protein&lt;br&gt;Location: 2107912 - 2107475" locus_tag="SYNTR_RS10170" class="clusterblast-orf" id="dummy-1_h1_4_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="654,85 659,80 665,80 665,90 659,90 654,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10165&lt;/b&gt;&lt;br&gt;30S ribosomal protein S6&lt;br&gt;Location: 2107458 - 2107156" locus_tag="SYNTR_RS10165" class="clusterblast-orf" id="dummy-1_h1_4_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="670,85 675,80 678,80 678,90 675,90 670,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10160&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2107035 - 2106820" locus_tag="SYNTR_RS10160" class="clusterblast-orf" id="dummy-1_h1_4_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="680,85 685,80 688,80 688,90 685,90 680,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10155&lt;/b&gt;&lt;br&gt;DUF951 domain-containing protein&lt;br&gt;Location: 2106757 - 2106563" locus_tag="SYNTR_RS10155" class="clusterblast-orf" id="dummy-1_h1_4_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="688,85 693,80 727,80 727,90 693,90 688,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10150&lt;/b&gt;&lt;br&gt;selenide, water dikinase SelD&lt;br&gt;Location: 2106544 - 2105507" locus_tag="SYNTR_RS10150" class="clusterblast-orf" id="dummy-1_h1_4_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="728,85 733,80 780,80 780,90 733,90 728,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SYNTR_RS10145&lt;/b&gt;&lt;br&gt;aminopeptidase&lt;br&gt;Location: 2105483 - 2104107" locus_tag="SYNTR_RS10145" class="clusterblast-orf" id="dummy-1_h1_4_23"  />
+</g>
+</svg>

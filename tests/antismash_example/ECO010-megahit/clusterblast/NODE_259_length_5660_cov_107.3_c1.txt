@@ -1,0 +1,1048 @@
+ClusterBlast scores for NODE_259_length_5660_cov_107.3
+
+Table of genes, locations, strands and annotations of query cluster:
+NCFMKG_09795	24	450	+	hypothetical protein	
+NCFMKG_09800	490	1330	+	hypothetical protein	
+NCFMKG_09805	1342	1804	+	hypothetical protein	
+NCFMKG_09810	1991	2645	-	hypothetical protein	
+NCFMKG_09815	2649	3843	-	hypothetical protein	
+NCFMKG_09820	3847	4489	-	hypothetical protein	
+NCFMKG_09825	4538	5555	+	hypothetical protein	
+
+
+Significant hits: 
+1. NZ_FMXB01000006	Methanobrevibacter millerae strain DSM 16643, whole genome shotgun sequence
+2. NZ_CP010834	Methanobrevibacter sp. YE315 chromosome, complete genome
+3. NZ_RKRG01000004	Methanobrevibacter gottschalkii DSM 11977 Ga0244664_14, whole genome shotgun sequence
+4. NZ_CP011266	Methanobrevibacter millerae strain SM9 chromosome, complete genome
+5. NZ_HG796203	Methanobrevibacter oralis JMR01, whole genome shotgun sequence
+6. NC_021355	Methanobrevibacter sp. AbM4, complete sequence
+7. NZ_CP081485	Methanobrevibacter sp. TLL-48-HuF1 chromosome, complete genome
+8. NZ_CP017803	Methanobrevibacter smithii strain KB11 chromosome, complete genome
+9. NZ_AP025586	Methanobrevibacter smithii strain CE91-St67 chromosome, complete genome
+10. NC_009515	Methanobrevibacter smithii ATCC 35061, complete sequence
+11. NZ_AP019779	Methanobrevibacter arboriphilus strain SA chromosome, complete genome
+12. NZ_HG794426	Methanobrevibacter arboriphilus ANOR1, whole genome shotgun sequence
+13. NZ_CP058560	Methanobacterium alkalithermotolerans strain CAN chromosome, complete genome
+14. NZ_QREL01000001	Methanothermobacter defluvii strain DSM 7466 Ga0215653_11, whole genome shotgun sequence
+15. NZ_CP064337	Methanothermobacter thermautotrophicus strain Z-245 chromosome, complete genome
+16. NZ_AP011952	Methanothermobacter sp. CaT2 chromosome, complete genome
+17. NZ_CP044013	Methanothermobacter sp. THM-1 chromosome, complete genome
+18. NZ_CP042937	Methanothermobacter sp. KEPCO-1 chromosome, complete genome
+19. NZ_CP104550	Methanothermobacter wolfeii strain DSM 2970 chromosome, complete genome
+20. NZ_CP043480	Methanothermobacter sp. THM-2 chromosome, complete genome
+21. NC_014408	Methanothermobacter marburgensis str. Marburg, complete sequence
+22. NZ_AP025698	Methanothermobacter tenebrarum strain RMAS chromosome, complete genome
+23. NC_000916	Methanothermobacter thermautotrophicus str. Delta H, complete sequence
+24. NZ_CP014265	Methanobrevibacter olleyae strain YLM1 chromosome, complete genome
+25. NZ_JMIY01000003	Candidatus Methanoperedens nitroreducens strain ANME-2d ANME2D_Contig_3.3, whole genome shotgun sequence
+26. NC_013790	Methanobrevibacter ruminantium M1, complete sequence
+27. NZ_CP009511	Methanosarcina mazei SarPi chromosome, complete genome
+28. NZ_CP009509	Methanosarcina mazei WWM610 chromosome, complete genome
+29. NZ_CP009513	Methanosarcina mazei LYC chromosome, complete genome
+30. NZ_CP009514	Methanosarcina mazei C16 chromosome, complete genome
+31. NC_003901	Methanosarcina mazei Go1, complete sequence
+32. NZ_CP042908	Methanosarcina mazei strain zm-15 chromosome, complete genome
+33. NZ_CP009512	Methanosarcina mazei S-6 chromosome, complete genome
+34. NC_007681	Methanosphaera stadtmanae DSM 3091, complete sequence
+35. NZ_CP014213	Methanosphaera sp. BMS chromosome, complete genome
+36. NZ_CP029709	Methanosarcina mazei strain JL01 chromosome
+37. NZ_AP019780	Methanosarcina mazei strain TMA chromosome, complete genome
+38. NZ_JJOY01000040	Methanosarcina sp. 2.H.T.1A.6 scaffold17_1_size91011-refined, whole genome shotgun sequence
+39. NZ_JJOV01000031	Methanosarcina sp. 2.H.A.1B.4 scaffold3_1_size185154-refined, whole genome shotgun sequence
+40. NC_020389	Methanosarcina mazei Tuc01, complete sequence
+41. NZ_CP009528	Methanosarcina barkeri MS chromosome, complete genome
+42. NZ_CP009505	Methanosarcina sp. MTP4 chromosome, complete genome
+43. NZ_CP009530	Methanosarcina barkeri 227 chromosome, complete genome
+44. NZ_CP009524	Methanosarcina sp. Kolksee chromosome, complete genome
+45. NZ_CP009520	Methanosarcina vacuolata Z-761 chromosome, complete genome
+46. NZ_CP008746	Methanosarcina barkeri CM1 chromosome, complete genome
+47. NZ_CP009501	Methanosarcina thermophila TM-1 chromosome, complete genome
+48. NZ_CP009526	Methanosarcina barkeri str. Wiesmoor chromosome, complete genome
+49. NZ_CP009517	Methanosarcina barkeri 3 chromosome, complete genome
+50. NC_003552	Methanosarcina acetivorans C2A, complete sequence
+
+
+Details:
+
+>>
+1. NZ_FMXB01000006
+Source: Methanobrevibacter millerae strain DSM 16643, whole genome shotgun sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2478.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	F3G70_RS04900	74	207	99.29078014184397	4.19e-68
+NCFMKG_09800	F3G70_RS04895	85	452	100.0	1.69e-160
+NCFMKG_09805	F3G70_RS04890	68	197	100.65359477124183	9.66e-64
+NCFMKG_09810	F3G70_RS04885	75	304	97.6958525345622	6.83e-104
+NCFMKG_09815	F3G70_RS04880	72	547	100.25188916876576	3.56e-194
+NCFMKG_09820	F3G70_RS04875	61	270	100.46948356807512	1.83e-90
+NCFMKG_09825	F3G70_RS04870	72	501	98.5207100591716	6.01e-178
+
+
+
+>>
+2. NZ_CP010834
+Source: Methanobrevibacter sp. YE315 chromosome, complete genome
+Type: NRPS,thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2807.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	TL18_RS02405	94	255	100.0	5.45e-87
+NCFMKG_09800	TL18_RS02410	94	496	99.6415770609319	1.11e-177
+NCFMKG_09805	TL18_RS02415	76	237	99.34640522875817	1.41e-79
+NCFMKG_09810	TL18_RS02425	76	313	98.15668202764977	2.15e-107
+NCFMKG_09815	TL18_RS02430	78	617	100.75566750629723	6.97e-222
+NCFMKG_09820	TL18_RS02435	76	323	100.0	8.74e-112
+NCFMKG_09825	TL18_RS02440	81	566	99.70414201183432	9.42e-204
+
+
+
+>>
+3. NZ_RKRG01000004
+Source: Methanobrevibacter gottschalkii DSM 11977 Ga0244664_14, whole genome shotgun sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2745.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	EDC42_RS08780	91	253	99.29078014184397	2.15e-86
+NCFMKG_09800	EDC42_RS08775	90	475	99.6415770609319	1.32e-169
+NCFMKG_09805	EDC42_RS08770	76	233	99.34640522875817	8.86e-78
+NCFMKG_09810	EDC42_RS08760	78	319	97.23502304147466	7.63e-110
+NCFMKG_09815	EDC42_RS08755	77	605	100.75566750629723	7.35e-217
+NCFMKG_09820	EDC42_RS08750	75	314	100.0	5.6e-108
+NCFMKG_09825	EDC42_RS08745	76	546	100.0	1.47e-195
+
+
+
+>>
+4. NZ_CP011266
+Source: Methanobrevibacter millerae strain SM9 chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2513.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	SM9_RS02640	74	205	99.29078014184397	3.44e-67
+NCFMKG_09800	SM9_RS02645	85	451	100.0	6.87e-160
+NCFMKG_09805	SM9_RS02650	71	216	100.0	2.29e-71
+NCFMKG_09810	SM9_RS02660	77	315	97.6958525345622	2.63e-108
+NCFMKG_09815	SM9_RS02665	72	558	100.25188916876576	2.78e-198
+NCFMKG_09820	SM9_RS02670	64	267	100.0	1.49e-89
+NCFMKG_09825	SM9_RS02675	70	501	99.11242603550295	8.53e-178
+
+
+
+>>
+5. NZ_HG796203
+Source: Methanobrevibacter oralis JMR01, whole genome shotgun sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2505.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+TY05_RS07500	TY05_RS07500	53222	53943	-	tRNA-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	TY05_RS07430	84	233	100.0	2.67e-78
+NCFMKG_09800	TY05_RS07435	81	429	100.0	2.4e-151
+NCFMKG_09805	TY05_RS07440	65	187	99.34640522875817	1.12e-59
+NCFMKG_09810	TY05_RS07450	67	283	99.53917050691244	9.71e-96
+NCFMKG_09815	TY05_RS07455	71	565	100.25188916876576	5.09e-201
+NCFMKG_09820	TY05_RS07460	66	296	100.0	7.99e-101
+NCFMKG_09825	TY05_RS07465	74	512	99.11242603550295	2.78e-182
+
+
+
+>>
+6. NC_021355
+Source: Methanobrevibacter sp. AbM4, complete sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1893.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	ABM4_RS01960	62	179	101.41843971631207	8.55e-57
+NCFMKG_09800	ABM4_RS01965	72	389	99.6415770609319	1.18e-135
+NCFMKG_09805	ABM4_RS01970	38	110	101.96078431372548	3.11e-29
+NCFMKG_09810	ABM4_RS01980	53	211	98.61751152073732	4.01e-67
+NCFMKG_09815	ABM4_RS01985	57	435	100.50377833753149	6.72e-150
+NCFMKG_09820	ABM4_RS01990	51	203	98.12206572769952	2.88e-64
+NCFMKG_09825	ABM4_RS01995	52	366	100.29585798816566	1.68e-124
+
+
+
+>>
+7. NZ_CP081485
+Source: Methanobrevibacter sp. TLL-48-HuF1 chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2428.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	K4897_RS02945	77	213	100.0	2.24e-70
+NCFMKG_09800	K4897_RS02940	80	423	99.6415770609319	6.32e-149
+NCFMKG_09805	K4897_RS02935	67	194	100.65359477124183	2.26e-62
+NCFMKG_09810	K4897_RS02925	74	301	97.6958525345622	5.59e-103
+NCFMKG_09815	K4897_RS02920	70	540	100.25188916876576	3.64e-191
+NCFMKG_09820	K4897_RS02915	66	279	99.53051643192488	3.82e-94
+NCFMKG_09825	K4897_RS02885	69	478	100.0	1.04e-168
+
+
+
+>>
+8. NZ_CP017803
+Source: Methanobrevibacter smithii strain KB11 chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2426.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	BK798_RS01690	78	217	100.0	4.73e-72
+NCFMKG_09800	BK798_RS01695	80	422	99.6415770609319	8.98e-149
+NCFMKG_09805	BK798_RS01700	67	197	100.65359477124183	1.37e-63
+NCFMKG_09810	BK798_RS01710	74	302	97.6958525345622	2.77e-103
+NCFMKG_09815	BK798_RS01715	70	541	100.25188916876576	1.27e-191
+NCFMKG_09820	BK798_RS01720	64	274	99.53051643192488	2.56e-92
+NCFMKG_09825	BK798_RS01735	68	473	100.0	9.9e-167
+
+
+
+>>
+9. NZ_AP025586
+Source: Methanobrevibacter smithii strain CE91-St67 chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2423.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MWL82_RS01930	78	217	100.0	4.73e-72
+NCFMKG_09800	MWL82_RS01925	80	422	99.6415770609319	8.98e-149
+NCFMKG_09805	MWL82_RS01920	67	197	100.65359477124183	1.37e-63
+NCFMKG_09810	MWL82_RS01910	74	300	97.6958525345622	2.27e-102
+NCFMKG_09815	MWL82_RS01905	70	542	100.25188916876576	4.46e-192
+NCFMKG_09820	MWL82_RS01900	65	276	99.53051643192488	6.3e-93
+NCFMKG_09825	MWL82_RS01875	68	469	100.0	2.32e-165
+
+
+
+>>
+10. NC_009515
+Source: Methanobrevibacter smithii ATCC 35061, complete sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2421.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSM_RS02395	78	217	100.0	4.73e-72
+NCFMKG_09800	MSM_RS02390	80	422	99.6415770609319	8.98e-149
+NCFMKG_09805	MSM_RS02385	67	194	100.65359477124183	2.26e-62
+NCFMKG_09810	MSM_RS02375	72	299	99.53917050691244	6.5e-102
+NCFMKG_09815	MSM_RS02370	70	537	100.25188916876576	4.22e-190
+NCFMKG_09820	MSM_RS02365	66	279	99.53051643192488	3.82e-94
+NCFMKG_09825	MSM_RS02335	68	473	100.0	9.9e-167
+
+
+
+>>
+11. NZ_AP019779
+Source: Methanobrevibacter arboriphilus strain SA chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1855.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MarbSA_RS08665	63	178	101.41843971631207	1.72e-56
+NCFMKG_09800	MarbSA_RS08670	65	352	99.2831541218638	4.23e-121
+NCFMKG_09805	MarbSA_RS08675	42	103	75.16339869281046	7.06e-27
+NCFMKG_09810	MarbSA_RS08685	55	222	97.6958525345622	1.37e-71
+NCFMKG_09815	MarbSA_RS08690	61	445	101.51133501259446	8.2e-154
+NCFMKG_09820	MarbSA_RS08695	51	206	97.65258215962442	1.95e-65
+NCFMKG_09825	MarbSA_RS08705	49	349	102.07100591715977	1.19e-117
+
+
+
+>>
+12. NZ_HG794426
+Source: Methanobrevibacter arboriphilus ANOR1, whole genome shotgun sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 1640.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+TX93_RS05370	TX93_RS05370	1237855	1241069	+	carbamoyl-phosphate_synthase_large_subunit
+TX93_RS05405	TX93_RS05405	1247389	1248612	-	YcaO-related_McrA-glycine_thioamidation_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	TX93_RS05380	63	178	101.41843971631207	1.72e-56
+NCFMKG_09800	TX93_RS05385	65	352	99.2831541218638	4.23e-121
+NCFMKG_09805	TX93_RS05390	42	103	75.16339869281046	7.06e-27
+NCFMKG_09810	TX93_RS05400	55	220	97.23502304147466	5.18e-71
+NCFMKG_09815	TX93_RS05405	60	234	52.64483627204031	1.45e-73
+NCFMKG_09820	TX93_RS05410	51	206	97.65258215962442	1.95e-65
+NCFMKG_09825	TX93_RS05420	49	347	102.07100591715977	4.8e-117
+
+
+
+>>
+13. NZ_CP058560
+Source: Methanobacterium alkalithermotolerans strain CAN chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1534.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	HYG87_RS04050	55	153	101.41843971631207	1.32e-46
+NCFMKG_09800	HYG87_RS04045	57	306	99.2831541218638	5.04e-103
+NCFMKG_09810	HYG87_RS04030	50	189	97.6958525345622	1.56e-58
+NCFMKG_09815	HYG87_RS04025	54	395	99.49622166246851	1.89e-134
+NCFMKG_09820	HYG87_RS04020	45	180	93.42723004694837	1.65e-55
+NCFMKG_09825	HYG87_RS04000	46	311	97.63313609467455	4.37e-103
+
+
+
+>>
+14. NZ_QREL01000001
+Source: Methanothermobacter defluvii strain DSM 7466 Ga0215653_11, whole genome shotgun sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1472.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+C7452_RS01945	C7452_RS01945	351026	351756	+	radical_SAM_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	C7452_RS01870	53	141	101.41843971631207	4.76e-42
+NCFMKG_09800	C7452_RS01875	58	316	99.6415770609319	8.94e-107
+NCFMKG_09810	C7452_RS01890	47	187	98.15668202764977	1.07e-57
+NCFMKG_09815	C7452_RS01895	52	383	98.74055415617129	1.2e-129
+NCFMKG_09820	C7452_RS01900	49	196	94.83568075117371	6.53e-62
+NCFMKG_09825	C7452_RS01920	41	249	94.67455621301775	4.94e-79
+
+
+
+>>
+15. NZ_CP064337
+Source: Methanothermobacter thermautotrophicus strain Z-245 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1466.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	ISG36_RS04825	53	140	101.41843971631207	9.58e-42
+NCFMKG_09800	ISG36_RS04820	58	314	99.6415770609319	5.14e-106
+NCFMKG_09810	ISG36_RS04805	48	191	98.15668202764977	2.91e-59
+NCFMKG_09815	ISG36_RS04800	52	380	98.74055415617129	1.47e-128
+NCFMKG_09820	ISG36_RS04795	47	190	93.42723004694837	1.63e-59
+NCFMKG_09825	ISG36_RS04775	42	251	91.42011834319527	1.23e-79
+
+
+
+>>
+16. NZ_AP011952
+Source: Methanothermobacter sp. CaT2 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1462.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MTCT_RS04560	52	137	101.41843971631207	2.23e-40
+NCFMKG_09800	MTCT_RS04555	57	313	99.6415770609319	1.47e-105
+NCFMKG_09810	MTCT_RS04540	48	191	98.15668202764977	1.45e-59
+NCFMKG_09815	MTCT_RS04535	52	382	98.74055415617129	3.64e-129
+NCFMKG_09820	MTCT_RS04530	47	191	93.42723004694837	5.72e-60
+NCFMKG_09825	MTCT_RS04510	42	248	91.42011834319527	1.4e-78
+
+
+
+>>
+17. NZ_CP044013
+Source: Methanothermobacter sp. THM-1 chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1458.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	FZP57_RS06640	52	136	101.41843971631207	6.35e-40
+NCFMKG_09800	FZP57_RS06635	58	315	99.6415770609319	3.62e-106
+NCFMKG_09810	FZP57_RS06620	51	201	98.15668202764977	2.24e-63
+NCFMKG_09815	FZP57_RS06615	51	365	98.2367758186398	1.21e-122
+NCFMKG_09820	FZP57_RS06610	47	188	93.42723004694837	9.33e-59
+NCFMKG_09825	FZP57_RS06590	40	253	95.56213017751479	3.28e-80
+
+
+
+>>
+18. NZ_CP042937
+Source: Methanothermobacter sp. KEPCO-1 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1456.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	FVF72_RS06640	52	138	101.41843971631207	7.8e-41
+NCFMKG_09800	FVF72_RS06645	57	310	99.6415770609319	2.4e-104
+NCFMKG_09810	FVF72_RS06660	50	194	97.6958525345622	1.26e-60
+NCFMKG_09815	FVF72_RS06665	51	376	98.2367758186398	9.93e-127
+NCFMKG_09820	FVF72_RS06670	50	192	93.89671361502347	2.01e-60
+NCFMKG_09825	FVF72_RS06690	41	246	94.0828402366864	1.08e-77
+
+
+
+>>
+19. NZ_CP104550
+Source: Methanothermobacter wolfeii strain DSM 2970 chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1456.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+N5910_RS06895	N5910_RS06895	1264325	1264444	-	radical_SAM_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	N5910_RS06970	52	136	101.41843971631207	6.35e-40
+NCFMKG_09800	N5910_RS06965	58	315	99.6415770609319	3.62e-106
+NCFMKG_09810	N5910_RS06950	51	199	98.15668202764977	9.02e-63
+NCFMKG_09815	N5910_RS06945	51	365	98.2367758186398	1.21e-122
+NCFMKG_09820	N5910_RS06940	47	188	93.42723004694837	9.33e-59
+NCFMKG_09825	N5910_RS06920	40	253	95.56213017751479	2.32e-80
+
+
+
+>>
+20. NZ_CP043480
+Source: Methanothermobacter sp. THM-2 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1455.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FZP68_RS04140	FZP68_RS04140	781747	783158	+	lactaldehyde_dehydrogenase
+FZP68_RS04155	FZP68_RS04155	785763	786484	-	tRNA-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	FZP68_RS04075	52	138	101.41843971631207	7.8e-41
+NCFMKG_09800	FZP68_RS04080	57	310	99.6415770609319	2.4e-104
+NCFMKG_09810	FZP68_RS04095	50	197	97.6958525345622	1.1e-61
+NCFMKG_09815	FZP68_RS04100	51	377	98.2367758186398	3.49e-127
+NCFMKG_09820	FZP68_RS04105	49	194	93.89671361502347	7.05e-61
+NCFMKG_09825	FZP68_RS04125	40	239	92.89940828402366	5.51e-75
+
+
+
+>>
+21. NC_014408
+Source: Methanothermobacter marburgensis str. Marburg, complete sequence
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1451.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MTBMA_RS06720	52	138	101.41843971631207	7.8e-41
+NCFMKG_09800	MTBMA_RS06715	57	311	99.6415770609319	5.93e-105
+NCFMKG_09810	MTBMA_RS06700	48	190	97.6958525345622	5.8e-59
+NCFMKG_09815	MTBMA_RS06695	51	376	98.2367758186398	9.93e-127
+NCFMKG_09820	MTBMA_RS06690	50	190	93.42723004694837	2.31e-59
+NCFMKG_09825	MTBMA_RS06670	41	246	94.0828402366864	1.08e-77
+
+
+
+>>
+22. NZ_AP025698
+Source: Methanothermobacter tenebrarum strain RMAS chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1444.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MTTB_RS02235	55	144	101.41843971631207	5.85e-43
+NCFMKG_09800	MTTB_RS02240	58	317	99.6415770609319	3.13e-107
+NCFMKG_09810	MTTB_RS02255	48	186	100.0	1.73e-57
+NCFMKG_09815	MTTB_RS02260	51	369	100.0	8.06e-124
+NCFMKG_09820	MTTB_RS02265	44	179	92.95774647887323	3.02e-55
+NCFMKG_09825	MTTB_RS02280	42	249	94.37869822485207	1.12e-78
+
+
+
+>>
+23. NC_000916
+Source: Methanothermobacter thermautotrophicus str. Delta H, complete sequence
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1343.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MTH_RS04630	MTH_RS04630	892351	893762	-	lactaldehyde_dehydrogenase
+MTH_RS04675	MTH_RS04675	901102	901751	+	TfuA-related_McrA-glycine_thioamidation_protein
+MTH_RS04710	MTH_RS04710	907405	910585	-	carbamoyl-phosphate_synthase_large_subunit
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MTH_RS04695	53	140	101.41843971631207	9.58e-42
+NCFMKG_09800	MTH_RS04690	55	293	99.6415770609319	8.02e-98
+NCFMKG_09810	MTH_RS04675	55	95	38.70967741935484	2.56e-23
+NCFMKG_09815	MTH_RS04670	51	372	97.22921914357683	2.17e-125
+NCFMKG_09820	MTH_RS04665	48	192	93.42723004694837	2.85e-60
+NCFMKG_09825	MTH_RS04645	42	251	91.42011834319527	1.75e-79
+
+
+
+>>
+24. NZ_CP014265
+Source: Methanobrevibacter olleyae strain YLM1 chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1646.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+YLM1_RS09550	YLM1_RS09550	373075	373196	-	IS5/IS1182_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	YLM1_RS01525	56	157	101.41843971631207	4.52e-48
+NCFMKG_09800	YLM1_RS01535	64	352	99.2831541218638	6e-121
+NCFMKG_09805	YLM1_RS01540	45	121	78.43137254901961	1.15e-33
+NCFMKG_09810	YLM1_RS01550	53	200	98.15668202764977	3.96e-63
+NCFMKG_09815	YLM1_RS01555	58	449	102.01511335012594	2.75e-155
+NCFMKG_09825	YLM1_RS01560	55	367	99.40828402366864	4.98e-125
+
+
+
+>>
+25. NZ_JMIY01000003
+Source: Candidatus Methanoperedens nitroreducens strain ANME-2d ANME2D_Contig_3.3, whole genome shotgun sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 735.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	ANME2D_RS07925	38	100	100.0	1.29e-25
+NCFMKG_09800	ANME2D_RS07930	37	182	101.0752688172043	5.9e-54
+NCFMKG_09810	ANME2D_RS07890	43	167	99.53917050691244	4.65e-50
+NCFMKG_09815	ANME2D_RS07895	40	286	103.27455919395464	3.52e-91
+
+
+
+>>
+26. NC_013790
+Source: Methanobrevibacter ruminantium M1, complete sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1364.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09800	MRU_RS03380	62	348	99.6415770609319	3.11e-119
+NCFMKG_09810	MRU_RS03390	55	203	98.15668202764977	3.79e-64
+NCFMKG_09815	MRU_RS03395	57	445	101.76322418136021	1.7e-153
+NCFMKG_09825	MRU_RS03400	55	368	99.40828402366864	2.47e-125
+
+
+
+>>
+27. NZ_CP009511
+Source: Methanosarcina mazei SarPi chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1012.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSMAP_RS19005	MSMAP_RS19005	3892095	3892547	+	universal_stress_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSMAP_RS16560	42	92	99.29078014184397	1.16e-22
+NCFMKG_09795	MSMAP_RS19005	36	89	97.87234042553192	2.15e-21
+NCFMKG_09795	MSMAP_RS16545	39	87	105.67375886524823	1.18e-20
+NCFMKG_09795	MSMAP_RS19010	35	78	96.45390070921985	6.2e-17
+NCFMKG_09795	MSMAP_RS16535	35	78	102.83687943262412	6.48e-17
+NCFMKG_09795	MSMAP_RS16540	32	75	100.70921985815602	9.37e-16
+NCFMKG_09795	MSMAP_RS16530	32	74	106.38297872340425	2.73e-15
+NCFMKG_09810	MSMAP_RS16525	39	146	100.0	7.45e-42
+NCFMKG_09815	MSMAP_RS16520	44	293	101.00755667506299	4.72e-94
+
+
+
+>>
+28. NZ_CP009509
+Source: Methanosarcina mazei WWM610 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1011.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSMAW_RS19200	MSMAW_RS19200	3997424	3997876	-	universal_stress_protein
+MSMAW_RS17165	MSMAW_RS17165	4004130	4005563	-	IS66-like_element_ISMma13_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSMAW_RS17115	42	92	99.29078014184397	1.16e-22
+NCFMKG_09795	MSMAW_RS19200	36	89	97.87234042553192	2.15e-21
+NCFMKG_09795	MSMAW_RS17130	38	86	105.67375886524823	3.32e-20
+NCFMKG_09795	MSMAW_RS19195	35	78	96.45390070921985	6.2e-17
+NCFMKG_09795	MSMAW_RS17140	35	78	102.83687943262412	6.48e-17
+NCFMKG_09795	MSMAW_RS17135	32	75	100.70921985815602	9.37e-16
+NCFMKG_09795	MSMAW_RS17145	32	74	106.38297872340425	2.73e-15
+NCFMKG_09810	MSMAW_RS17150	39	146	100.0	7.45e-42
+NCFMKG_09815	MSMAW_RS17155	44	293	101.00755667506299	4.72e-94
+
+
+
+>>
+29. NZ_CP009513
+Source: Methanosarcina mazei LYC chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1011.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSMAL_RS19735	MSMAL_RS19735	3979118	3979570	+	universal_stress_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSMAL_RS17125	42	92	99.29078014184397	1.16e-22
+NCFMKG_09795	MSMAL_RS19735	36	89	97.87234042553192	2.15e-21
+NCFMKG_09795	MSMAL_RS17110	38	86	105.67375886524823	6.62e-20
+NCFMKG_09795	MSMAL_RS19740	35	78	96.45390070921985	6.2e-17
+NCFMKG_09795	MSMAL_RS17100	35	78	102.83687943262412	6.48e-17
+NCFMKG_09795	MSMAL_RS17105	32	75	100.70921985815602	9.37e-16
+NCFMKG_09795	MSMAL_RS17095	32	74	106.38297872340425	2.73e-15
+NCFMKG_09810	MSMAL_RS17090	39	146	100.0	7.45e-42
+NCFMKG_09815	MSMAL_RS17085	44	293	101.00755667506299	4.72e-94
+
+
+
+>>
+30. NZ_CP009514
+Source: Methanosarcina mazei C16 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1011.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSMAC_RS17020	MSMAC_RS17020	3985668	3987101	+	IS66-like_element_ISMma13_family_transposase
+MSMAC_RS19675	MSMAC_RS19675	3993355	3993807	+	universal_stress_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSMAC_RS17070	42	92	99.29078014184397	1.16e-22
+NCFMKG_09795	MSMAC_RS19675	36	89	97.87234042553192	2.15e-21
+NCFMKG_09795	MSMAC_RS17055	38	86	105.67375886524823	3.32e-20
+NCFMKG_09795	MSMAC_RS19680	35	78	96.45390070921985	6.2e-17
+NCFMKG_09795	MSMAC_RS17045	35	78	102.83687943262412	6.48e-17
+NCFMKG_09795	MSMAC_RS17050	32	75	100.70921985815602	9.37e-16
+NCFMKG_09795	MSMAC_RS17040	32	74	106.38297872340425	2.73e-15
+NCFMKG_09810	MSMAC_RS17035	39	146	100.0	7.45e-42
+NCFMKG_09815	MSMAC_RS17030	44	293	101.00755667506299	4.72e-94
+
+
+
+>>
+31. NC_003901
+Source: Methanosarcina mazei Go1, complete sequence
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1011.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MM_RS19435	MM_RS19435	1734051	1734503	-	universal_stress_protein
+MM_RS17805	MM_RS17805	1749758	1750851	+	IS1_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MM_RS07495	41	92	99.29078014184397	1.64e-22
+NCFMKG_09795	MM_RS19435	36	89	97.87234042553192	2.15e-21
+NCFMKG_09795	MM_RS07510	38	86	105.67375886524823	6.62e-20
+NCFMKG_09795	MM_RS19430	35	78	96.45390070921985	6.2e-17
+NCFMKG_09795	MM_RS07520	35	78	102.83687943262412	6.48e-17
+NCFMKG_09795	MM_RS07515	32	75	100.70921985815602	9.37e-16
+NCFMKG_09795	MM_RS07525	32	74	106.38297872340425	2.73e-15
+NCFMKG_09810	MM_RS07530	39	146	100.0	7.45e-42
+NCFMKG_09815	MM_RS07535	44	293	101.00755667506299	4.72e-94
+
+
+
+>>
+32. NZ_CP042908
+Source: Methanosarcina mazei strain zm-15 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1005.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FQU78_RS17365	FQU78_RS17365	4105479	4106936	-	IS66_family_transposase
+FQU78_RS17380	FQU78_RS17380	4110589	4112022	+	IS66-like_element_ISMma13_family_transposase
+FQU78_RS18680	FQU78_RS18680	4118276	4118728	+	universal_stress_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	FQU78_RS17430	42	92	99.29078014184397	1.16e-22
+NCFMKG_09795	FQU78_RS18680	36	89	97.87234042553192	2.15e-21
+NCFMKG_09795	FQU78_RS17420	38	86	105.67375886524823	3.32e-20
+NCFMKG_09795	FQU78_RS17410	35	78	102.83687943262412	6.48e-17
+NCFMKG_09795	FQU78_RS17415	32	75	100.70921985815602	9.37e-16
+NCFMKG_09795	FQU78_RS17405	32	74	106.38297872340425	2.73e-15
+NCFMKG_09795	FQU78_RS18685	37	72	82.97872340425532	7.87e-15
+NCFMKG_09810	FQU78_RS17400	39	146	100.0	7.45e-42
+NCFMKG_09815	FQU78_RS17395	44	293	101.00755667506299	4.72e-94
+
+
+
+>>
+33. NZ_CP009512
+Source: Methanosarcina mazei S-6 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 856.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSMAS_RS18455	MSMAS_RS18455	3960789	3961882	-	IS1_family_transposase
+MSMAS_RS19645	MSMAS_RS19645	3976013	3976465	+	universal_stress_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSMAS_RS17095	41	92	99.29078014184397	1.64e-22
+NCFMKG_09795	MSMAS_RS19645	36	89	97.87234042553192	2.15e-21
+NCFMKG_09795	MSMAS_RS17080	38	84	105.67375886524823	1.86e-19
+NCFMKG_09795	MSMAS_RS19650	35	78	96.45390070921985	6.2e-17
+NCFMKG_09795	MSMAS_RS17075	32	74	106.38297872340425	2.73e-15
+NCFMKG_09810	MSMAS_RS17070	39	146	100.0	7.45e-42
+NCFMKG_09815	MSMAS_RS17065	44	293	101.00755667506299	4.72e-94
+
+
+
+>>
+34. NC_007681
+Source: Methanosphaera stadtmanae DSM 3091, complete sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 827.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09815	MSP_RS05725	49	358	98.48866498740554	1.32e-119
+NCFMKG_09820	MSP_RS05720	50	193	92.95774647887323	1.66e-60
+NCFMKG_09825	MSP_RS05715	43	276	98.22485207100591	3.26e-89
+
+
+
+>>
+35. NZ_CP014213
+Source: Methanosphaera sp. BMS chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 820.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09815	AW729_RS10140	51	378	98.48866498740554	1.45e-127
+NCFMKG_09820	AW729_RS10145	50	177	93.89671361502347	2.65e-54
+NCFMKG_09825	AW729_RS10150	42	265	98.81656804733728	5.45e-85
+
+
+
+>>
+36. NZ_CP029709
+Source: Methanosarcina mazei strain JL01 chromosome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 767.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DKM28_RS18635	DKM28_RS18635	3014097	3014564	+	universal_stress_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	DKM28_RS12640	44	94	99.29078014184397	4.1e-23
+NCFMKG_09795	DKM28_RS12625	35	81	102.83687943262412	4.14e-18
+NCFMKG_09795	DKM28_RS12620	33	76	106.38297872340425	6.96e-16
+NCFMKG_09795	DKM28_RS18635	34	75	98.58156028368793	8.2e-16
+NCFMKG_09810	DKM28_RS12615	40	147	100.0	2.96e-42
+NCFMKG_09815	DKM28_RS12610	44	294	101.00755667506299	3.34e-94
+
+
+
+>>
+37. NZ_AP019780
+Source: Methanosarcina mazei strain TMA chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 764.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MmazTMA_RS19390	MmazTMA_RS19390	3429335	3429802	+	universal_stress_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MmazTMA_RS14660	44	94	99.29078014184397	4.1e-23
+NCFMKG_09795	MmazTMA_RS14650	35	78	102.83687943262412	4.59e-17
+NCFMKG_09795	MmazTMA_RS14645	33	76	106.38297872340425	6.96e-16
+NCFMKG_09795	MmazTMA_RS19390	34	75	98.58156028368793	8.2e-16
+NCFMKG_09810	MmazTMA_RS14640	40	147	100.0	2.96e-42
+NCFMKG_09815	MmazTMA_RS14635	44	294	101.00755667506299	3.34e-94
+
+
+
+>>
+38. NZ_JJOY01000040
+Source: Methanosarcina sp. 2.H.T.1A.6 scaffold17_1_size91011-refined, whole genome shotgun sequence
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 702.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	EO98_RS11485	39	94	100.70921985815602	4.67e-23
+NCFMKG_09795	EO98_RS11495	44	92	99.29078014184397	2.31e-22
+NCFMKG_09795	EO98_RS11490	35	76	104.9645390070922	2.74e-16
+NCFMKG_09810	EO98_RS11470	40	145	100.0	1.99e-41
+NCFMKG_09815	EO98_RS11465	43	295	101.00755667506299	1.67e-94
+
+
+
+>>
+39. NZ_JJOV01000031
+Source: Methanosarcina sp. 2.H.A.1B.4 scaffold3_1_size185154-refined, whole genome shotgun sequence
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 696.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EO92_RS17520	EO92_RS17520	148208	149584	+	monomethylamine:corrinoid_methyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	EO92_RS04990	39	94	100.70921985815602	3.3e-23
+NCFMKG_09795	EO92_RS05000	44	93	99.29078014184397	5.79e-23
+NCFMKG_09795	EO92_RS04995	35	78	104.9645390070922	6.95e-17
+NCFMKG_09810	EO92_RS04975	43	139	77.88018433179722	7.06e-39
+NCFMKG_09815	EO92_RS04970	43	292	101.00755667506299	1.33e-93
+
+
+
+>>
+40. NC_020389
+Source: Methanosarcina mazei Tuc01, complete sequence
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 685.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MMTUC01_RS06920	MMTUC01_RS06920	1489847	1491209	-	pyrrolysine--tRNA(Pyl)_ligase
+MMTUC01_RS06945	MMTUC01_RS06945	1494917	1495345	-	universal_stress_protein
+MMTUC01_RS06990	MMTUC01_RS06990	1504843	1506795	+	heavy_metal_translocating_P-type_ATPase
+MMTUC01_RS06995	MMTUC01_RS06995	1506792	1506935	+	IS1_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MMTUC01_RS06945	44	94	99.29078014184397	3.88e-23
+NCFMKG_09795	MMTUC01_RS06955	35	77	102.12765957446808	1.26e-16
+NCFMKG_09795	MMTUC01_RS06960	33	76	106.38297872340425	6.96e-16
+NCFMKG_09810	MMTUC01_RS06965	40	147	100.0	2.96e-42
+NCFMKG_09815	MMTUC01_RS06970	43	291	101.00755667506299	5.31e-93
+
+
+
+>>
+41. NZ_CP009528
+Source: Methanosarcina barkeri MS chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 613.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSBRM_RS20950	MSBRM_RS20950	179725	179799	-	universal_stress_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSBRM_RS00885	36	83	99.29078014184397	7.34e-19
+NCFMKG_09795	MSBRM_RS00890	33	80	100.70921985815602	1.61e-17
+NCFMKG_09810	MSBRM_RS00910	41	151	100.0	1.24e-43
+NCFMKG_09815	MSBRM_RS00915	43	299	102.01511335012594	3.61e-96
+
+
+
+>>
+42. NZ_CP009505
+Source: Methanosarcina sp. MTP4 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 612.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSMTP_RS17010	39	87	104.9645390070922	1.18e-20
+NCFMKG_09795	MSMTP_RS17015	42	84	97.16312056737588	1.9e-19
+NCFMKG_09810	MSMTP_RS16995	41	149	100.0	8.84e-43
+NCFMKG_09815	MSMTP_RS16990	43	292	101.00755667506299	1.33e-93
+
+
+
+>>
+43. NZ_CP009530
+Source: Methanosarcina barkeri 227 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 612.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSBR2_RS11705	36	83	99.29078014184397	7.34e-19
+NCFMKG_09795	MSBR2_RS11700	34	79	100.70921985815602	3.2e-17
+NCFMKG_09810	MSBR2_RS11680	41	151	100.0	1.24e-43
+NCFMKG_09815	MSBR2_RS11675	43	299	102.01511335012594	3.61e-96
+
+
+
+>>
+44. NZ_CP009524
+Source: Methanosarcina sp. Kolksee chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 608.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSKOL_RS17625	38	81	102.12765957446808	8.11e-18
+NCFMKG_09795	MSKOL_RS17630	36	79	99.29078014184397	2.27e-17
+NCFMKG_09810	MSKOL_RS17610	40	147	100.92165898617512	2.79e-42
+NCFMKG_09815	MSKOL_RS17605	43	301	102.01511335012594	4.67e-97
+
+
+
+>>
+45. NZ_CP009520
+Source: Methanosarcina vacuolata Z-761 chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 604.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSVAZ_RS19845	MSVAZ_RS19845	4287833	4289488	-	IS1634_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSVAZ_RS17735	38	81	102.12765957446808	8.11e-18
+NCFMKG_09795	MSVAZ_RS17740	36	79	99.29078014184397	2.27e-17
+NCFMKG_09810	MSVAZ_RS17720	39	146	100.92165898617512	7.89e-42
+NCFMKG_09815	MSVAZ_RS17715	43	298	103.02267002518892	7.44e-96
+
+
+
+>>
+46. NZ_CP008746
+Source: Methanosarcina barkeri CM1 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 604.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MCM1_RS19670	MCM1_RS19670	3155400	3156409	+	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MCM1_RS12790	34	79	100.70921985815602	3.2e-17
+NCFMKG_09795	MCM1_RS12795	37	75	87.94326241134752	6.83e-16
+NCFMKG_09810	MCM1_RS12770	41	151	100.0	1.24e-43
+NCFMKG_09815	MCM1_RS12765	43	299	102.01511335012594	3.61e-96
+
+
+
+>>
+47. NZ_CP009501
+Source: Methanosarcina thermophila TM-1 chromosome, complete genome
+Type: thioamitides
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 603.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSTHT_RS10260	38	83	107.0921985815603	7.34e-19
+NCFMKG_09795	MSTHT_RS10255	35	77	102.12765957446808	2.5e-16
+NCFMKG_09810	MSTHT_RS10265	40	144	100.0	7.92e-41
+NCFMKG_09815	MSTHT_RS10270	43	299	101.00755667506299	2.63e-96
+
+
+
+>>
+48. NZ_CP009526
+Source: Methanosarcina barkeri str. Wiesmoor chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 600.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSBRW_RS20655	MSBRW_RS20655	199026	199139	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSBRW_RS00940	37	81	101.41843971631207	4.08e-18
+NCFMKG_09795	MSBRW_RS00935	31	74	104.25531914893618	3.92e-15
+NCFMKG_09810	MSBRW_RS00955	40	144	99.07834101382488	6.27e-41
+NCFMKG_09815	MSBRW_RS00960	42	301	102.01511335012594	3.3e-97
+
+
+
+>>
+49. NZ_CP009517
+Source: Methanosarcina barkeri 3 chromosome, complete genome
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 592.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MSBR3_RS20360	MSBR3_RS20360	3036709	3038085	+	monomethylamine:corrinoid_methyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MSBR3_RS12180	36	82	100.70921985815602	1.46e-18
+NCFMKG_09795	MSBR3_RS12185	31	70	96.45390070921985	8.23e-14
+NCFMKG_09810	MSBR3_RS12165	38	143	100.92165898617512	1.12e-40
+NCFMKG_09815	MSBR3_RS12160	42	297	102.01511335012594	1.49e-95
+
+
+
+>>
+50. NC_003552
+Source: Methanosarcina acetivorans C2A, complete sequence
+Type: thioamitides,thiopeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 537.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_09795	MA_RS00865	41	97	100.70921985815602	2.07e-24
+NCFMKG_09810	MA_RS00880	39	143	100.0	1.25e-40
+NCFMKG_09815	MA_RS00885	44	297	101.00755667506299	1.49e-95
+

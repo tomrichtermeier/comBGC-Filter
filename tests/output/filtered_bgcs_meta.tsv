@@ -1,0 +1,72 @@
+identifier	sample_id	contig_id	BGC_start	BGC_end	BGC_length	deepBGC	GECCO	antiSMASH	merged	Product_class	Tool_representative	BGC_probability	mmseqs_lineage_contig
+BAN001_NODE_1003_0	BAN001-megahit	NODE_1003_length_6326_cov_34.6	2053.0	5190.0	3137.0	Yes			1	Polyketide	deepBGC	0.82028	-_root
+BAN001_NODE_1005_0	BAN001-megahit	NODE_1005_length_6312_cov_37.1	125.0	5208.0	5083.0	Yes			1	Polyketide	deepBGC	0.84608	d_Bacteria
+BAN001_NODE_1007_0	BAN001-megahit	NODE_1007_length_6310_cov_34.8	1490.0	6136.0	4646.0	Yes			1	Unknown	deepBGC	0.62269	d_Bacteria
+BAN001_NODE_1008_0	BAN001-megahit	NODE_1008_length_6309_cov_36.9	286.0	6300.0	6014.0	Yes			1	Unknown	deepBGC	0.65431	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Steroidobacterales;f_Steroidobacteraceae;g_13-2-20CM-66-19;s_13-2-20CM-66-19 sp018240525
+BAN001_NODE_1012_0	BAN001-megahit	NODE_1012_length_6300_cov_35.8	1247.0	4731.0	3484.0		Yes		1	Unknown	GECCO	0.9976561170360492	d_Bacteria;p_SAR324;c_SAR324;o_SAR324;f_NAC60-12;g_Arctic96AD-7;s_Arctic96AD-7 sp002685535
+EMN001_NODE_33_0	EMN001-megahit	NODE_33_length_84048_cov_289.7	20353.0	37813.0	17460.0	Yes			1	Unknown	deepBGC	0.77838	d_Bacteria;p_Actinobacteriota;c_Actinomycetia
+EMN001_NODE_334_0	EMN001-megahit	NODE_334_length_20634_cov_34.3	559.0	5800.0	5241.0	Yes			1	RiPP	deepBGC	0.62212	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Propionibacteriaceae;g_Brooklawnia
+EMN001_NODE_3340_0	EMN001-megahit	NODE_3340_length_3916_cov_59.5	332.0	3679.0	3347.0	Yes			1	Unknown	deepBGC	0.60919	d_Bacteria;p_Actinobacteriota;c_Actinomycetia
+EMN001_NODE_3344_0	EMN001-megahit	NODE_3344_length_3915_cov_22.4	541.0	3628.0	3087.0	Yes			1	Unknown	deepBGC	0.67316	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Paludibacteraceae;g_F0058
+EMN001_NODE_3356_0	EMN001-megahit	NODE_3356_length_3906_cov_22.5	166.0	3868.0	3702.0	Yes			1	Unknown	deepBGC	0.81401	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Anaerolineales;f_Anaerolineaceae;g_Flexilinea;s_Flexilinea sp001717545
+EMN001_NODE_3454_0	EMN001-megahit	NODE_3454_length_3832_cov_48.2	94.0	3423.0	3329.0	Yes			1	Terpene	deepBGC	0.71017	d_Bacteria
+ERSX0002001_NODE_63_0	ERSX0002001-megahit	NODE_63_length_83692_cov_148.1	31740.0	35244.0	3504.0	Yes			1	Unknown	deepBGC	0.77737	
+ERSX0002001_NODE_6354_0	ERSX0002001-megahit	NODE_6354_length_5047_cov_75.4	363.0	5026.0	4663.0	Yes			1	Unknown	deepBGC	0.62428	
+ERSX0002001_NODE_6641_0	ERSX0002001-megahit	NODE_6641_length_4906_cov_63.2	601.0	3896.0	3295.0	Yes			1	RiPP	deepBGC	0.6411	
+ERSX0002001_NODE_892_0	ERSX0002001-megahit	NODE_892_length_18194_cov_74.9	4178.0	17740.0	13562.0	Yes			1	RiPP	deepBGC	0.83242	
+ERSX0002001_NODE_8949_0	ERSX0002001-megahit	NODE_8949_length_4065_cov_91.2	696.0	3841.0	3145.0	Yes			1	Unknown	deepBGC	0.66622	
+ERSX0002001_NODE_9020_0	ERSX0002001-megahit	NODE_9020_length_4047_cov_61.4	452.0	3621.0	3169.0	Yes			1	Unknown	deepBGC	0.76629	
+JAE012_NODE_1218_0	JAE012-metaspades	NODE_1218_length_9897_cov_4.359073	30.0	7155.0	7125.0	Yes			1	Polyketide	deepBGC	0.68605	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Prevotella;s_Prevotella loescheii
+JAE012_NODE_125_0	JAE012-metaspades	NODE_125_length_51055_cov_17.751980	21128.0	25189.0	4061.0	Yes			1	Polyketide	deepBGC	0.60342	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Cardiobacteriales;f_Cardiobacteriaceae;g_Cardiobacterium;s_Cardiobacterium hominis
+JAE012_NODE_1258_0	JAE012-metaspades	NODE_1258_length_9655_cov_17.632396	580.0	7384.0	6804.0	Yes			1	Polyketide	deepBGC	0.6784	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Micrococcaceae;g_Rothia;s_Rothia dentocariosa
+JAE012_NODE_126_0	JAE012-metaspades	NODE_126_length_51020_cov_6.991386	29789.0	50004.0	20217.0			Yes	1	RRE-containing	antiSMASH		d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Porphyromonadaceae;g_Porphyromonas;s_Porphyromonas sp905372525
+JAE012_NODE_127_0	JAE012-metaspades	NODE_127_length_50578_cov_4.476931	37634.0	45529.0	7895.0	Yes			1	RiPP	deepBGC	0.7035	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Propionibacteriaceae;g_Arachnia;s_Arachnia propionica
+JAE012_NODE_128_0	JAE012-metaspades	NODE_128_length_50441_cov_4.359941	62.0	5263.0	5201.0	Yes			1	RiPP	deepBGC	0.77259	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Propionibacteriaceae;g_Arachnia;s_Arachnia propionica
+JAE012_NODE_1288_0	JAE012-metaspades	NODE_1288_length_9496_cov_2.688910	863.0	4433.0	3570.0	Yes			1	Unknown	deepBGC	0.7018	d_Bacteria;p_Synergistota;c_Synergistia;o_Synergistales;f_Aminobacteriaceae;g_CAJPSE01;s_CAJPSE01 sp905373185
+JAE013_NODE_310_0	JAE013-metaspades	NODE_310_length_17507_cov_5.885285	149.0	17437.0	17288.0	Yes			1	Unknown	deepBGC	0.9397	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Micrococcaceae;g_Rothia;s_Rothia aeria
+JAE013_NODE_3122_0	JAE013-metaspades	NODE_3122_length_4294_cov_2.391838	15.0	4192.0	4177.0	Yes			1	Polyketide	deepBGC	0.83949	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces;s_Actinomyces sp002999235
+JAE015_NODE_1717_0	JAE015-metaspades	NODE_1717_length_7461_cov_4.429382	284.0	3714.0	3430.0	Yes			1	Unknown	deepBGC	0.62472	d_Bacteria;p_Desulfobacterota;c_Desulfobulbia;o_Desulfobulbales;f_Desulfobulbaceae;g_Desulfobulbus;s_Desulfobulbus oralis
+JAE015_NODE_172_0	JAE015-metaspades	NODE_172_length_33769_cov_45.345168	2737.0	8503.0	5766.0	Yes			1	RiPP	deepBGC	0.79432	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae;g_Phocaeicola;s_Phocaeicola abscessus
+JAE015_NODE_1729_0	JAE015-metaspades	NODE_1729_length_7420_cov_18.445078	23.0	3886.0	3863.0	Yes			1	Polyketide	deepBGC	0.68262	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_Tannerellaceae;g_Tannerella;s_Tannerella forsythia
+JAE015_NODE_1754_0	JAE015-metaspades	NODE_1754_length_7358_cov_3.180063	289.0	7164.0	6875.0	Yes			1	Unknown	deepBGC	0.93118	d_Bacteria;p_Firmicutes C;c_Negativicutes;o_Selenomonadales;f_Selenomonadaceae
+JAE015_NODE_1767_0	JAE015-metaspades	NODE_1767_length_7314_cov_12.353905	340.0	7243.0	6903.0	Yes			1	Unknown	deepBGC	0.87602	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Eubacteriales;f_Eubacteriaceae;g_Pseudoramibacter;s_Pseudoramibacter alactolyticus
+JAE015_NODE_1788_0	JAE015-metaspades	NODE_1788_length_7259_cov_3.009717	435.0	5411.0	4976.0	Yes			1	Polyketide	deepBGC	0.66107	d_Bacteria;p_Actinobacteriota;c_Actinomycetia
+JAE015_NODE_1852_0	JAE015-metaspades	NODE_1852_length_7093_cov_3.081131	66.0	4380.0	4314.0	Yes			1	Unknown	deepBGC	0.73263	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Propionibacteriaceae;g_Arachnia;s_Arachnia propionica
+KNP005_NODE_71_0	KNP005-megahit	NODE_71_length_78274_cov_210.0	431.0	20778.0	20349.0			Yes	1	RRE-containing	antiSMASH		d_Bacteria;p_Firmicutes A;c_Clostridia;o_Peptostreptococcales;f_Anaerovoracaceae;g_Hornefia;s_Hornefia minuta
+KNP005_NODE_7142_0	KNP005-megahit	NODE_7142_length_4534_cov_10.9	219.0	4423.0	4204.0	Yes			1	Unknown	deepBGC	0.68046	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Bacteroidales;f_UBA932;g_Cryptobacteroides
+KNP005_NODE_715_0	KNP005-megahit	NODE_715_length_25614_cov_18.1	14760.0	24848.0	10088.0	Yes			1	Unknown	deepBGC	0.68514	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Burkholderiales
+KNP005_NODE_7176_0	KNP005-megahit	NODE_7176_length_4521_cov_27.7	177.0	4504.0	4327.0	Yes			1	RiPP	deepBGC	0.65478	d_Bacteria
+KNP005_NODE_7177_0	KNP005-megahit	NODE_7177_length_4520_cov_30.7	750.0	3999.0	3249.0	Yes			1	Unknown	deepBGC	0.69176	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Oscillospirales;f_Butyricicoccaceae;g_Butyricicoccus;s_Butyricicoccus sp904420185
+KNP005_NODE_7182_0	KNP005-megahit	NODE_7182_length_4517_cov_27.3	237.0	4251.0	4014.0	Yes			1	Unknown	deepBGC	0.78272	d_Bacteria;p_Synergistota;c_Synergistia;o_Synergistales;f_Aminobacteriaceae;g_CAJPSE01;s_CAJPSE01 sp003860125
+KNP005_NODE_719_0	KNP005-megahit	NODE_719_length_25421_cov_48.8	3006.0	22895.0	19889.0	Yes			1	RiPP	deepBGC	0.68708	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Pauljensenia
+KNP005_NODE_7230_0	KNP005-megahit	NODE_7230_length_4493_cov_8.5	338.0	3958.0	3620.0	Yes			1	Unknown	deepBGC	0.72179	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Lachnospirales;f_Lachnospiraceae;g_Johnsonella;s_Johnsonella sp900766185
+KNP005_NODE_7268_0	KNP005-megahit	NODE_7268_length_4474_cov_81.7	30.0	3962.0	3932.0	Yes			1	Unknown	deepBGC	0.77431	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces
+KNP005_NODE_7375_0	KNP005-megahit	NODE_7375_length_4423_cov_18.3	205.0	4180.0	3975.0	Yes			1	RiPP	deepBGC	0.73306	d_Bacteria;p_Firmicutes A;c_Clostridia;o_Lachnospirales;f_Lachnospiraceae;g_Clostridium Q;s_Clostridium Q sp000435655
+KNP005_NODE_7384_0	KNP005-megahit	NODE_7384_length_4420_cov_69.9	438.0	4379.0	3941.0	Yes			1	RiPP	deepBGC	0.70486	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces
+KNP005_NODE_7409_0	KNP005-megahit	NODE_7409_length_4412_cov_12.0	316.0	3381.0	3065.0	Yes			1	Polyketide	deepBGC	0.75882	d_Bacteria;p_Bacteroidota;c_Bacteroidia
+KNP005_NODE_7427_0	KNP005-megahit	NODE_7427_length_4404_cov_14.1	213.0	3446.0	3233.0	Yes			1	Polyketide	deepBGC	0.64062	d_Bacteria;p_Actinobacteriota;c_Coriobacteriia;o_Coriobacteriales;f_Atopobiaceae;g_Olsenella;s_Olsenella uli
+KNP005_NODE_7470_0	KNP005-megahit	NODE_7470_length_4381_cov_80.2	356.0	4279.0	3923.0	Yes			1	RiPP	deepBGC	0.61849	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces
+KNP005_NODE_8114_0	KNP005-megahit	NODE_8114_length_4065_cov_19.0	158.0	3713.0	3555.0	Yes			1	Unknown	deepBGC	0.93938	d_Bacteria
+KNP005_NODE_812_0	KNP005-megahit	NODE_812_length_23520_cov_44.1	3343.0	15514.0	12173.0			Yes	1	RiPP	antiSMASH		d_Bacteria;p_Actinobacteriota;c_Coriobacteriia;o_Coriobacteriales;f_Eggerthellaceae
+KNP005_NODE_8185_0	KNP005-megahit	NODE_8185_length_4034_cov_21.0	359.0	3792.0	3433.0	Yes			1	RiPP	deepBGC	0.6182	d_Bacteria;p_Spirochaetota;c_Spirochaetia;o_Treponematales;f_Treponemataceae;g_Treponema D
+OAK005_NODE_10_0	OAK005-megahit	NODE_10_length_23139_cov_221.5	554.0	11380.0	10826.0	Yes			1	RiPP	deepBGC	0.71836	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces
+OME009_NODE_828_0	OME009-megahit	NODE_828_length_4047_cov_17.3	97.0	3954.0	3857.0	Yes			1	RiPP	deepBGC	0.92479	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Propionibacteriaceae;g_Arachnia;s_Arachnia sp905372155
+OME009_NODE_835_0	OME009-megahit	NODE_835_length_4030_cov_73.7	58.0	3748.0	3690.0	Yes			1	Unknown	deepBGC	0.71307	d_Bacteria;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Streptococcaceae;g_Streptococcus;s_Streptococcus oricebi
+OME009_NODE_982_0	OME009-megahit	NODE_982_length_3600_cov_16.0	34.0	3114.0	3080.0	Yes			1	Unknown	deepBGC	0.75618	d_Bacteria;p_Bacteroidota;c_Bacteroidia;o_Flavobacteriales;f_Weeksellaceae;g_Moheibacter
+RIG001_NODE_1963_0	RIG001-megahit	NODE_1963_length_4722_cov_197.0	868.0	4661.0	3793.0	Yes			1	Unknown	deepBGC	0.66708	d_Bacteria;p_Actinobacteriota;c_Actinomycetia
+RIG001_NODE_1985_0	RIG001-megahit	NODE_1985_length_4685_cov_204.0	319.0	4526.0	4207.0	Yes			1	Unknown	deepBGC	0.70034	d_Bacteria;p_Actinobacteriota;c_Actinomycetia
+RIG001_NODE_203_0	RIG001-megahit	NODE_203_length_14862_cov_116.4	3816.0	14585.0	10769.0	Yes			1	Other	deepBGC	0.7145	d_Bacteria;p_Firmicutes A;c_Clostridia
+RIG001_NODE_2065_0	RIG001-megahit	NODE_2065_length_4571_cov_173.5	1163.0	4501.0	3338.0	Yes			1	Unknown	deepBGC	0.7914	d_Bacteria
+RIG001_NODE_2087_0	RIG001-megahit	NODE_2087_length_4546_cov_59.0	294.0	4141.0	3847.0	Yes			1	Unknown	deepBGC	0.85305	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Anaerolineales
+RIG001_NODE_2097_0	RIG001-megahit	NODE_2097_length_4534_cov_45.6	141.0	3879.0	3738.0	Yes			1	Unknown	deepBGC	0.63056	d_Bacteria;p_Chloroflexota;c_Anaerolineae;o_Anaerolineales;f_Anaerolineaceae;g_Flexilinea;s_Flexilinea sp001717545
+RIG001_NODE_2123_0	RIG001-megahit	NODE_2123_length_4491_cov_64.0	390.0	4472.0	4082.0	Yes			1	Polyketide	deepBGC	0.91607	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Propionibacteriaceae;g_Brooklawnia;s_Brooklawnia sp000413315
+RIG001_NODE_217_0	RIG001-megahit	NODE_217_length_14430_cov_64.5	8125.0	14359.0	6234.0	Yes			1	Unknown	deepBGC	0.63274	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Propionibacteriaceae;g_Brooklawnia;s_Brooklawnia sp000413315
+RIG001_NODE_2184_0	RIG001-megahit	NODE_2184_length_4427_cov_115.4	68.0	4208.0	4140.0	Yes			1	Unknown	deepBGC	0.65266	
+VLC002_NODE_544_0	VLC002-metaspades	NODE_544_length_7116_cov_7.468631	481.0	5524.0	5043.0	Yes			1	Unknown	deepBGC	0.96012	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces
+VLC002_NODE_547_0	VLC002-metaspades	NODE_547_length_7113_cov_12.421366	425.0	5563.0	5138.0	Yes			1	Unknown	deepBGC	0.72602	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces;s_Actinomyces sp002999235
+VLC002_NODE_566_0	VLC002-metaspades	NODE_566_length_7005_cov_7.112374	1122.0	5750.0	4628.0	Yes			1	Unknown	deepBGC	0.60719	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces
+VLC002_NODE_589_0	VLC002-metaspades	NODE_589_length_6885_cov_13.644363	255.0	6807.0	6552.0	Yes			1	RiPP	deepBGC	0.71491	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces
+VLC002_NODE_62_0	VLC002-metaspades	NODE_62_length_31465_cov_16.819357	4892.0	7917.0	3025.0	Yes			1	RiPP	deepBGC	0.70029	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Propionibacteriales;f_Propionibacteriaceae;g_Arachnia;s_Arachnia propionica
+VLC002_NODE_653_0	VLC002-metaspades	NODE_653_length_6549_cov_13.785186	1993.0	6284.0	4291.0	Yes			1	Unknown	deepBGC	0.66466	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces
+VLC002_NODE_655_0	VLC002-metaspades	NODE_655_length_6540_cov_7.470316	2909.0	6429.0	3520.0	Yes			1	Polyketide	deepBGC	0.62943	d_Bacteria;p_Actinobacteriota;c_Actinomycetia;o_Actinomycetales;f_Actinomycetaceae;g_Actinomyces
+VLC002_NODE_663_0	VLC002-metaspades	NODE_663_length_6490_cov_75.919969	5.0	6434.0	6429.0	Yes			1	RiPP	deepBGC	0.92595	d_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Burkholderiales

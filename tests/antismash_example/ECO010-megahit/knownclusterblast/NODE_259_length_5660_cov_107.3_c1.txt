@@ -1,0 +1,16 @@
+ClusterBlast scores for NODE_259_length_5660_cov_107.3
+
+Table of genes, locations, strands and annotations of query cluster:
+NCFMKG_09795	24	450	+	hypothetical protein	
+NCFMKG_09800	490	1330	+	hypothetical protein	
+NCFMKG_09805	1342	1804	+	hypothetical protein	
+NCFMKG_09810	1991	2645	-	hypothetical protein	
+NCFMKG_09815	2649	3843	-	hypothetical protein	
+NCFMKG_09820	3847	4489	-	hypothetical protein	
+NCFMKG_09825	4538	5555	+	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

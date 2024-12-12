@@ -1,0 +1,418 @@
+LOCUS       NODE_106_length_7571_cov_86.5 7571 bp    DNA     linear   UNK 04-APR-2024
+DEFINITION  NODE_106_length_7571_cov_86.5, whole genome shotgun sequence.
+ACCESSION   NODE_106_length_7571_cov_86
+VERSION     NODE_106_length_7571_cov_86.5
+KEYWORDS    .
+SOURCE      None
+  ORGANISM  .
+            .
+COMMENT     Annotated with Bakta
+            Software: v1.9.3
+            Database: v5.1, full
+            DOI: 10.1099/mgen.0.000685
+            URL: github.com/oschwengers/bakta
+            ##Genome Annotation Summary:##
+            Annotation Date                :: 04/04/2024, 22:18:48
+            CDSs                           ::     8
+            tRNAs                          ::     0
+            tmRNAs                         ::     0
+            rRNAs                          ::     0
+            ncRNAs                         ::     0
+            regulatory ncRNAs              ::     0
+            CRISPR Arrays                  ::     0
+            oriCs/oriVs                    ::     0
+            oriTs                          ::     0
+            gaps                           ::     0
+            pseudogenes                    ::     0
+            ##antiSMASH-Data-START##
+            Version      :: 7.1.0
+            Run date     :: 2024-04-16 18:38:18
+            NOTE: This is a single region extracted from a larger record!
+            Orig. start  :: 0
+            Orig. end    :: 7571
+            ##antiSMASH-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..7571
+                     /mol_type="genomic DNA"
+     protocluster    1..7571
+                     /aStool="rule-based-clusters"
+                     /category="other"
+                     /contig_edge="True"
+                     /core_location="[912:7062]"
+                     /cutoff="20000"
+                     /detection_rule="(phosphonates and minimum(1,
+                     [2-Hacid_dh_C, Aldedh, Aminotran_1_2, Aminotran_5, AurF,
+                     CTP_transf_like, DUF4992, Fe-ADH, HMGL-like, Metallophos_2,
+                     NTP_transf_3, NTP_transf_5, PALP, PEP_mutase, TPP_enzyme_C,
+                     TPP_enzyme_N, phosphonates]) and not (phosphonatesHydrolase
+                     or phosphonatesMeIsocitrateLyase))"
+                     /neighbourhood="5000"
+                     /product="phosphonate"
+                     /protocluster_number="1"
+                     /tool="antismash"
+     proto_core      913..7062
+                     /aStool="rule-based-clusters"
+                     /tool="antismash"
+                     /cutoff="20000"
+                     /detection_rule="(phosphonates and minimum(1,
+                     [2-Hacid_dh_C, Aldedh, Aminotran_1_2, Aminotran_5, AurF,
+                     CTP_transf_like, DUF4992, Fe-ADH, HMGL-like, Metallophos_2,
+                     NTP_transf_3, NTP_transf_5, PALP, PEP_mutase, TPP_enzyme_C,
+                     TPP_enzyme_N, phosphonates]) and not (phosphonatesHydrolase
+                     or phosphonatesMeIsocitrateLyase))"
+                     /neighbourhood="5000"
+                     /product="phosphonate"
+                     /protocluster_number="1"
+     cand_cluster    1..7571
+                     /candidate_cluster_number="1"
+                     /contig_edge="True"
+                     /detection_rules="(phosphonates and minimum(1,
+                     [2-Hacid_dh_C, Aldedh, Aminotran_1_2, Aminotran_5, AurF,
+                     CTP_transf_like, DUF4992, Fe-ADH, HMGL-like, Metallophos_2,
+                     NTP_transf_3, NTP_transf_5, PALP, PEP_mutase, TPP_enzyme_C,
+                     TPP_enzyme_N, phosphonates]) and not (phosphonatesHydrolase
+                     or phosphonatesMeIsocitrateLyase))"
+                     /kind="single"
+                     /product="phosphonate"
+                     /protoclusters="1"
+                     /tool="antismash"
+     region          1..7571
+                     /candidate_cluster_numbers="1"
+                     /contig_edge="True"
+                     /product="phosphonate"
+                     /region_number="1"
+                     /rules="(phosphonates and minimum(1, [2-Hacid_dh_C, Aldedh,
+                     Aminotran_1_2, Aminotran_5, AurF, CTP_transf_like, DUF4992,
+                     Fe-ADH, HMGL-like, Metallophos_2, NTP_transf_3,
+                     NTP_transf_5, PALP, PEP_mutase, TPP_enzyme_C, TPP_enzyme_N,
+                     phosphonates]) and not (phosphonatesHydrolase or
+                     phosphonatesMeIsocitrateLyase))"
+                     /tool="antismash"
+     gene            complement(62..904)
+                     /locus_tag="NCFMKG_05070"
+     CDS             complement(62..904)
+                     /codon_start=1
+                     /db_xref="PFAM:PF04991.17"
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /locus_tag="NCFMKG_05070"
+                     /product="hypothetical protein"
+                     /protein_id="gnl_Bakta_NCFMKG_05070"
+                     /transl_table=11
+                     /translation="MKYTEYDNKTLKHLQNLELMILKDFIKFCEKNNLTYYIYAGSLLG
+                     AVRHNGFIPWDDDLDVVMFRKDYEKFKKIFLSTPNDKYELLTNETSEDYFHLLSKLMLK
+                     NTLFEEEWVNQVEFHVGINIDIFVLDDLANGKFKRFYQLKKSFLYNKLLIMSKIKLEDL
+                     PFLTKVITHFGYYILNLFKIKPKTINRRCLNFLKKYQDDNCKCVFDISATSDEYPQIYY
+                     KKDFNQIIKLKFENIEVNAPKNYDSILESLYGNYMDLPPKEKRYNHITEHLDFGEYVK"
+     gene            complement(913..2031)
+                     /locus_tag="NCFMKG_05075"
+     CDS             complement(913..2031)
+                     /codon_start=1
+                     /db_xref="PFAM:PF02775.25"
+                     /db_xref="PFAM:PF02776.22"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     phosphonate: TPP_enzyme_C"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     phosphonate: TPP_enzyme_N"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1055:pyruvate oxidase/decarboxylase (Score: 61.4;
+                     E-value: 1.2e-18)"
+                     /gene_kind="biosynthetic"
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /locus_tag="NCFMKG_05075"
+                     /product="hypothetical protein"
+                     /protein_id="gnl_Bakta_NCFMKG_05075"
+                     /sec_met_domain="TPP_enzyme_N (E-value: 1.3e-15, bitscore:
+                     46.5, seeds: 75, tool: rule-based-clusters)"
+                     /sec_met_domain="TPP_enzyme_C (E-value: 5.9e-22, bitscore:
+                     67.2, seeds: 323, tool: rule-based-clusters)"
+                     /transl_table=11
+                     /translation="MKVEDFVDVLACEFYTGVPDSQLKALCDYLMNTYGIDEKHHIIAA
+                     NEGNCTALAAGYHLATGKIPVIYLQNSGEGNIINPVASLLNDNVYAIPAIFIIGWRGQP
+                     EIHDEPQHIYQGEITCKLLDLMDIDNFTIDKDTTIDEIENTMNEYNNVLKNGKQVAFVI
+                     KKDALYYDGEIKYQNDNGMIREEIIEHIIKITEDNPIISTTGKTSRELFEIRERNNQSH
+                     QNDFLTVGSMGHTSSIALGVAINKPNEKVWCIDGDGSLLMHMGAVAVVGNMHPNNLVHI
+                     VINNEAHETVGGMPTVANNINLVDIAKACGYSYAASVDNFKELDDELNKVKSSNNLSFI
+                     EIKSSIGAREDLGRPTTTAIENKENFMDFLNK"
+     gene            complement(2043..3224)
+                     /locus_tag="NCFMKG_05080"
+     CDS             complement(2043..3224)
+                     /codon_start=1
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_S3M9T8"
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:UniRef:UniRef50_S3M9T8"
+                     /locus_tag="NCFMKG_05080"
+                     /product="Saccharopine dehydrogenase NADP binding
+                     domain-containing protein"
+                     /protein_id="gnl_Bakta_NCFMKG_05080"
+                     /transl_table=11
+                     /translation="MKSLDERLKIVEENVNNNEITIMIIGLGSVGTYLLDFLVGKNDSA
+                     IKLVVIGRNAEKMQSDVNIVRVASLIREVNKSQIEIEGNVDLNDIKSIEKVISKHNPDF
+                     IVNSSRAYAGIKYGSISWHNVRAYGIWTPLSIKFTKNIMEACDNVDTNAIVINTSYSDA
+                     VIPWIKSAGKAYPDFGSGNLNHLIPRMKFAVADILGVDDFWNLDFNFAAAHFHDVCISK
+                     EGQTEGIELPLKIYYNGEEQNIPHNDIYKMCSISMPVDQKRNMMNASSNYRIISAIIDA
+                     IRTGEDQKVFTPGVFGHIGGYPVIIGYKDDNISAWIDESVFSFDEMDKANRESLALDGI
+                     EDIKDGSLYYTDDLISKVDNVFKVDLPKEVKYEDIEKTANFLIDEIITPQLNK"
+     gene            complement(3226..4005)
+                     /locus_tag="NCFMKG_05085"
+     CDS             complement(3226..4005)
+                     /codon_start=1
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_C8PP47"
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:UniRef:UniRef50_C8PP47"
+                     /locus_tag="NCFMKG_05085"
+                     /product="DUF6564 domain-containing protein"
+                     /protein_id="gnl_Bakta_NCFMKG_05085"
+                     /transl_table=11
+                     /translation="MDCLKIAIITVAGISSRFNKDISEENKVLKCLYWEDNPKFTLLYQ
+                     LIEKVSDYDKIIIVGGFKFDDLVSYISQNIPKDFKDKILLFMNNHYDDLKSGYSLYIGI
+                     KEALTNFENINEILFVEGDLDVDNESFLNIVKSNKNVLTFNHEVIYSNKAVVLYQNDNN
+                     EYNYLFNSDHGNLTINEPFKAIFNSGQIWKFQDMDLLKIANDYFKKYLIEDTNLGIIQK
+                     YLDLVENNEEIELIGLRRWVNCNTREDYKLIKKYWRE"
+     gene            complement(4006..5007)
+                     /locus_tag="NCFMKG_05090"
+     CDS             complement(4006..5007)
+                     /NRPS_PKS="Domain: NAD_binding_4 (87-238). E-value:
+                     5.5e-09. Score: 27.3. Matches aSDomain:
+                     nrpspksdomains_NCFMKG_05090_NAD_binding_4.1"
+                     /codon_start=1
+                     /db_xref="PFAM:PF16363.9"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) Polysacc_synt_2"
+                     /gene_functions="biosynthetic-additional
+                     (rule-based-clusters) RmlD_sub_bind"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1010:NAD-dependent epimerase/dehydratase (Score:
+                     133.2; E-value: 2.2e-40)"
+                     /gene_kind="biosynthetic-additional"
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /locus_tag="NCFMKG_05090"
+                     /product="hypothetical protein"
+                     /protein_id="gnl_Bakta_NCFMKG_05090"
+                     /sec_met_domain="Polysacc_synt_2 (E-value: 2.7e-13,
+                     bitscore: 38.7, seeds: 77, tool: rule-based-clusters)"
+                     /sec_met_domain="RmlD_sub_bind (E-value: 3e-09, bitscore:
+                     25.4, seeds: 37, tool: rule-based-clusters)"
+                     /transl_table=11
+                     /translation="MKILYVISGVTGMTGNELVRQLLNQNQDKVKIIGFDNFYASSIDT
+                     VKDCLGHSGFTFFEYDLNNKEEMKSIELLVSKSKNEFDEIIYINCAAVVHTEHFYNVYE
+                     TYETNVVGMNDFLSQAIRVGADKYINCSTSEIYSMNSWNECGGVKESDYITMADAEHSQ
+                     RTSYATGKLLTEFFMKDAVENGKIKGCSIRFANVYSKDEKYPKHIIPHIINSFKNEGKV
+                     ILLENSKKNCRTFLNNYDSCSAILELAKTDSALDGSIYNVATDEEISIIDLTNLIAEKM
+                     GIGHPVIKFKGYRKSDPERRLLSTDKIKTRTDWNPIIDLDNGLNECIENYTR"
+     aSDomain        complement(4294..4746)
+                     /aSDomain="NAD_binding_4"
+                     /aSTool="nrps_pks_domains"
+                     /database="nrpspksdomains.hmm"
+                     /detection="hmmscan"
+                     /domain_id="nrpspksdomains_NCFMKG_05090_NAD_binding_4.1"
+                     /evalue="5.50E-09"
+                     /label="NCFMKG_05090_NAD_binding_4.1"
+                     /locus_tag="NCFMKG_05090"
+                     /protein_end="238"
+                     /protein_start="87"
+                     /score="27.3"
+                     /tool="antismash"
+                     /translation="INCAAVVHTEHFYNVYETYETNVVGMNDFLSQAIRVGADKYINCS
+                     TSEIYSMNSWNECGGVKESDYITMADAEHSQRTSYATGKLLTEFFMKDAVENGKIKGCS
+                     IRFANVYSKDEKYPKHIIPHIINSFKNEGKVILLENSKKNCRTFLNN"
+     gene            complement(5020..5745)
+                     /locus_tag="NCFMKG_05095"
+     CDS             complement(5020..5745)
+                     /codon_start=1
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_A0A1W2BT27"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     phosphonate: Metallophos_2"
+                     /gene_kind="biosynthetic"
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA
+                     sequence:UniRef:UniRef50_A0A1W2BT27"
+                     /locus_tag="NCFMKG_05095"
+                     /product="putative phosphodiesterase"
+                     /protein_id="gnl_Bakta_NCFMKG_05095"
+                     /sec_met_domain="Metallophos_2 (E-value: 4e-28, bitscore:
+                     87.6, seeds: 57, tool: rule-based-clusters)"
+                     /transl_table=11
+                     /translation="MSKYAILSDIHGNLFALKEVINNFNDIDFIILLGDLIDYGMQSNE
+                     VVEYIKDNLSSMIICNIWGNHEKAILTENFNQFSSKRGVDSAKYTASRLSDETRDYLNN
+                     ELIHEGKYEFEITGKNVLAIHGSLIDSYWKAIFPDNLNGNYMNYDIVLSGHSHYPHVFQ
+                     KFYEVDNPEMRDKKAVLFINPGSVGQPRNHNPNACYAVLDTDSMSIELKSVKYPKEKAM
+                     NLYDGSIDDFYRKRLYNGI"
+     gene            complement(5755..7062)
+                     /locus_tag="NCFMKG_05100"
+     CDS             complement(5755..7062)
+                     /codon_start=1
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_P96074"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     phosphonate: CTP_transf_like"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     phosphonate: phosphonates"
+                     /gene_functions="biosynthetic (rule-based-clusters)
+                     phosphonate: PEP_mutase"
+                     /gene_functions="biosynthetic-additional (smcogs)
+                     SMCOG1231:carboxyvinyl-carboxyphosphonate (Score: 202.5;
+                     E-value: 1.4e-61)"
+                     /gene_kind="biosynthetic"
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:UniRef:UniRef50_P96074"
+                     /locus_tag="NCFMKG_05100"
+                     /product="Fosfomycin biosynthesis bifunctional protein
+                     Fom1"
+                     /protein_id="gnl_Bakta_NCFMKG_05100"
+                     /sec_met_domain="CTP_transf_like (E-value: 3.3e-14,
+                     bitscore: 42.4, seeds: 65, tool: rule-based-clusters)"
+                     /sec_met_domain="phosphonates (E-value: 7.8e-118, bitscore:
+                     381.8, seeds: 8, tool: rule-based-clusters)"
+                     /sec_met_domain="PEP_mutase (E-value: 3.8e-66, bitscore:
+                     212.1, seeds: 69, tool: rule-based-clusters)"
+                     /transl_table=11
+                     /translation="MKSNNPIVYTCFCTDVIHDGHLNLINEANKYGDVVVGVLCDSEMV
+                     KYNRFPLKSTGERVELVKSIPNVKQVIIQDDIMYDNVVKELRPNYIIHGDNWVEDSMKV
+                     IKKNILTVLNEYGGELIEVPYTFSSEVQKTDRQMREKLAMPELRRARLRQLLKMVPVVK
+                     TIEVHSGLTGLIAEKTVIAEENHIDQFEAMWISSLCDSTEKGKPDIELVDMTSRFRTIN
+                     DIMEVTTKPIIFDGDTGGIAEHFVYTVRSLERMGVSAVIIEDKIGLKKNSLFGTEVEQT
+                     QDDIEHFCEKIAAGKNAQLSEDFMIIARIESLILEKGMDDALKRAFAFRYAGADGIMIH
+                     SRKKEPDEILEFCDKFRARDKETPIIVVPSSYNSITEDELISHGVNIVIYANQLLRAAF
+                     PAMQNAAKSILKHHRAHEIDEELLSIKDIITLIDEL"
+     gene            7180..7293
+                     /locus_tag="NCFMKG_05105"
+     CDS             7180..7293
+                     /codon_start=1
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /locus_tag="NCFMKG_05105"
+                     /product="hypothetical protein"
+                     /protein_id="gnl_Bakta_NCFMKG_05105"
+                     /transl_table=11
+                     /translation="MNFKIIAIISVYNNGKTLENADSRFFDKDFFIKYIIK"
+ORIGIN
+        1 atttattata taaaaagatt ttcattaaat attaaaaaca gtaataaaat gtgtcattta
+       61 cttatttaac atattcccca aaatctaaat gttcagtaat atgattatat cttttttcct
+      121 taggaggcaa atccatataa tttccatata aactttccaa tatactatca tagtttttag
+      181 gagcatttac ttcaatattc tcaaatttaa gtttaattat ttgattaaaa tcttttttat
+      241 agtaaatttg aggatattcg tcagaagtgg ctgaaatatc aaatacacat ttacaattat
+      301 catcttgata tttttttaaa aaatttaaac atcttctgtt aatagtttta ggttttattt
+      361 tgaatagatt aagaatgtaa tatccaaaat gagtaattac ttttgttaaa aaaggtaaat
+      421 cctctaattt aattttagac atgattaata atttattata aagaaatgat ttttttagtt
+      481 gataaaatct tttaaattta ccattagcca aatcatctaa aacaaaaata tcaatattaa
+      541 ttccaacatg aaattcaact tgattaaccc attcctcctc aaaaagagta tttttaagca
+      601 ttaattttga aagcaaatga aaataatctt cagatgtttc attagttaat aattcatatt
+      661 tatcatttgg tgtagaaaga aaaatctttt tgaatttttc ataatccttt ctaaacatta
+      721 ccacatccaa atcatcatcc catggaataa aaccattatg tctaactgct cctaaaagcg
+      781 agcctgcata aatataataa gttaaattat ttttttcaca aaatttgata aaatctttta
+      841 aaatcattaa ctctaaattt tgcaaatgtt ttaaagtttt attatcatat tctgtgtatt
+      901 tcaattaacc acctacttat ttaaaaagtc catgaaattt tctttatttt caattgcagt
+      961 tgttgttggt cttccaaggt cttctcttgc accaattgaa gattttattt caatgaacga
+     1021 aagattatta gaagatttaa ctttattaag ttcatcatct aactctttaa aattatcaac
+     1081 tgatgcagca tatgaatatc cacatgcttt tgcaatatca actagattga tattatttgc
+     1141 tacagtcggc attcctccaa cagtttcatg agcttcatta ttaataacaa tatgaaccaa
+     1201 attattagga tgcatatttc caacaactgc aacggctccc atgtgcatta aaagagatcc
+     1261 atcaccatca atacaccaaa ctttttcatt aggtttattt atagctactc ctaaagcaat
+     1321 agaagaagta tgtcccattg aaccaacagt taaaaaatca ttttggtgag attgattatt
+     1381 tctttcccgt atttcgaata attccctact agtcttacca gtagttgaaa taattggatt
+     1441 atcctcagtt attttgataa tatgttcaat aatttcctct ctaatcatac cattatcatt
+     1501 ttgatatttt atttcaccat cataatataa agcatctttt ttaattacaa atgcaacttg
+     1561 tttaccattt ttaagaacat tattatattc attcatagta ttttcaattt catcaattgt
+     1621 tgtgtcttta tctattgtga aattatcaat atccattaaa tcaagtaatt tacaagtaat
+     1681 ctcgccttgg taaatgtgtt gaggttcatc atgaatctct ggttgtcctc tccaacctat
+     1741 tataaaaata gccggaattg catatacatt atcatttaaa agtgatgcta caggattaat
+     1801 aatattgcct tcaccactat tttgtagata tataactgga attttaccag ttgctagatg
+     1861 atatcctgca gcaagtgcag tacaattacc ctcatttgcg gcaataatat ggtgtttttc
+     1921 atcaatccca taagtattca ttaaataatc acataatgct ttaagttgtg aatctggaac
+     1981 gcccgtataa aattcacaag ctaaaacatc aacaaaatct tcaactttca tgtatttgcc
+     2041 ttttatttat ttaattgtgg agtgataatt tcatctatta agaaattagc tgttttttca
+     2101 atatcctcat atttaacttc ctttggaaga tccactttaa atacattatc cactttagaa
+     2161 attaagtcat cagtataata tagagaacca tctttaatat cttctatacc atctaaagct
+     2221 agagattcac ggtttgcttt atccatttca tcaaaactaa atactgattc atcaatccaa
+     2281 gcagatatat tatcatcttt atatcctatg attacaggat atcctccaat atgtccaaat
+     2341 actcctggag taaacacttt ctggtcctca ccagtgcgta ttgcatcaat tatcgctgat
+     2401 ataatgcgat aattactaga tgcattcatc atatttcttt tttgatcaac aggcatgctt
+     2461 atagaacaca tcttatagat atcattatga ggaatgtttt gttcttcacc attataataa
+     2521 attttaagag gtaactctat accttcagtt tggccttctt tacttatgca aacatcatga
+     2581 aaatgtgctg ctgcaaaatt aaagtccaaa ttccagaaat catcaactcc taaaatatct
+     2641 gctacagcaa atttcattct tggaattaaa tgatttaaat taccacttcc aaagtcagga
+     2701 tatgctttac ctgcactttt aatccatgga ataaccgcat cagaataaga agtgttaata
+     2761 acaattgcat tagtatctac attgtcacaa gcttccatta tatttttggt gaatttaata
+     2821 gataatggag tccaaatacc atatgctctt acattatgcc atgatatact tccatattta
+     2881 attcccgcat atgctctact tgagttaaca atgaaatctg gattatgttt agaaatcact
+     2941 ttttcaattg attttatatc atttaaatcc acattacctt caatttcaat ttgtgatttg
+     3001 ttaacttcac gtattaagct tgcaactcta acaatgttaa catcagattg cattttttca
+     3061 gcatttcttc caatgacgac taattttatt gcagaatcat ttttacctac taaaaaatct
+     3121 aataaatagg ttccgacact tcctaaacct attatcatga ttgttatttc attattattt
+     3181 acattttctt caactatttt taatctttca tctaatgatt tcatattatt ccctccagta
+     3241 tttttttatt aatttataat cttccctagt attacaattt acccaacgtc ttaatccaat
+     3301 tagttcaatt tcctcattat tttcaactaa atccaaatat ttttgaatta tacctaaatt
+     3361 agtgtcttca attaaatatt ttttaaaata atcatttgct atttttagca aatccatatc
+     3421 ttggaatttc catatttgac ctgaattaaa aattgcttta aatggttcat ttatagttaa
+     3481 atttccatga tcactattaa ataagtaatt atattcatta ttatcatttt gatataaaac
+     3541 tactgcttta tttgagtaaa ttacttcatg attaaatgtt aaaacatttt tatttgactt
+     3601 tacaatattc aaaaaggatt cattatcaac atctaagtct ccttcaacaa atagaatctc
+     3661 attaatattt tcaaaattag ttaaagcctc tttaattcca atatataagc tataacctga
+     3721 ttttaaatca tcataatgat tattcataaa taataaaatt ttatctttaa aatctttggg
+     3781 aatattttga gaaatataac tcactaaatc atcaaattta aatcccccta caattatgat
+     3841 tttatcataa tctgagactt tttcaattaa ttgataaagt aaagtaaatt taggattatc
+     3901 ttcccaatac aaacatttta gaactttatt ttcctctgaa atatctttat taaaacgact
+     3961 agaaattcca gcaacagtta taatagctat tttcaaacaa tccacctatc tagtataatt
+     4021 ttcaatacat tcatttaaac cattatctaa atcaatgatt ggattccaat cagttcttgt
+     4081 tttaatttta tctgtagata acaatcttct ttctggatca gatttacgat aacctttaaa
+     4141 tttaataact ggatggccaa tacccatttt ttctgcaatt aaattagtta gatcaattat
+     4201 agatatttct tcgtcggttg caacattata tattgaacca tctaatgcag aatcggtttt
+     4261 tgctaactcc aatatagcac tacaactatc ataattattt aaaaatgttc tacaattctt
+     4321 tttagaattt tcaagtaata taacctttcc ttcattttta aagctattaa taatatgtgg
+     4381 aataatatgt tttggatatt tttcatcttt actgtaaaca tttgcaaaac gaatagaaca
+     4441 tccttttatt ttaccattct ctactgcatc tttcatgaaa aattctgtta ataattttcc
+     4501 agttgcataa cttgttcttt gactatgttc cgcatcagcc atagtaatat aatccgattc
+     4561 tttaactccc ccacattcat tccaggagtt catggaatat atttctgaag tggaacaatt
+     4621 aatgtattta tctgcaccta cacggattgc ttggcttaaa aagtcattca ttccaacaac
+     4681 atttgtctca taggtttcat aaacattgta aaagtgttct gtatgaacta ctgccgcaca
+     4741 atttatataa attatttcat caaattcatt ttttgatttt gaaactaata attcaataga
+     4801 tttcatttcc tctttattat ttaagtcata ttcaaaaaat gtaaatccgc tatgacctaa
+     4861 acagtcttta actgtatcaa ttgaagatgc atagaaatta tcaaaaccaa ttatttttac
+     4921 tttatcttga ttttgattta aaagttggcg aaccaactca tttccagtca ttccagttac
+     4981 cccactaata acatataaaa ttttcattgt tgtttcctct taaatcccat tatataatct
+     5041 ttttctgtaa aaatcatcaa tacttccatc atataaattc atagcttttt cttttggata
+     5101 cttaactgat tttaattcaa tactcattga atctgtgtct aaaactgcat aacaagcatt
+     5161 aggattatgg tttctaggtt ggcctacaga acctggatta ataaacaaaa ctgctttttt
+     5221 atctctcatt tcaggattgt ccacttcata aaacttttga aatacatgtg gataatgtga
+     5281 atgtcccgac aatacaatgt cataattcat ataatttcca ttaagattat ctggaaaaat
+     5341 tgccttccaa taactatcaa ttaatgaccc atgaattgcc aatacatttt ttccagtaat
+     5401 ttcaaattca tatttgcctt catgaattaa ttcattattt aaataatctc tggtttcatc
+     5461 agaaagtcgt gacgcagtat attttgctga atctactcct cttttggatg aaaactgatt
+     5521 aaaattctca gttaaaattg ctttttcatg atttccccaa atattacaaa tgatcattga
+     5581 agatagatta tctttaatat actctacaac ttcattagat tgcattccat aatctattaa
+     5641 atctcctaaa agaataataa aatcaatatc attaaaatta ttaattactt cttttaaggc
+     5701 gaatagattt ccatgaatat ctgataaaat tgcatatttt gacatgtaat cacattataa
+     5761 ttcatcaatt aaggttataa tatctttaat ggaaagtaat tcttcatcaa tttcatgtgc
+     5821 tctgtgatgt tttaaaatac ttttcgcagc attttgcatt gcaggaaaag cagctcttaa
+     5881 taactgatta gcataaataa caatattaac tccatgagaa attaattcgt cttcagttat
+     5941 ggaattatat gatgaaggaa caacgataat tggagtttct ttatctctag ccctaaattt
+     6001 atcacagaat tctaatattt cgtcaggttc tttttttcta ctatgaatca ttattccatc
+     6061 agcaccagca tatctaaatg caaatgctct tttaagcgca tcatccatac ctttctcaag
+     6121 aataagactc tcaattcttg caataatcat gaaatcctca gataactgag catttttacc
+     6181 tgcagcaatt ttttcacaga aatgctcaat atcatcctga gtttgctcga cttcggttcc
+     6241 aaacagcgaa tttttcttta aacctatttt atcttcaatg ataactgctg aaacgcccat
+     6301 tcgctcaagt gatcttacag tgtagacaaa atgttctgca atacctccag tatctccatc
+     6361 aaaaattatt ggtttagttg taacttccat aatatcatta attgttctaa atctagaagt
+     6421 catatcaact aattcaatat cgggttttcc tttttctgta ctatcacata aactagatat
+     6481 ccacattgct tcaaattggt caatatgatt ttcctcagca ataacagttt tttcagcaat
+     6541 taaaccagtt aaaccactat gaacttcaat agttttaaca acaggaacca tttttaataa
+     6601 ttgtcttaat cttgctcttc taagttcagg catggccaat ttttctctca tttgcctatc
+     6661 ggttttttga acttcactgc taaaagtgta tggaacttca attaattctc cgccatattc
+     6721 attaaggacc gttaagatat ttttcttaat tactttcatt gaatcttcga cccaattatc
+     6781 cccatgaata atataatttg gacgaagttc tttcactaca ttatcataca ttatgtcatc
+     6841 ttgaattata acttgtttta catttggaat tgatttaact aattccacac gttcaccagt
+     6901 agattttaat ggaaatctat tatatttgac catttcagaa tcacataaaa caccaactac
+     6961 aacatcacca tatttattag cttcattaat tagatttaag tgaccatcat ggattacatc
+     7021 agtacaaaaa caagtataaa caattggatt attagatttc atagaaatta cctttataca
+     7081 gatatatatg aaaaaaagaa atatttaaaa atttccaaga taaatattat aactaacaaa
+     7141 atttaactaa aaaaatattt agaaacatta tgtgtaacta tgaattttaa aataattgca
+     7201 ataatctcag tttataataa tggaaaaact ttagaaaatg cagattccag attctttgat
+     7261 aaagatttct ttataaaata tattatcaag taaacaaatt acaatttgct aaaaacttat
+     7321 gtttataggt attatgctct tttcattgca aaattttatt taatccattt aataagatta
+     7381 ttcaaataat atattatcaa acactaatgt taacaagtaa taggacatga atccaaaaat
+     7441 gcttaataat tatcaactaa acttataaaa atgataacag atagtcaagg agagaaaata
+     7501 tgtttaaatc aaaaaggtat gatgatgaaa cattaaaaca tcttcaagaa gttcagataa
+     7561 tgatttttaa a
+//

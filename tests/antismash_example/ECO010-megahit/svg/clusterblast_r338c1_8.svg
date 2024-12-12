@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="376,40 377,35 376,30 376,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11715&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 53 - 212" locus_tag="NCFMKG_11715" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="377,40 382,40 387,35 382,30 377,30 377,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 208 - 1858" locus_tag="NCFMKG_11720" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="387,40 398,40 403,35 398,30 387,30 387,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11725&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1847 - 4475" locus_tag="NCFMKG_11725" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+</g>
+<g label="NZ_CP076538" description="NZ_CP076538 (4614489-4742589): Amycolatopsis aidingensis strain YIM 96748 chr... (2% of genes show similarity), NRPS,NRPS-like,T1PKS,arylpolyene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP076538&amp;start=4614489&amp;end=4742589" target="_blank">NZ_CP076538 (4614489-4742589)</a>: Amycolatopsis aidingensis strain YIM 96748 chr... (2% of genes show similarity), NRPS,NRPS-like,T1PKS,arylpolyene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 4,85 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21625&lt;/b&gt;&lt;br&gt;GntR family transcriptional regulator&lt;br&gt;Location: 4742455 - 4741790" locus_tag="KOI47_RS21625" class="clusterblast-orf" id="dummy-1_h1_8_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="4,85 9,80 11,80 11,90 9,90 4,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21620&lt;/b&gt;&lt;br&gt;ATP-grasp peptide maturase system methyltransferase&lt;br&gt;Location: 4741701 - 4740535" locus_tag="KOI47_RS21620" class="clusterblast-orf" id="dummy-1_h1_8_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="11,85 16,80 17,80 17,90 16,90 11,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21615&lt;/b&gt;&lt;br&gt;ATP-grasp ribosomal peptide maturase&lt;br&gt;Location: 4740538 - 4739585" locus_tag="KOI47_RS21615" class="clusterblast-orf" id="dummy-1_h1_8_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="17,85 19,80 19,90 17,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21610&lt;/b&gt;&lt;br&gt;putative ATP-grasp-modified RiPP&lt;br&gt;Location: 4739585 - 4739289" locus_tag="KOI47_RS21610" class="clusterblast-orf" id="dummy-1_h1_8_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="20,85 21,80 21,90 20,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS35795&lt;/b&gt;&lt;br&gt;helix-turn-helix domain-containing protein&lt;br&gt;Location: 4739141 - 4738923" locus_tag="KOI47_RS35795" class="clusterblast-orf" id="dummy-1_h1_8_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="23,85 25,80 25,90 23,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21605&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4738697 - 4738311" locus_tag="KOI47_RS21605" class="clusterblast-orf" id="dummy-1_h1_8_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="25,85 27,80 27,90 25,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21600&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4738329 - 4738060" locus_tag="KOI47_RS21600" class="clusterblast-orf" id="dummy-1_h1_8_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="26,85 29,80 29,90 26,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21595&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4738063 - 4737719" locus_tag="KOI47_RS21595" class="clusterblast-orf" id="dummy-1_h1_8_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="31,90 31,90 36,85 31,80 31,80 31,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21590&lt;/b&gt;&lt;br&gt;DUF5753 domain-containing protein&lt;br&gt;Location: 4737323 - 4736487" locus_tag="KOI47_RS21590" class="clusterblast-orf" id="dummy-1_h1_8_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="36,90 38,85 36,80 36,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21585&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 4736465 - 4736259" locus_tag="KOI47_RS21585" class="clusterblast-orf" id="dummy-1_h1_8_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="38,85 43,80 46,80 46,90 43,90 38,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21580&lt;/b&gt;&lt;br&gt;lipase family protein&lt;br&gt;Location: 4736146 - 4734962" locus_tag="KOI47_RS21580" class="clusterblast-orf" id="dummy-1_h1_8_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="46,85 51,80 53,80 53,90 51,90 46,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21575&lt;/b&gt;&lt;br&gt;PucR family transcriptional regulator&lt;br&gt;Location: 4734965 - 4733778" locus_tag="KOI47_RS21575" class="clusterblast-orf" id="dummy-1_h1_8_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="54,85 59,80 68,80 68,90 59,90 54,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21570&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 4733602 - 4731278" locus_tag="KOI47_RS21570" class="clusterblast-orf" id="dummy-1_h1_8_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="70,90 71,90 76,85 71,80 70,80 70,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21565&lt;/b&gt;&lt;br&gt;lysozyme&lt;br&gt;Location: 4730922 - 4730050" locus_tag="KOI47_RS21565" class="clusterblast-orf" id="dummy-1_h1_8_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="76,90 78,90 83,85 78,80 76,80 76,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21560&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4729967 - 4728810" locus_tag="KOI47_RS21560" class="clusterblast-orf" id="dummy-1_h1_8_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="85,85 87,80 87,90 85,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21555&lt;/b&gt;&lt;br&gt;LysR family transcriptional regulator&lt;br&gt;Location: 4728548 - 4728198" locus_tag="KOI47_RS21555" class="clusterblast-orf" id="dummy-1_h1_8_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="89,85 94,80 95,80 95,90 94,90 89,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21550&lt;/b&gt;&lt;br&gt;ketoacyl-ACP synthase III&lt;br&gt;Location: 4727813 - 4726839" locus_tag="KOI47_RS21550" class="clusterblast-orf" id="dummy-1_h1_8_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="97,90 97,90 102,85 97,80 97,80 97,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21545&lt;/b&gt;&lt;br&gt;alpha/beta fold hydrolase&lt;br&gt;Location: 4726542 - 4725751" locus_tag="KOI47_RS21545" class="clusterblast-orf" id="dummy-1_h1_8_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="102,90 105,90 110,85 105,80 102,80 102,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21540&lt;/b&gt;&lt;br&gt;lipase&lt;br&gt;Location: 4725693 - 4724452" locus_tag="KOI47_RS21540" class="clusterblast-orf" id="dummy-1_h1_8_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="110,90 115,90 120,85 115,80 110,80 110,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21535&lt;/b&gt;&lt;br&gt;glycosyltransferase family 39 protein&lt;br&gt;Location: 4724422 - 4722920" locus_tag="KOI47_RS21535" class="clusterblast-orf" id="dummy-1_h1_8_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="122,90 170,90 175,85 170,80 122,80 122,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21530&lt;/b&gt;&lt;br&gt;type I polyketide synthase&lt;br&gt;Location: 4722589 - 4713926" locus_tag="KOI47_RS21530" class="clusterblast-orf" id="dummy-1_h1_8_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="175,90 190,90 195,85 190,80 175,80 175,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21525&lt;/b&gt;&lt;br&gt;type I polyketide synthase&lt;br&gt;Location: 4713929 - 4710654" locus_tag="KOI47_RS21525" class="clusterblast-orf" id="dummy-1_h1_8_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="195,90 210,90 215,85 210,80 195,80 195,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21520&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4710657 - 4707328" locus_tag="KOI47_RS21520" class="clusterblast-orf" id="dummy-1_h1_8_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="215,90 246,90 251,85 246,80 215,80 215,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21515&lt;/b&gt;&lt;br&gt;type I polyketide synthase&lt;br&gt;Location: 4707316 - 4701590" locus_tag="KOI47_RS21515" class="clusterblast-orf" id="dummy-1_h1_8_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="251,90 303,90 308,85 303,80 251,80 251,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21510&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4701589 - 4692302&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11720&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 74&lt;br&gt;BLAST bit score: 144&lt;br&gt;E-value: 7.87e-34" locus_tag="KOI47_RS21510" class="clusterblast-orf" id="dummy-1_h1_8_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="308,90 312,85 308,80 308,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21505&lt;/b&gt;&lt;br&gt;3-oxoacyl-[acyl-carrier-protein] reductase&lt;br&gt;Location: 4692271 - 4691537" locus_tag="KOI47_RS21505" class="clusterblast-orf" id="dummy-1_h1_8_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="314,90 317,85 314,80 314,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21500&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4691292 - 4690837" locus_tag="KOI47_RS21500" class="clusterblast-orf" id="dummy-1_h1_8_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="317,85 322,80 324,80 324,90 322,90 317,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21495&lt;/b&gt;&lt;br&gt;DUF222 domain-containing protein&lt;br&gt;Location: 4690712 - 4689714" locus_tag="KOI47_RS21495" class="clusterblast-orf" id="dummy-1_h1_8_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="325,90 325,90 330,85 325,80 325,80 325,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21490&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 4689404 - 4688649" locus_tag="KOI47_RS21490" class="clusterblast-orf" id="dummy-1_h1_8_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="331,90 331,90 336,85 331,80 331,80 331,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21485&lt;/b&gt;&lt;br&gt;LysR family transcriptional regulator&lt;br&gt;Location: 4688510 - 4687632" locus_tag="KOI47_RS21485" class="clusterblast-orf" id="dummy-1_h1_8_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="336,85 341,80 342,80 342,90 341,90 336,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21480&lt;/b&gt;&lt;br&gt;beta-ketoacyl synthase N-terminal-like domain-containing protein&lt;br&gt;Location: 4687635 - 4686748" locus_tag="KOI47_RS21480" class="clusterblast-orf" id="dummy-1_h1_8_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="342,85 347,80 348,80 348,90 347,90 342,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21475&lt;/b&gt;&lt;br&gt;beta-ketoacyl synthase N-terminal-like domain-containing protein&lt;br&gt;Location: 4686751 - 4685657" locus_tag="KOI47_RS21475" class="clusterblast-orf" id="dummy-1_h1_8_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="350,90 351,90 356,85 351,80 350,80 350,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21470&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4685471 - 4684461" locus_tag="KOI47_RS21470" class="clusterblast-orf" id="dummy-1_h1_8_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="357,90 358,85 357,80 357,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21465&lt;/b&gt;&lt;br&gt;acyl carrier protein&lt;br&gt;Location: 4684327 - 4684076" locus_tag="KOI47_RS21465" class="clusterblast-orf" id="dummy-1_h1_8_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="358,90 361,85 358,80 358,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21460&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4684079 - 4683648" locus_tag="KOI47_RS21460" class="clusterblast-orf" id="dummy-1_h1_8_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="361,90 363,85 361,80 361,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21455&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4683651 - 4683316" locus_tag="KOI47_RS21455" class="clusterblast-orf" id="dummy-1_h1_8_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="363,90 365,85 363,80 363,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21450&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4683316 - 4682909" locus_tag="KOI47_RS21450" class="clusterblast-orf" id="dummy-1_h1_8_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="365,90 368,85 365,80 365,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21445&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4682906 - 4682517" locus_tag="KOI47_RS21445" class="clusterblast-orf" id="dummy-1_h1_8_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="368,90 371,85 368,80 368,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21440&lt;/b&gt;&lt;br&gt;beta-hydroxyacyl-ACP dehydratase&lt;br&gt;Location: 4682520 - 4682050" locus_tag="KOI47_RS21440" class="clusterblast-orf" id="dummy-1_h1_8_38"  />
+</g>
+<g id="a1_0039"  >
+<polygon points="371,90 374,85 371,80 371,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21435&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4682053 - 4681472" locus_tag="KOI47_RS21435" class="clusterblast-orf" id="dummy-1_h1_8_39"  />
+</g>
+<g id="a1_0040"  >
+<polygon points="374,90 376,85 374,80 374,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21430&lt;/b&gt;&lt;br&gt;beta-hydroxyacyl-ACP dehydratase&lt;br&gt;Location: 4681550 - 4681098" locus_tag="KOI47_RS21430" class="clusterblast-orf" id="dummy-1_h1_8_40"  />
+</g>
+<g id="a1_0041"  >
+<polygon points="377,90 379,90 384,85 379,80 377,80 377,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21425&lt;/b&gt;&lt;br&gt;beta-ketoacyl-[acyl-carrier-protein] synthase family protein&lt;br&gt;Location: 4681020 - 4679812" locus_tag="KOI47_RS21425" class="clusterblast-orf" id="dummy-1_h1_8_41"  />
+</g>
+<g id="a1_0042"  >
+<polygon points="384,90 387,90 392,85 387,80 384,80 384,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21420&lt;/b&gt;&lt;br&gt;beta-ketoacyl synthase N-terminal-like domain-containing protein&lt;br&gt;Location: 4679819 - 4678653" locus_tag="KOI47_RS21420" class="clusterblast-orf" id="dummy-1_h1_8_42"  />
+</g>
+<g id="a1_0043"  >
+<polygon points="391,90 393,90 398,85 393,80 391,80 391,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21415&lt;/b&gt;&lt;br&gt;beta-ketoacyl synthase N-terminal-like domain-containing protein&lt;br&gt;Location: 4678675 - 4677536" locus_tag="KOI47_RS21415" class="clusterblast-orf" id="dummy-1_h1_8_43"  />
+</g>
+<g id="a1_0044"  >
+<polygon points="398,90 402,85 398,80 398,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21410&lt;/b&gt;&lt;br&gt;DsbA family protein&lt;br&gt;Location: 4677539 - 4676913" locus_tag="KOI47_RS21410" class="clusterblast-orf" id="dummy-1_h1_8_44"  />
+</g>
+<g id="a1_0045"  >
+<polygon points="402,90 403,85 402,80 402,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21405&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4676879 - 4676739" locus_tag="KOI47_RS21405" class="clusterblast-orf" id="dummy-1_h1_8_45"  />
+</g>
+<g id="a1_0046"  >
+<polygon points="404,90 408,85 404,80 404,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21400&lt;/b&gt;&lt;br&gt;3-oxoacyl-[acyl-carrier-protein] reductase&lt;br&gt;Location: 4676698 - 4675958" locus_tag="KOI47_RS21400" class="clusterblast-orf" id="dummy-1_h1_8_46"  />
+</g>
+<g id="a1_0047"  >
+<polygon points="409,90 411,85 409,80 409,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21395&lt;/b&gt;&lt;br&gt;acyl carrier protein&lt;br&gt;Location: 4675767 - 4675507" locus_tag="KOI47_RS21395" class="clusterblast-orf" id="dummy-1_h1_8_47"  />
+</g>
+<g id="a1_0048"  >
+<polygon points="411,90 413,90 418,85 413,80 411,80 411,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21390&lt;/b&gt;&lt;br&gt;beta-ketoacyl-[acyl-carrier-protein] synthase family protein&lt;br&gt;Location: 4675487 - 4674279" locus_tag="KOI47_RS21390" class="clusterblast-orf" id="dummy-1_h1_8_48"  />
+</g>
+<g id="a1_0049"  >
+<polygon points="418,90 420,90 425,85 420,80 418,80 418,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21385&lt;/b&gt;&lt;br&gt;beta-ketoacyl synthase N-terminal-like domain-containing protein&lt;br&gt;Location: 4674282 - 4673125" locus_tag="KOI47_RS21385" class="clusterblast-orf" id="dummy-1_h1_8_49"  />
+</g>
+<g id="a1_0050"  >
+<polygon points="425,90 425,90 430,85 425,80 425,80 425,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21380&lt;/b&gt;&lt;br&gt;beta-ketoacyl synthase N-terminal-like domain-containing protein&lt;br&gt;Location: 4673128 - 4672310" locus_tag="KOI47_RS21380" class="clusterblast-orf" id="dummy-1_h1_8_50"  />
+</g>
+<g id="a1_0051"  >
+<polygon points="432,90 437,90 442,85 437,80 432,80 432,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS35790&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 4672134 - 4670380" locus_tag="KOI47_RS35790" class="clusterblast-orf" id="dummy-1_h1_8_51"  />
+</g>
+<g id="a1_0052"  >
+<polygon points="442,90 484,90 489,85 484,80 442,80 442,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21370&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4670378 - 4662750" locus_tag="KOI47_RS21370" class="clusterblast-orf" id="dummy-1_h1_8_52"  />
+</g>
+<g id="a1_0053"  >
+<polygon points="489,90 552,90 557,85 552,80 489,80 489,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21365&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4662753 - 4651777" locus_tag="KOI47_RS21365" class="clusterblast-orf" id="dummy-1_h1_8_53"  />
+</g>
+<g id="a1_0054"  >
+<polygon points="557,90 607,90 612,85 607,80 557,80 557,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21360&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4651777 - 4642730" locus_tag="KOI47_RS21360" class="clusterblast-orf" id="dummy-1_h1_8_54"  />
+</g>
+<g id="a1_0055"  >
+<polygon points="612,90 614,85 612,80 612,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21355&lt;/b&gt;&lt;br&gt;MbtH family protein&lt;br&gt;Location: 4642730 - 4642521" locus_tag="KOI47_RS21355" class="clusterblast-orf" id="dummy-1_h1_8_55"  />
+</g>
+<g id="a1_0056"  >
+<polygon points="614,90 616,90 621,85 616,80 614,80 614,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21350&lt;/b&gt;&lt;br&gt;cytochrome P450&lt;br&gt;Location: 4642458 - 4641235" locus_tag="KOI47_RS21350" class="clusterblast-orf" id="dummy-1_h1_8_56"  />
+</g>
+<g id="a1_0057"  >
+<polygon points="622,90 624,90 629,85 624,80 622,80 622,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21345&lt;/b&gt;&lt;br&gt;cytochrome P450&lt;br&gt;Location: 4641190 - 4639979" locus_tag="KOI47_RS21345" class="clusterblast-orf" id="dummy-1_h1_8_57"  />
+</g>
+<g id="a1_0058"  >
+<polygon points="629,90 630,85 629,80 629,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21340&lt;/b&gt;&lt;br&gt;ferredoxin&lt;br&gt;Location: 4639957 - 4639760" locus_tag="KOI47_RS21340" class="clusterblast-orf" id="dummy-1_h1_8_58"  />
+</g>
+<g id="a1_0059"  >
+<polygon points="630,90 632,90 637,85 632,80 630,80 630,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21335&lt;/b&gt;&lt;br&gt;TauD/TfdA family dioxygenase&lt;br&gt;Location: 4639757 - 4638747" locus_tag="KOI47_RS21335" class="clusterblast-orf" id="dummy-1_h1_8_59"  />
+</g>
+<g id="a1_0060"  >
+<polygon points="637,90 638,90 643,85 638,80 637,80 637,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21330&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 4638733 - 4637756" locus_tag="KOI47_RS21330" class="clusterblast-orf" id="dummy-1_h1_8_60"  />
+</g>
+<g id="a1_0061"  >
+<polygon points="643,90 643,90 648,85 643,80 643,80 643,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21325&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4637710 - 4636868" locus_tag="KOI47_RS21325" class="clusterblast-orf" id="dummy-1_h1_8_61"  />
+</g>
+<g id="a1_0062"  >
+<polygon points="648,90 658,90 663,85 658,80 648,80 648,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21320&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4636853 - 4634490&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11725&lt;/b&gt;&lt;br&gt;Percentage identity: 32&lt;br&gt;Percentage coverage: 53&lt;br&gt;BLAST bit score: 237&lt;br&gt;E-value: 2.6e-64" locus_tag="KOI47_RS21320" class="clusterblast-orf" id="dummy-1_h1_8_62"  />
+</g>
+<g id="a1_0063"  >
+<polygon points="664,90 665,90 670,85 665,80 664,80 664,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21315&lt;/b&gt;&lt;br&gt;2,3-diaminopropionate biosynthesis protein SbnA&lt;br&gt;Location: 4634304 - 4633316" locus_tag="KOI47_RS21315" class="clusterblast-orf" id="dummy-1_h1_8_63"  />
+</g>
+<g id="a1_0064"  >
+<polygon points="670,90 673,90 678,85 673,80 670,80 670,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21310&lt;/b&gt;&lt;br&gt;cytochrome P450&lt;br&gt;Location: 4633250 - 4632039" locus_tag="KOI47_RS21310" class="clusterblast-orf" id="dummy-1_h1_8_64"  />
+</g>
+<g id="a1_0065"  >
+<polygon points="678,90 679,90 684,85 679,80 678,80 678,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21305&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4632042 - 4630990" locus_tag="KOI47_RS21305" class="clusterblast-orf" id="dummy-1_h1_8_65"  />
+</g>
+<g id="a1_0066"  >
+<polygon points="685,90 687,90 692,85 687,80 685,80 685,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21300&lt;/b&gt;&lt;br&gt;cytochrome P450&lt;br&gt;Location: 4630890 - 4629727" locus_tag="KOI47_RS21300" class="clusterblast-orf" id="dummy-1_h1_8_66"  />
+</g>
+<g id="a1_0067"  >
+<polygon points="692,85 697,80 699,80 699,90 697,90 692,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21295&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 4629682 - 4628654" locus_tag="KOI47_RS21295" class="clusterblast-orf" id="dummy-1_h1_8_67"  />
+</g>
+<g id="a1_0068"  >
+<polygon points="702,90 704,90 709,85 704,80 702,80 702,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21290&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4628067 - 4627015" locus_tag="KOI47_RS21290" class="clusterblast-orf" id="dummy-1_h1_8_68"  />
+</g>
+<g id="a1_0069"  >
+<polygon points="710,90 712,90 717,85 712,80 710,80 710,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21285&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4626864 - 4625725" locus_tag="KOI47_RS21285" class="clusterblast-orf" id="dummy-1_h1_8_69"  />
+</g>
+<g id="a1_0070"  >
+<polygon points="717,85 721,80 721,90 717,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21280&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 4625758 - 4625105" locus_tag="KOI47_RS21280" class="clusterblast-orf" id="dummy-1_h1_8_70"  />
+</g>
+<g id="a1_0071"  >
+<polygon points="721,85 726,80 726,80 726,90 726,90 721,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21275&lt;/b&gt;&lt;br&gt;carboxymuconolactone decarboxylase family protein&lt;br&gt;Location: 4624983 - 4624159" locus_tag="KOI47_RS21275" class="clusterblast-orf" id="dummy-1_h1_8_71"  />
+</g>
+<g id="a1_0072"  >
+<polygon points="727,90 738,90 743,85 738,80 727,80 727,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21270&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4624015 - 4621403" locus_tag="KOI47_RS21270" class="clusterblast-orf" id="dummy-1_h1_8_72"  />
+</g>
+<g id="a1_0073"  >
+<polygon points="743,85 748,80 757,80 757,90 748,90 743,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21265&lt;/b&gt;&lt;br&gt;XRE family transcriptional regulator&lt;br&gt;Location: 4621379 - 4619154" locus_tag="KOI47_RS21265" class="clusterblast-orf" id="dummy-1_h1_8_73"  />
+</g>
+<g id="a1_0074"  >
+<polygon points="758,90 759,85 758,80 758,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21260&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4619028 - 4618786" locus_tag="KOI47_RS21260" class="clusterblast-orf" id="dummy-1_h1_8_74"  />
+</g>
+<g id="a1_0075"  >
+<polygon points="761,90 764,90 769,85 764,80 761,80 761,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21255&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 4618539 - 4617145" locus_tag="KOI47_RS21255" class="clusterblast-orf" id="dummy-1_h1_8_75"  />
+</g>
+<g id="a1_0076"  >
+<polygon points="769,90 772,90 777,85 772,80 769,80 769,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21250&lt;/b&gt;&lt;br&gt;FAD-dependent monooxygenase&lt;br&gt;Location: 4617148 - 4615937" locus_tag="KOI47_RS21250" class="clusterblast-orf" id="dummy-1_h1_8_76"  />
+</g>
+<g id="a1_0077"  >
+<polygon points="778,90 780,85 778,80 778,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;KOI47_RS21245&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4615819 - 4615505" locus_tag="KOI47_RS21245" class="clusterblast-orf" id="dummy-1_h1_8_77"  />
+</g>
+</svg>

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="170,35 175,30 192,30 192,40 175,40 170,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00290&lt;/b&gt;&lt;br&gt;UPF0340 protein BH3766&lt;br&gt;Location: 7089 - 7653" locus_tag="NCFMKG_00290" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="205,40 250,40 255,35 250,30 205,30 205,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00295&lt;/b&gt;&lt;br&gt;Bifunctional O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase&lt;br&gt;Location: 7995 - 9279" locus_tag="NCFMKG_00295" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="257,40 288,40 293,35 288,30 257,30 257,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00300&lt;/b&gt;&lt;br&gt;Homoserine O-acetyltransferase&lt;br&gt;Location: 9325 - 10261" locus_tag="NCFMKG_00300" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="296,35 301,30 306,30 306,40 301,40 296,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00305&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 10333 - 10591" locus_tag="NCFMKG_00305" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="306,35 311,30 349,30 349,40 311,40 306,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00310&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 10590 - 11685" locus_tag="NCFMKG_00310" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="357,40 380,40 385,35 380,30 357,30 357,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00315&lt;/b&gt;&lt;br&gt;ATP-dependent dethiobiotin synthetase BioD&lt;br&gt;Location: 11885 - 12596" locus_tag="NCFMKG_00315" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="386,40 433,40 438,35 433,30 386,30 386,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00320&lt;/b&gt;&lt;br&gt;Adenosylmethionine-8-amino-7-oxononanoate aminotransferase&lt;br&gt;Location: 12620 - 13970" locus_tag="NCFMKG_00320" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="443,35 448,30 492,30 492,40 448,40 443,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00325&lt;/b&gt;&lt;br&gt;UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2&lt;br&gt;Location: 14096 - 15341" locus_tag="NCFMKG_00325" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+<polygon points="499,35 504,30 554,30 554,40 504,40 499,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00330&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 15527 - 16931" locus_tag="NCFMKG_00330" class="clusterblast-orf" id="dummy-1_q8_0_all"  />
+<polygon points="554,35 559,30 610,30 610,40 559,40 554,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_00335&lt;/b&gt;&lt;br&gt;Radical SAM core domain-containing protein&lt;br&gt;Location: 16927 - 18367" locus_tag="NCFMKG_00335" class="clusterblast-orf" id="dummy-1_q9_0_all"  />
+</g>
+<g label="NC_009253" description="NC_009253 (3568679-3590325): Desulforamulus reducens MI-1, complete sequence (15% of genes show similarity), ranthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NC_009253&amp;start=3568679&amp;end=3590325" target="_blank">NC_009253 (3568679-3590325)</a>: Desulforamulus reducens MI-1, complete sequence (15% of genes show similarity), ranthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 67,80 67,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17475&lt;/b&gt;&lt;br&gt;NADH-ubiquinone oxidoreductase-F iron-sulfur binding region domain-containing protein&lt;br&gt;Location: 3570322 - 3572049" locus_tag="DRED_RS17475" class="clusterblast-orf" id="dummy-1_h1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="67,85 72,80 87,80 87,90 72,90 67,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17480&lt;/b&gt;&lt;br&gt;NADH-quinone oxidoreductase subunit NuoE&lt;br&gt;Location: 3572040 - 3572573" locus_tag="DRED_RS17480" class="clusterblast-orf" id="dummy-1_h1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="98,85 103,80 105,80 105,90 103,90 98,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS18915&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3572850 - 3573014" locus_tag="DRED_RS18915" class="clusterblast-orf" id="dummy-1_h1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="126,85 131,80 145,80 145,90 131,90 126,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17485&lt;/b&gt;&lt;br&gt;23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH&lt;br&gt;Location: 3573560 - 3574042" locus_tag="DRED_RS17485" class="clusterblast-orf" id="dummy-1_h1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="148,85 153,80 197,80 197,90 153,90 148,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17490&lt;/b&gt;&lt;br&gt;UDP-N-acetylglucosamine 1-carboxyvinyltransferase&lt;br&gt;Location: 3574124 - 3575377&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_00325&lt;/b&gt;&lt;br&gt;Percentage identity: 57&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 468&lt;br&gt;E-value: 2.36e-162" locus_tag="DRED_RS17490" class="clusterblast-orf" id="dummy-1_h1_9_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="202,85 207,80 236,80 236,90 207,90 202,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17495&lt;/b&gt;&lt;br&gt;peptidase MA family metallohydrolase&lt;br&gt;Location: 3575494 - 3576378" locus_tag="DRED_RS17495" class="clusterblast-orf" id="dummy-1_h1_9_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="240,85 245,80 261,80 261,90 245,90 240,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17500&lt;/b&gt;&lt;br&gt;tetratricopeptide repeat protein&lt;br&gt;Location: 3576475 - 3577011" locus_tag="DRED_RS17500" class="clusterblast-orf" id="dummy-1_h1_9_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="266,85 271,80 319,80 319,90 271,90 266,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17505&lt;/b&gt;&lt;br&gt;peptidoglycan DD-metalloendopeptidase family protein&lt;br&gt;Location: 3577151 - 3578497&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_00330&lt;/b&gt;&lt;br&gt;Percentage identity: 34&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 204&lt;br&gt;E-value: 2.88e-58" locus_tag="DRED_RS17505" class="clusterblast-orf" id="dummy-1_h1_9_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="326,85 331,80 379,80 379,90 331,90 326,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17510&lt;/b&gt;&lt;br&gt;thioether cross-link-forming SCIFF peptide maturase&lt;br&gt;Location: 3578680 - 3580032&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_00335&lt;/b&gt;&lt;br&gt;Percentage identity: 47&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 412&lt;br&gt;E-value: 9.63e-139" locus_tag="DRED_RS17510" class="clusterblast-orf" id="dummy-1_h1_9_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="385,85 390,80 390,80 390,90 390,90 385,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS18440&lt;/b&gt;&lt;br&gt;six-cysteine ranthipeptide SCIFF&lt;br&gt;Location: 3580182 - 3580325" locus_tag="DRED_RS18440" class="clusterblast-orf" id="dummy-1_h1_9_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="424,85 429,80 475,80 475,90 429,90 424,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17540&lt;/b&gt;&lt;br&gt;adenylosuccinate synthase&lt;br&gt;Location: 3581197 - 3582483" locus_tag="DRED_RS17540" class="clusterblast-orf" id="dummy-1_h1_9_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="494,85 499,80 546,80 546,90 499,90 494,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17545&lt;/b&gt;&lt;br&gt;replicative DNA helicase&lt;br&gt;Location: 3582976 - 3584298" locus_tag="DRED_RS17545" class="clusterblast-orf" id="dummy-1_h1_9_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="551,85 556,80 627,80 627,90 556,90 551,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17550&lt;/b&gt;&lt;br&gt;Lon family ATP-dependent protease&lt;br&gt;Location: 3584428 - 3586374" locus_tag="DRED_RS17550" class="clusterblast-orf" id="dummy-1_h1_9_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="629,85 634,80 646,80 646,90 634,90 629,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17555&lt;/b&gt;&lt;br&gt;50S ribosomal protein L9&lt;br&gt;Location: 3586424 - 3586873" locus_tag="DRED_RS17555" class="clusterblast-orf" id="dummy-1_h1_9_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="647,85 652,80 685,80 685,90 652,90 647,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17560&lt;/b&gt;&lt;br&gt;YybS family protein&lt;br&gt;Location: 3586904 - 3587863" locus_tag="DRED_RS17560" class="clusterblast-orf" id="dummy-1_h1_9_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="699,85 704,80 715,80 715,90 704,90 699,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17565&lt;/b&gt;&lt;br&gt;MarR family transcriptional regulator&lt;br&gt;Location: 3588229 - 3588639" locus_tag="DRED_RS17565" class="clusterblast-orf" id="dummy-1_h1_9_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="726,85 731,80 735,80 735,90 731,90 726,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17570&lt;/b&gt;&lt;br&gt;30S ribosomal protein S18&lt;br&gt;Location: 3588927 - 3589160" locus_tag="DRED_RS17570" class="clusterblast-orf" id="dummy-1_h1_9_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="737,85 742,80 754,80 754,90 742,90 737,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17575&lt;/b&gt;&lt;br&gt;single-stranded DNA-binding protein&lt;br&gt;Location: 3589204 - 3589626" locus_tag="DRED_RS17575" class="clusterblast-orf" id="dummy-1_h1_9_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="755,85 760,80 766,80 766,90 760,90 755,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17580&lt;/b&gt;&lt;br&gt;30S ribosomal protein S6&lt;br&gt;Location: 3589663 - 3589950" locus_tag="DRED_RS17580" class="clusterblast-orf" id="dummy-1_h1_9_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="771,85 776,80 780,80 780,90 776,90 771,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;DRED_RS17585&lt;/b&gt;&lt;br&gt;DUF951 domain-containing protein&lt;br&gt;Location: 3590081 - 3590287" locus_tag="DRED_RS17585" class="clusterblast-orf" id="dummy-1_h1_9_19"  />
+</g>
+</svg>

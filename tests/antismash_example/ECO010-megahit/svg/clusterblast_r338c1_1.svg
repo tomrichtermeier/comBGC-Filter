@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="374,40 375,35 374,30 374,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11715&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 53 - 212" locus_tag="NCFMKG_11715" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="375,40 382,40 387,35 382,30 375,30 375,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 208 - 1858" locus_tag="NCFMKG_11720" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="387,40 401,40 406,35 401,30 387,30 387,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11725&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1847 - 4475" locus_tag="NCFMKG_11725" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+</g>
+<g label="NC_014393" description="NC_014393 (2914101-3025608): Clostridium cellulovorans 743B, complete sequence (7% of genes show similarity), NRPS" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NC_014393&amp;start=2914101&amp;end=3025608" target="_blank">NC_014393 (2914101-3025608)</a>: Clostridium cellulovorans 743B, complete sequence (7% of genes show similarity), NRPS</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 3,90 8,85 3,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12500&lt;/b&gt;&lt;br&gt;threonine ammonia-lyase&lt;br&gt;Location: 3025304 - 3024066" locus_tag="CLOCEL_RS12500" class="clusterblast-orf" id="dummy-1_h1_1_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="9,90 18,90 23,85 18,80 9,80 9,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12495&lt;/b&gt;&lt;br&gt;methyl-accepting chemotaxis protein&lt;br&gt;Location: 3023965 - 3022112" locus_tag="CLOCEL_RS12495" class="clusterblast-orf" id="dummy-1_h1_1_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="26,90 29,85 26,80 26,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12490&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3021637 - 3021233" locus_tag="CLOCEL_RS12490" class="clusterblast-orf" id="dummy-1_h1_1_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="31,90 32,85 31,80 31,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12485&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3021007 - 3020771" locus_tag="CLOCEL_RS12485" class="clusterblast-orf" id="dummy-1_h1_1_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="32,90 35,85 32,80 32,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12480&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3020758 - 3020405" locus_tag="CLOCEL_RS12480" class="clusterblast-orf" id="dummy-1_h1_1_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="35,90 37,85 35,80 35,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12475&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3020403 - 3020170" locus_tag="CLOCEL_RS12475" class="clusterblast-orf" id="dummy-1_h1_1_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="37,90 39,85 37,80 37,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12470&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3020173 - 3019892" locus_tag="CLOCEL_RS12470" class="clusterblast-orf" id="dummy-1_h1_1_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="41,90 41,90 46,85 41,80 41,80 41,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12465&lt;/b&gt;&lt;br&gt;DUF421 domain-containing protein&lt;br&gt;Location: 3019644 - 3018937" locus_tag="CLOCEL_RS12465" class="clusterblast-orf" id="dummy-1_h1_1_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="47,85 52,80 68,80 68,90 52,90 47,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12460&lt;/b&gt;&lt;br&gt;YhgE/Pip domain-containing protein&lt;br&gt;Location: 3018817 - 3015884" locus_tag="CLOCEL_RS12460" class="clusterblast-orf" id="dummy-1_h1_1_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="72,90 74,90 79,85 74,80 72,80 72,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12455&lt;/b&gt;&lt;br&gt;chemotaxis protein&lt;br&gt;Location: 3015262 - 3014342" locus_tag="CLOCEL_RS12455" class="clusterblast-orf" id="dummy-1_h1_1_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="80,90 92,90 97,85 92,80 80,80 80,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12450&lt;/b&gt;&lt;br&gt;EAL domain-containing protein&lt;br&gt;Location: 3014180 - 3011856" locus_tag="CLOCEL_RS12450" class="clusterblast-orf" id="dummy-1_h1_1_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="100,90 102,90 107,85 102,80 100,80 100,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12445&lt;/b&gt;&lt;br&gt;FAD:protein FMN transferase&lt;br&gt;Location: 3011476 - 3010436" locus_tag="CLOCEL_RS12445" class="clusterblast-orf" id="dummy-1_h1_1_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="108,90 115,90 120,85 115,80 108,80 108,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12440&lt;/b&gt;&lt;br&gt;FMN-binding protein&lt;br&gt;Location: 3010341 - 3008683" locus_tag="CLOCEL_RS12440" class="clusterblast-orf" id="dummy-1_h1_1_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="122,90 122,90 127,85 122,80 122,80 122,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12435&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 3008487 - 3007792" locus_tag="CLOCEL_RS12435" class="clusterblast-orf" id="dummy-1_h1_1_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="127,90 132,90 137,85 132,80 127,80 127,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12430&lt;/b&gt;&lt;br&gt;HAMP domain-containing histidine kinase&lt;br&gt;Location: 3007802 - 3006291" locus_tag="CLOCEL_RS12430" class="clusterblast-orf" id="dummy-1_h1_1_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="142,90 208,90 213,85 208,80 142,80 142,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12425&lt;/b&gt;&lt;br&gt;amino acid adenylation domain-containing protein&lt;br&gt;Location: 3005608 - 2995913" locus_tag="CLOCEL_RS12425" class="clusterblast-orf" id="dummy-1_h1_1_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="214,90 264,90 269,85 264,80 214,80 214,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS22025&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 2995729 - 2988155&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11725&lt;/b&gt;&lt;br&gt;Percentage identity: 32&lt;br&gt;Percentage coverage: 65&lt;br&gt;BLAST bit score: 274&lt;br&gt;E-value: 1.15e-74" locus_tag="CLOCEL_RS22025" class="clusterblast-orf" id="dummy-1_h1_1_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="270,90 370,90 375,85 370,80 270,80 270,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS22020&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 2988045 - 2973588" locus_tag="CLOCEL_RS22020" class="clusterblast-orf" id="dummy-1_h1_1_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="376,90 401,90 406,85 401,80 376,80 376,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS22015&lt;/b&gt;&lt;br&gt;amino acid adenylation domain-containing protein&lt;br&gt;Location: 2973462 - 2969296&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11720&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 81&lt;br&gt;BLAST bit score: 181&lt;br&gt;E-value: 2.21e-46" locus_tag="CLOCEL_RS22015" class="clusterblast-orf" id="dummy-1_h1_1_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="408,90 416,90 421,85 416,80 408,80 408,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12415&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 2969053 - 2967242" locus_tag="CLOCEL_RS12415" class="clusterblast-orf" id="dummy-1_h1_1_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="421,90 428,90 433,85 428,80 421,80 421,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12410&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 2967264 - 2965531" locus_tag="CLOCEL_RS12410" class="clusterblast-orf" id="dummy-1_h1_1_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="434,90 439,90 444,85 439,80 434,80 434,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12405&lt;/b&gt;&lt;br&gt;diaminobutyrate--2-oxoglutarate transaminase&lt;br&gt;Location: 2965426 - 2964125" locus_tag="CLOCEL_RS12405" class="clusterblast-orf" id="dummy-1_h1_1_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="447,90 656,90 661,85 656,80 447,80 447,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12400&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 2963678 - 2934102&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11720&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 81&lt;br&gt;BLAST bit score: 180&lt;br&gt;E-value: 5.68e-46" locus_tag="CLOCEL_RS12400" class="clusterblast-orf" id="dummy-1_h1_1_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="664,90 665,90 670,85 665,80 664,80 664,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12395&lt;/b&gt;&lt;br&gt;TraX family protein&lt;br&gt;Location: 2933680 - 2932979" locus_tag="CLOCEL_RS12395" class="clusterblast-orf" id="dummy-1_h1_1_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="671,85 676,80 677,80 677,90 676,90 671,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12390&lt;/b&gt;&lt;br&gt;YitT family protein&lt;br&gt;Location: 2932756 - 2931890" locus_tag="CLOCEL_RS12390" class="clusterblast-orf" id="dummy-1_h1_1_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="679,90 682,90 687,85 682,80 679,80 679,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12385&lt;/b&gt;&lt;br&gt;cysteine desulfurase&lt;br&gt;Location: 2931702 - 2930563" locus_tag="CLOCEL_RS12385" class="clusterblast-orf" id="dummy-1_h1_1_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="687,90 691,90 696,85 691,80 687,80 687,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12380&lt;/b&gt;&lt;br&gt;tRNA 4-thiouridine(8) synthase ThiI&lt;br&gt;Location: 2930566 - 2929406" locus_tag="CLOCEL_RS12380" class="clusterblast-orf" id="dummy-1_h1_1_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="696,90 699,85 696,80 696,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12375&lt;/b&gt;&lt;br&gt;Rrf2 family transcriptional regulator&lt;br&gt;Location: 2929315 - 2928884" locus_tag="CLOCEL_RS12375" class="clusterblast-orf" id="dummy-1_h1_1_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="699,90 701,90 706,85 701,80 699,80 699,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12370&lt;/b&gt;&lt;br&gt;cysteine synthase A&lt;br&gt;Location: 2928859 - 2927936" locus_tag="CLOCEL_RS12370" class="clusterblast-orf" id="dummy-1_h1_1_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="706,90 709,85 706,80 706,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12365&lt;/b&gt;&lt;br&gt;DUF6483 family protein&lt;br&gt;Location: 2927915 - 2927604" locus_tag="CLOCEL_RS12365" class="clusterblast-orf" id="dummy-1_h1_1_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="711,90 715,85 711,80 711,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12360&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2927270 - 2926656" locus_tag="CLOCEL_RS12360" class="clusterblast-orf" id="dummy-1_h1_1_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="717,90 718,90 723,85 718,80 717,80 717,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12355&lt;/b&gt;&lt;br&gt;SPASM domain-containing protein&lt;br&gt;Location: 2926433 - 2925552" locus_tag="CLOCEL_RS12355" class="clusterblast-orf" id="dummy-1_h1_1_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="724,90 728,85 724,80 724,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12350&lt;/b&gt;&lt;br&gt;DUF402 domain-containing protein&lt;br&gt;Location: 2925423 - 2924887" locus_tag="CLOCEL_RS12350" class="clusterblast-orf" id="dummy-1_h1_1_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="729,90 732,85 729,80 729,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12345&lt;/b&gt;&lt;br&gt;phosphoglycerate mutase family protein&lt;br&gt;Location: 2924853 - 2924359" locus_tag="CLOCEL_RS12345" class="clusterblast-orf" id="dummy-1_h1_1_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="735,90 738,90 743,85 738,80 735,80 735,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12340&lt;/b&gt;&lt;br&gt;homocitrate synthase&lt;br&gt;Location: 2924020 - 2922869" locus_tag="CLOCEL_RS12340" class="clusterblast-orf" id="dummy-1_h1_1_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="744,90 746,90 751,85 746,80 744,80 744,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12335&lt;/b&gt;&lt;br&gt;isocitrate/isopropylmalate dehydrogenase family protein&lt;br&gt;Location: 2922742 - 2921747" locus_tag="CLOCEL_RS12335" class="clusterblast-orf" id="dummy-1_h1_1_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="754,90 760,90 765,85 760,80 754,80 754,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12330&lt;/b&gt;&lt;br&gt;DNA mismatch repair protein MutS&lt;br&gt;Location: 2921378 - 2919825" locus_tag="CLOCEL_RS12330" class="clusterblast-orf" id="dummy-1_h1_1_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="766,90 770,90 775,85 770,80 766,80 766,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12325&lt;/b&gt;&lt;br&gt;patatin-like phospholipase family protein&lt;br&gt;Location: 2919670 - 2918501" locus_tag="CLOCEL_RS12325" class="clusterblast-orf" id="dummy-1_h1_1_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="776,90 780,85 776,80 776,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CLOCEL_RS12320&lt;/b&gt;&lt;br&gt;YfcE family phosphodiesterase&lt;br&gt;Location: 2918331 - 2917834" locus_tag="CLOCEL_RS12320" class="clusterblast-orf" id="dummy-1_h1_1_38"  />
+</g>
+</svg>

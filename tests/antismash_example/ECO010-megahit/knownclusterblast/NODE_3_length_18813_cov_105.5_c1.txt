@@ -1,0 +1,19 @@
+ClusterBlast scores for NODE_3_length_18813_cov_105.5
+
+Table of genes, locations, strands and annotations of query cluster:
+NCFMKG_00290	7089	7653	-	UPF0340 protein BH3766	
+NCFMKG_00295	7995	9279	+	Bifunctional O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase	
+NCFMKG_00300	9325	10261	+	Homoserine O-acetyltransferase	
+NCFMKG_00305	10333	10591	-	hypothetical protein	
+NCFMKG_00310	10590	11685	-	hypothetical protein	
+NCFMKG_00315	11885	12596	+	ATP-dependent dethiobiotin synthetase BioD	
+NCFMKG_00320	12620	13970	+	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	
+NCFMKG_00325	14096	15341	-	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2	
+NCFMKG_00330	15527	16931	-	hypothetical protein	
+NCFMKG_00335	16927	18367	-	Radical SAM core domain-containing protein	
+
+
+Significant hits: 
+
+
+Details:

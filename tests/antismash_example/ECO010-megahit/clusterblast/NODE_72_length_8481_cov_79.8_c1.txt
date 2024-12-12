@@ -1,0 +1,938 @@
+ClusterBlast scores for NODE_72_length_8481_cov_79.8
+
+Table of genes, locations, strands and annotations of query cluster:
+NCFMKG_03790	586	1924	-	RNA polymerase sigma factor SigA	
+NCFMKG_03795	2022	3897	-	hypothetical protein	
+NCFMKG_03800	4022	5399	-	Thioether cross-link-forming SCIFF peptide maturase	
+NCFMKG_03805	5580	5727	-	Six-cysteine peptide SCIFF	
+NCFMKG_03810	5811	6234	-	hypothetical protein	
+NCFMKG_03815	6349	7564	-	Queuine tRNA-ribosyltransferase	
+NCFMKG_03820	7556	8456	-	hypothetical protein	
+
+
+Significant hits: 
+1. NC_013895	Mageeibacillus indolicus UPII9-5, complete sequence
+2. NZ_NIOI01000001	Pseudoclostridium thermosuccinogenes strain DSM 5809 scaffold1_size3002637_cov202.5430, whole genome shotgun sequence
+3. NZ_JHYD01000009	Ruminiclostridium cellobioparum DSM 1351 = ATCC 15832 T344DRAFT_scaffold00006.6_C, whole genome shotgun sequence
+4. NZ_CP119677	Ruminiclostridium papyrosolvens DSM 2782 chromosome, complete genome
+5. NZ_CP061336	Ruminiclostridium herbifermentans strain MA18 chromosome, complete genome
+6. NC_016791	Clostridium sp. BNL1100, complete sequence
+7. NC_011898	Ruminiclostridium cellulolyticum H10, complete sequence
+8. NZ_CP021850	Pseudoclostridium thermosuccinogenes strain DSM 5807 chromosome, complete genome
+9. NZ_QPJT01000016	Anaerobacterium chartisolvens strain DSM 27016 Ga0244570_116, whole genome shotgun sequence
+10. NZ_NIBG01000001	Anaeromicrobium sediminis strain DY2726D Seq1, whole genome shotgun sequence
+11. NZ_CP017269	Geosporobacter ferrireducens strain IRF9 chromosome, complete genome
+12. NZ_CP058557	Alkaliphilus sp. B6464 chromosome, complete genome
+13. NC_009633	Alkaliphilus metalliredigens QYMF, complete sequence
+14. NZ_JHYF01000001	Alkaliphilus transvaalensis ATCC 700919 T335DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+15. NC_009922	Alkaliphilus oremlandii OhILAs, complete sequence
+16. NZ_FMWL01000004	Acidaminobacter hydrogenoformans DSM 2784, whole genome shotgun sequence
+17. NZ_JACHEN010000004	Anaerosolibacter carboniphilus strain DSM 103526 Ga0415316_04, whole genome shotgun sequence
+18. NZ_CP068564	Keratinibaculum paraultunense strain KD-1 chromosome, complete genome
+19. NZ_JAHBCL010000024	Fusibacter paucivorans strain DSM 12116 NODE_24_length_81603_cov_41.741673, whole genome shotgun sequence
+20. NZ_PPXW01000001	Clostridium sp. Cult1 NODE_1, whole genome shotgun sequence
+21. NZ_CP035130	Gudongella oleilytica strain W6 chromosome, complete genome
+22. NZ_HE978581	Peptoniphilus obesi ph1, whole genome shotgun sequence
+23. NZ_JHVL01000004	Clostridiisalibacter paucivorans DSM 22131 Q326DRAFT_scaffold00004.4_C, whole genome shotgun sequence
+24. NZ_VLKH01000005	Sedimentibacter saalensis strain DSM 13558 LY60DRAFT_scaffold00005.5, whole genome shotgun sequence
+25. NZ_GL349422	Peptoniphilus sp. oral taxon 386 str. F0131 supercont1.1, whole genome shotgun sequence
+26. NZ_CP035282	Acidilutibacter cellobiosedens strain JN-28 chromosome, complete genome
+27. NZ_LR588413	Peptoniphilus catoniae strain Marseille-P8546, whole genome shotgun sequence
+28. NZ_HE978566	Peptoniphilus grossensis ph5, whole genome shotgun sequence
+29. NZ_CP068103	Peptoniphilus harei strain FDAARGOS_1136 chromosome, complete genome
+30. NZ_LT635475	Ezakiella massiliensis strain Marseille-P2951T chromosome contig00001
+31. NZ_LT962469	Ezakiella peruensis strain M6.X2 isolate M6.X2, whole genome shotgun sequence
+32. NZ_JAOQKF010000013	Muriventricola aceti strain H5_61 .14207_7_60.13, whole genome shotgun sequence
+33. NZ_LT629945	Angelakisella massiliensis strain Marseille-P3217T, whole genome shotgun sequence
+34. NZ_AUJL01000005	Clostridium cadaveris AGR2141 G605DRAFT_scaffold00004.4_C, whole genome shotgun sequence
+35. NZ_CP076620	Clostridium cadaveris strain IFB3C5 chromosome, complete genome
+36. NZ_CP014176	Clostridium argentinense strain 89G chromosome, complete genome
+37. NC_014828	Ethanoligenens harbinense YUAN-3, complete sequence
+38. NZ_CP013683	Clostridium botulinum strain AM282 chromosome, complete genome
+39. NC_010516	Clostridium botulinum B1 str. Okra, complete sequence
+40. NZ_CP013707	Clostridium botulinum strain F634 chromosome, complete genome
+41. NZ_CP014151	Clostridium botulinum strain BrDura chromosome, complete genome
+42. NC_012563	Clostridium botulinum A2 str. Kyoto, complete sequence
+43. NZ_CP006908	Clostridium botulinum CDC_1436 chromosome, complete genome
+44. NZ_CP013246	Clostridium botulinum strain CDC_69094 chromosome, complete genome
+45. NZ_CP013857	Clostridium botulinum strain CDC_69096 chromosome, complete genome
+46. NZ_CP022395	Clostridium botulinum strain Su1112 chromosome, complete genome
+47. NZ_CP022396	Clostridium botulinum strain Su0945 chromosome, complete genome
+48. NZ_CP022400	Clostridium botulinum strain Su0604 chromosome, complete genome
+49. NZ_CP050251	Clostridium botulinum strain ST7B chromosome, complete genome
+50. NZ_CP059677	Clostridium botulinum strain CJ0611A1 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NC_013895
+Source: Mageeibacillus indolicus UPII9-5, complete sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2441.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03790	HMPREF0868_RS04070	79	513	77.75280898876404	9.3e-181
+NCFMKG_03795	HMPREF0868_RS04075	41	384	88.78205128205127	1.04e-123
+NCFMKG_03800	HMPREF0868_RS04080	58	577	100.43668122270742	5.83e-204
+NCFMKG_03810	HMPREF0868_RS04085	58	82	47.14285714285714	7.26e-19
+NCFMKG_03815	HMPREF0868_RS04095	70	549	91.33663366336634	4.07e-195
+NCFMKG_03820	HMPREF0868_RS04100	63	336	86.62207357859532	2.39e-113
+
+
+
+>>
+2. NZ_NIOI01000001
+Source: Pseudoclostridium thermosuccinogenes strain DSM 5809 scaffold1_size3002637_cov202.5430, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2244.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03790	CDQ83_RS05720	73	475	79.32584269662921	1.79e-165
+NCFMKG_03795	CDQ83_RS05725	48	412	65.86538461538461	8.37e-135
+NCFMKG_03800	CDQ83_RS05755	45	411	98.68995633187772	5.93e-139
+NCFMKG_03810	CDQ83_RS05770	51	62	45.0	2.15e-11
+NCFMKG_03815	CDQ83_RS05775	68	549	92.07920792079209	3.16e-195
+NCFMKG_03820	CDQ83_RS05780	60	335	86.62207357859532	5.22e-113
+
+
+
+>>
+3. NZ_JHYD01000009
+Source: Ruminiclostridium cellobioparum DSM 1351 = ATCC 15832 T344DRAFT_scaffold00006.6_C, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2189.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03790	T344_RS0106445	74	478	80.4494382022472	7.68e-167
+NCFMKG_03795	T344_RS0106450	48	370	65.5448717948718	2.15e-118
+NCFMKG_03800	T344_RS0106480	45	419	98.68995633187772	7.95e-142
+NCFMKG_03810	T344_RS0106495	44	62	47.14285714285714	2.89e-11
+NCFMKG_03815	T344_RS0106500	67	536	92.07920792079209	3.19e-190
+NCFMKG_03820	T344_RS0106505	59	324	86.95652173913044	9.46e-109
+
+
+
+>>
+4. NZ_CP119677
+Source: Ruminiclostridium papyrosolvens DSM 2782 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2177.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03790	P0092_RS08060	72	472	80.4494382022472	2.06e-164
+NCFMKG_03795	P0092_RS08055	46	360	65.5448717948718	1.13e-114
+NCFMKG_03800	P0092_RS08025	52	427	84.27947598253274	5.3e-145
+NCFMKG_03810	P0092_RS08010	45	60	45.714285714285715	1.11e-10
+NCFMKG_03815	P0092_RS08005	66	534	92.07920792079209	2.51e-189
+NCFMKG_03820	P0092_RS08000	60	324	86.62207357859532	8.86e-109
+
+
+
+>>
+5. NZ_CP061336
+Source: Ruminiclostridium herbifermentans strain MA18 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2177.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03790	EHE19_RS10800	72	471	81.12359550561797	6.32e-164
+NCFMKG_03795	EHE19_RS10805	47	375	66.66666666666666	3.61e-120
+NCFMKG_03800	EHE19_RS10835	50	416	84.27947598253274	1.29e-140
+NCFMKG_03810	EHE19_RS10850	46	64	46.42857142857143	4.05e-12
+NCFMKG_03815	EHE19_RS10855	68	538	92.07920792079209	6.39e-191
+NCFMKG_03820	EHE19_RS10860	59	313	83.94648829431438	3.11e-104
+
+
+
+>>
+6. NC_016791
+Source: Clostridium sp. BNL1100, complete sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2174.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03790	CLO1100_RS07575	73	474	80.4494382022472	5.1e-165
+NCFMKG_03795	CLO1100_RS07570	46	361	65.5448717948718	5.7e-115
+NCFMKG_03800	CLO1100_RS07540	51	422	84.27947598253274	2.44e-143
+NCFMKG_03810	CLO1100_RS07530	47	61	45.714285714285715	4.17e-11
+NCFMKG_03815	CLO1100_RS07525	66	538	92.07920792079209	1.07e-190
+NCFMKG_03820	CLO1100_RS07520	59	318	86.62207357859532	1.66e-106
+
+
+
+>>
+7. NC_011898
+Source: Ruminiclostridium cellulolyticum H10, complete sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2171.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03790	CCEL_RS02730	73	478	80.4494382022472	1.55e-166
+NCFMKG_03795	CCEL_RS02725	46	356	65.5448717948718	6.69e-113
+NCFMKG_03800	CCEL_RS02695	50	416	84.06113537117903	1.29e-140
+NCFMKG_03810	CCEL_RS02685	45	61	45.714285714285715	4.17e-11
+NCFMKG_03815	CCEL_RS02680	66	537	92.07920792079209	1.53e-190
+NCFMKG_03820	CCEL_RS02675	61	323	86.62207357859532	2.52e-108
+
+
+
+>>
+8. NZ_CP021850
+Source: Pseudoclostridium thermosuccinogenes strain DSM 5807 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1767.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03795	CDO33_RS07525	48	412	65.86538461538461	8.37e-135
+NCFMKG_03800	CDO33_RS07490	45	410	98.68995633187772	1.68e-138
+NCFMKG_03810	CDO33_RS07475	51	62	45.0	2.15e-11
+NCFMKG_03815	CDO33_RS07470	68	549	92.07920792079209	3.16e-195
+NCFMKG_03820	CDO33_RS07465	60	334	86.62207357859532	1.05e-112
+
+
+
+>>
+9. NZ_QPJT01000016
+Source: Anaerobacterium chartisolvens strain DSM 27016 Ga0244570_116, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1754.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03795	DFR58_RS13885	47	407	69.07051282051282	9.71e-133
+NCFMKG_03800	DFR58_RS13930	46	418	99.34497816593887	1.13e-141
+NCFMKG_03810	DFR58_RS13945	49	64	45.0	2.47e-12
+NCFMKG_03815	DFR58_RS13950	66	523	92.07920792079209	4.39e-185
+NCFMKG_03820	DFR58_RS13955	61	342	86.62207357859532	1.38e-115
+
+
+
+>>
+10. NZ_NIBG01000001
+Source: Anaeromicrobium sediminis strain DY2726D Seq1, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1302.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	CCE28_RS00240	45	404	98.47161572052401	6.67e-136
+NCFMKG_03810	CCE28_RS00205	41	49	45.0	1.51e-06
+NCFMKG_03815	CCE28_RS00200	67	536	92.07920792079209	5.97e-190
+NCFMKG_03820	CCE28_RS00195	58	313	86.62207357859532	3.21e-104
+
+
+
+>>
+11. NZ_CP017269
+Source: Geosporobacter ferrireducens strain IRF9 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1291.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	Gferi_RS26645	49	405	86.24454148471615	1.89e-136
+NCFMKG_03810	Gferi_RS26630	42	50	47.14285714285714	5.95e-07
+NCFMKG_03815	Gferi_RS26625	66	526	91.83168316831683	2.67e-186
+NCFMKG_03820	Gferi_RS26620	58	310	86.62207357859532	3.69e-103
+
+
+
+>>
+12. NZ_CP058557
+Source: Alkaliphilus sp. B6464 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1286.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	HYG84_RS12070	42	388	99.34497816593887	1.11e-129
+NCFMKG_03810	HYG84_RS12055	44	55	47.14285714285714	9.78e-09
+NCFMKG_03815	HYG84_RS12050	66	534	92.07920792079209	2.42e-189
+NCFMKG_03820	HYG84_RS12045	56	309	86.62207357859532	7.4e-103
+
+
+
+>>
+13. NC_009633
+Source: Alkaliphilus metalliredigens QYMF, complete sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1283.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	AMET_RS11595	44	393	99.34497816593887	1.52e-131
+NCFMKG_03810	AMET_RS11585	48	55	45.0	1.22e-08
+NCFMKG_03815	AMET_RS11580	67	533	92.07920792079209	7.72e-189
+NCFMKG_03820	AMET_RS11575	56	302	86.62207357859532	5.57e-100
+
+
+
+>>
+14. NZ_JHYF01000001
+Source: Alkaliphilus transvaalensis ATCC 700919 T335DRAFT_scaffold00001.1_C, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1281.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	T335_RS0100320	44	396	99.34497816593887	5.45e-133
+NCFMKG_03810	T335_RS0100305	39	53	47.14285714285714	7.06e-08
+NCFMKG_03815	T335_RS0100300	65	523	92.07920792079209	6.23e-185
+NCFMKG_03820	T335_RS0100295	56	309	86.62207357859532	7.4e-103
+
+
+
+>>
+15. NC_009922
+Source: Alkaliphilus oremlandii OhILAs, complete sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1280.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	CLOS_RS08820	43	391	99.34497816593887	7.57e-131
+NCFMKG_03810	CLOS_RS08830	42	52	47.14285714285714	2.2e-07
+NCFMKG_03815	CLOS_RS08835	65	523	92.07920792079209	8.84e-185
+NCFMKG_03820	CLOS_RS08840	56	314	86.62207357859532	7.96e-105
+
+
+
+>>
+16. NZ_FMWL01000004
+Source: Acidaminobacter hydrogenoformans DSM 2784, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1273.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	BLP63_RS06065	46	421	100.65502183406115	2.15e-142
+NCFMKG_03810	BLP63_RS06055	35	48	45.0	5.84e-06
+NCFMKG_03815	BLP63_RS06050	63	512	92.07920792079209	1.84e-180
+NCFMKG_03820	BLP63_RS06045	56	292	86.62207357859532	4.63e-96
+
+
+
+>>
+17. NZ_JACHEN010000004
+Source: Anaerosolibacter carboniphilus strain DSM 103526 Ga0415316_04, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1270.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HNQ80_RS04490	HNQ80_RS04490	65473	66096	-	MBL_fold_metallo-hydrolase
+HNQ80_RS04575	HNQ80_RS04575	82030	82560	-	Holliday_junction_branch_migration_protein_RuvA
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	HNQ80_RS04530	43	395	99.34497816593887	1.17e-132
+NCFMKG_03810	HNQ80_RS04545	44	54	48.57142857142857	3.92e-08
+NCFMKG_03815	HNQ80_RS04550	64	516	92.07920792079209	2.39e-182
+NCFMKG_03820	HNQ80_RS04555	55	305	86.62207357859532	2.42e-101
+
+
+
+>>
+18. NZ_CP068564
+Source: Keratinibaculum paraultunense strain KD-1 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1245.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	JL105_RS05915	46	379	85.37117903930131	2.24e-126
+NCFMKG_03810	JL105_RS05930	48	59	47.85714285714286	3.46e-10
+NCFMKG_03815	JL105_RS05935	63	498	91.83168316831683	6.72e-175
+NCFMKG_03820	JL105_RS05940	56	309	86.62207357859532	7.4e-103
+
+
+
+>>
+19. NZ_JAHBCL010000024
+Source: Fusibacter paucivorans strain DSM 12116 NODE_24_length_81603_cov_41.741673, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1231.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	KHM83_RS13675	41	353	100.21834061135371	8.71e-116
+NCFMKG_03810	KHM83_RS13665	40	54	48.57142857142857	5.84e-08
+NCFMKG_03815	KHM83_RS13660	67	531	91.58415841584159	4.61e-188
+NCFMKG_03820	KHM83_RS13655	54	293	86.62207357859532	1.15e-96
+
+
+
+>>
+20. NZ_PPXW01000001
+Source: Clostridium sp. Cult1 NODE_1, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1230.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+C3E89_RS05240	C3E89_RS05240	1071456	1071659	+	beta-ketoacyl-[acyl-carrier-protein]_synthase_II
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	C3E89_RS05175	48	373	80.34934497816593	6.38e-124
+NCFMKG_03810	C3E89_RS05190	46	57	47.85714285714286	3.29e-09
+NCFMKG_03815	C3E89_RS05195	62	489	92.32673267326733	2.1e-171
+NCFMKG_03820	C3E89_RS05200	56	311	86.62207357859532	1.3e-103
+
+
+
+>>
+21. NZ_CP035130
+Source: Gudongella oleilytica strain W6 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1220.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	EC328_RS05185	48	377	85.37117903930131	1.78e-125
+NCFMKG_03810	EC328_RS05175	42	58	45.714285714285715	8.02e-10
+NCFMKG_03815	EC328_RS05170	62	499	92.07920792079209	2.62e-175
+NCFMKG_03820	EC328_RS05165	52	286	86.62207357859532	6.26e-94
+
+
+
+>>
+22. NZ_HE978581
+Source: Peptoniphilus obesi ph1, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1216.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	HGPB_RS04515	46	374	85.80786026200873	2.71e-124
+NCFMKG_03810	HGPB_RS04525	43	54	47.85714285714286	4.1e-08
+NCFMKG_03815	HGPB_RS04530	58	467	91.58415841584159	6.29e-163
+NCFMKG_03820	HGPB_RS04535	59	321	86.95652173913044	2.05e-107
+
+
+
+>>
+23. NZ_JHVL01000004
+Source: Clostridiisalibacter paucivorans DSM 22131 Q326DRAFT_scaffold00004.4_C, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1213.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	Q326_RS0102560	45	361	84.93449781659389	2.64e-119
+NCFMKG_03810	Q326_RS0102575	42	53	47.85714285714286	7.06e-08
+NCFMKG_03815	Q326_RS0102580	63	500	92.07920792079209	5.8e-176
+NCFMKG_03820	Q326_RS0102585	53	299	86.62207357859532	9.05e-99
+
+
+
+>>
+24. NZ_VLKH01000005
+Source: Sedimentibacter saalensis strain DSM 13558 LY60DRAFT_scaffold00005.5, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1209.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	LY60_RS10185	44	391	99.56331877729258	5.64e-131
+NCFMKG_03810	LY60_RS10165	39	50	45.714285714285715	1.65e-06
+NCFMKG_03815	LY60_RS10160	60	471	91.33663366336634	1.3e-164
+NCFMKG_03820	LY60_RS10155	54	297	86.95652173913044	6.46e-98
+
+
+
+>>
+25. NZ_GL349422
+Source: Peptoniphilus sp. oral taxon 386 str. F0131 supercont1.1, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1204.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HMPREF0629_RS04545	HMPREF0629_RS04545	957052	957285	+	aspartate--ammonia_ligase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	HMPREF0629_RS04595	49	386	87.117903930131	4.03e-129
+NCFMKG_03810	HMPREF0629_RS04585	45	51	50.71428571428571	3.37e-07
+NCFMKG_03815	HMPREF0629_RS04580	59	466	91.33663366336634	3.15e-162
+NCFMKG_03820	HMPREF0629_RS04575	54	301	86.62207357859532	1.08e-99
+
+
+
+>>
+26. NZ_CP035282
+Source: Acidilutibacter cellobiosedens strain JN-28 chromosome, complete genome
+Type: cyclic-lactone-autoinducer,ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1202.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EQM13_RS18715	EQM13_RS18715	1532930	1533196	+	preprotein_translocase_subunit_YajC
+EQM13_RS07315	EQM13_RS07315	1541016	1541215	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	EQM13_RS07350	45	372	84.71615720524017	2.4e-123
+NCFMKG_03810	EQM13_RS18715	45	49	45.714285714285715	1.51e-06
+NCFMKG_03815	EQM13_RS07260	62	492	92.32673267326733	8.7e-173
+NCFMKG_03820	EQM13_RS07255	54	289	86.95652173913044	7.75e-95
+
+
+
+>>
+27. NZ_LR588413
+Source: Peptoniphilus catoniae strain Marseille-P8546, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1177.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	PEPCATONIAE_RS01240	48	368	81.22270742358079	5.12e-122
+NCFMKG_03810	PEPCATONIAE_RS01250	45	57	50.71428571428571	1.38e-09
+NCFMKG_03815	PEPCATONIAE_RS01255	58	451	91.58415841584159	1.06e-156
+NCFMKG_03820	PEPCATONIAE_RS01260	54	301	86.95652173913044	1.08e-99
+
+
+
+>>
+28. NZ_HE978566
+Source: Peptoniphilus grossensis ph5, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1176.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	HGPG_RS02435	46	386	84.71615720524017	4.3e-129
+NCFMKG_03810	HGPG_RS02445	43	48	40.0	7.23e-06
+NCFMKG_03815	HGPG_RS02450	58	454	91.58415841584159	6.45e-158
+NCFMKG_03820	HGPG_RS02455	53	288	86.2876254180602	1.46e-94
+
+
+
+>>
+29. NZ_CP068103
+Source: Peptoniphilus harei strain FDAARGOS_1136 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1173.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	I6I93_RS00610	46	385	84.71615720524017	1.22e-128
+NCFMKG_03810	I6I93_RS00620	43	48	40.0	7.23e-06
+NCFMKG_03815	I6I93_RS00625	57	449	91.58415841584159	1.31e-155
+NCFMKG_03820	I6I93_RS00630	54	291	86.2876254180602	9e-96
+
+
+
+>>
+30. NZ_LT635475
+Source: Ezakiella massiliensis strain Marseille-P2951T chromosome contig00001
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1140.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	BQ4440_RS01050	45	372	88.8646288209607	1.64e-123
+NCFMKG_03810	BQ4440_RS01040	38	49	74.28571428571429	2.7e-06
+NCFMKG_03815	BQ4440_RS01035	60	456	91.58415841584159	2.43e-158
+NCFMKG_03820	BQ4440_RS01030	51	263	86.62207357859532	1.36e-84
+
+
+
+>>
+31. NZ_LT962469
+Source: Ezakiella peruensis strain M6.X2 isolate M6.X2, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1138.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	CUU59_RS03900	45	372	88.8646288209607	1.64e-123
+NCFMKG_03810	CUU59_RS03910	39	53	74.28571428571429	9.28e-08
+NCFMKG_03815	CUU59_RS03915	59	454	91.58415841584159	1.39e-157
+NCFMKG_03820	CUU59_RS03920	50	259	86.62207357859532	4.4e-83
+
+
+
+>>
+32. NZ_JAOQKF010000013
+Source: Muriventricola aceti strain H5_61 .14207_7_60.13, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1127.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	OCV64_RS13475	47	405	99.56331877729258	3.76e-136
+NCFMKG_03810	OCV64_RS13460	40	48	42.857142857142854	6.23e-06
+NCFMKG_03815	OCV64_RS13455	53	379	88.61386138613861	6.96e-128
+NCFMKG_03820	OCV64_RS13450	54	295	87.29096989966555	2.85e-97
+
+
+
+>>
+33. NZ_LT629945
+Source: Angelakisella massiliensis strain Marseille-P3217T, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1121.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BQ5383_RS21670	BQ5383_RS21670	2237778	2238113	-	GNAT_family_N-acetyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	BQ5383_RS15970	44	385	99.12663755458514	3.87e-128
+NCFMKG_03810	BQ5383_RS15955	40	54	47.85714285714286	4.16e-08
+NCFMKG_03815	BQ5383_RS15950	53	377	90.84158415841584	3.36e-127
+NCFMKG_03820	BQ5383_RS15945	58	305	86.95652173913044	2.5e-101
+
+
+
+>>
+34. NZ_AUJL01000005
+Source: Clostridium cadaveris AGR2141 G605DRAFT_scaffold00004.4_C, whole genome shotgun sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1102.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	G605_RS0104080	44	373	86.8995633187773	7.25e-124
+NCFMKG_03810	G605_RS0104065	44	52	50.71428571428571	2.3e-07
+NCFMKG_03815	G605_RS0104060	52	365	87.62376237623762	1.17e-122
+NCFMKG_03820	G605_RS0104055	57	312	86.62207357859532	6.45e-104
+
+
+
+>>
+35. NZ_CP076620
+Source: Clostridium cadaveris strain IFB3C5 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1102.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	KQH81_RS07150	44	373	86.8995633187773	7.25e-124
+NCFMKG_03810	KQH81_RS07135	44	52	50.71428571428571	2.3e-07
+NCFMKG_03815	KQH81_RS07130	52	365	87.62376237623762	1.17e-122
+NCFMKG_03820	KQH81_RS07125	57	312	86.62207357859532	6.45e-104
+
+
+
+>>
+36. NZ_CP014176
+Source: Clostridium argentinense strain 89G chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1100.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	RSJ17_RS08520	45	372	86.24454148471615	1.87e-123
+NCFMKG_03810	RSJ17_RS08505	37	50	48.57142857142857	6.36e-07
+NCFMKG_03815	RSJ17_RS08500	51	364	91.83168316831683	3.31e-122
+NCFMKG_03820	RSJ17_RS08495	58	314	86.62207357859532	7.96e-105
+
+
+
+>>
+37. NC_014828
+Source: Ethanoligenens harbinense YUAN-3, complete sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1080.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	ETHHA_RS07160	44	386	100.65502183406115	4.59e-129
+NCFMKG_03810	ETHHA_RS07170	44	51	44.285714285714285	3.92e-07
+NCFMKG_03815	ETHHA_RS07175	51	342	87.87128712871286	9.68e-114
+NCFMKG_03820	ETHHA_RS07180	57	301	86.62207357859532	1.58e-99
+
+
+
+>>
+38. NZ_CP013683
+Source: Clostridium botulinum strain AM282 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1078.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	RSJ10_RS16235	44	370	84.27947598253274	1.55e-122
+NCFMKG_03810	RSJ10_RS16250	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	RSJ10_RS16255	51	357	89.85148514851485	1.23e-119
+NCFMKG_03820	RSJ10_RS16260	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+39. NC_010516
+Source: Clostridium botulinum B1 str. Okra, complete sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1077.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	CLD_RS15545	44	372	84.27947598253274	2.73e-123
+NCFMKG_03810	CLD_RS15560	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	CLD_RS15565	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	CLD_RS15570	56	302	86.62207357859532	5.57e-100
+
+
+
+>>
+40. NZ_CP013707
+Source: Clostridium botulinum strain F634 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1077.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	RSJ2_RS15390	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	RSJ2_RS15405	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	RSJ2_RS15410	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	RSJ2_RS15415	56	305	86.62207357859532	3.43e-101
+
+
+
+>>
+41. NZ_CP014151
+Source: Clostridium botulinum strain BrDura chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1076.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	B2M06_RS15635	44	370	84.27947598253274	1.55e-122
+NCFMKG_03810	B2M06_RS15650	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	B2M06_RS15655	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	B2M06_RS15660	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+42. NC_012563
+Source: Clostridium botulinum A2 str. Kyoto, complete sequence
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	CLM_RS16380	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	CLM_RS16395	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	CLM_RS16400	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	CLM_RS16405	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+43. NZ_CP006908
+Source: Clostridium botulinum CDC_1436 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	T259_RS05220	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	T259_RS05205	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	T259_RS05200	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	T259_RS05195	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+44. NZ_CP013246
+Source: Clostridium botulinum strain CDC_69094 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	NPD2_RS08085	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	NPD2_RS08100	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	NPD2_RS08105	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	NPD2_RS08110	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+45. NZ_CP013857
+Source: Clostridium botulinum strain CDC_69096 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	NPD8_RS00950	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	NPD8_RS00965	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	NPD8_RS00970	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	NPD8_RS00975	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+46. NZ_CP022395
+Source: Clostridium botulinum strain Su1112 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	CGQ26_RS15325	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	CGQ26_RS15340	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	CGQ26_RS15345	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	CGQ26_RS15350	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+47. NZ_CP022396
+Source: Clostridium botulinum strain Su0945 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	CGQ27_RS17050	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	CGQ27_RS17065	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	CGQ27_RS17070	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	CGQ27_RS17075	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+48. NZ_CP022400
+Source: Clostridium botulinum strain Su0604 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	CGQ40_RS16050	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	CGQ40_RS16065	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	CGQ40_RS16070	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	CGQ40_RS16075	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+49. NZ_CP050251
+Source: Clostridium botulinum strain ST7B chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	G8E05_RS02510	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	G8E05_RS02495	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	G8E05_RS02490	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	G8E05_RS02485	56	303	86.62207357859532	1.38e-100
+
+
+
+>>
+50. NZ_CP059677
+Source: Clostridium botulinum strain CJ0611A1 chromosome, complete genome
+Type: ranthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_03800	GNZ07_RS14915	44	369	84.27947598253274	4.38e-122
+NCFMKG_03810	GNZ07_RS14930	39	48	47.14285714285714	9.21e-06
+NCFMKG_03815	GNZ07_RS14935	50	355	89.85148514851485	9.97e-119
+NCFMKG_03820	GNZ07_RS14940	56	303	86.62207357859532	1.38e-100
+
