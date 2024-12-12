@@ -1,8 +1,9 @@
 # comBGC
-![](/Net/Groups/ccdata/users/TRichterm/comBGC/com-bgc-logo.png)
+<img src="com-bgc-logo.png" alt="Werner Siemens Foundation" width="250" />
+
 comBGC is a tool that can be used to combine the results of the prediction tools deepBGC, GECCO, and antiSMASH for detecting bionsynthetic gene clusters (BGCs). It combines the results of all three tools and adds different filters, so only hight quality BGCs are included. Furthermore, a merging step is applied to the datasets. This removes the redundancy and combines the results of the prediction tool. This way no duplicate BGCs are included in the final table.
 ### Installation
--------
+---
 To use comBGC, you first need to create an environment using **conda**:
     
     conda create -n combgc
@@ -16,8 +17,8 @@ and install the required packages using **pip**
     pip install -r requirements.txt
 
 ### Using comBGC
--------
-To run comBGC and parse the results of multiple BGC prediction tools into a single table you need to specify diffent parameters which can be displayed with:
+---
+To run comBGC and parse the results of multiple BGC prediction tools into a single table you need to specify diffent parameters which can be displayed with using `-h` :
 
     python3 combgc/comBGC.py --help
 
@@ -43,6 +44,7 @@ Using --helpt gives you an overview of all parameters that can be modified, of w
         --cores CORES         number of CPU cores to use
         --min_length LENGTH   Minimum length [bp] of BGC sequence to keep. Default: 3000
         --contig_edge BASES   Exclude BGCs within X bases of the contig edge. Default: 2
+
 **Example Usage**
 
     python3 combgc/comBGC.py \
@@ -53,11 +55,12 @@ Using --helpt gives you an overview of all parameters that can be modified, of w
 
 
 ### Authors
--------
+---
 This tool was initiated by Jasmin Frangenberg (@jasmezz) and expanded by Tom Richtermeier (@tomrichtermeier).
 
 ### Funding
--------
+---
 This project was funded by Werner Siemens Foundation grant ‘Palaeobiotechnology’
-![](/Net/Groups/ccdata/users/TRichterm/comBGC/wss.svg)
+
+<img src="wss.svg" alt="Werner Siemens Foundation" width="250" />
 
