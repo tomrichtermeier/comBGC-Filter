@@ -627,9 +627,6 @@ def gecco_workflow(gecco_paths):
     return gecco_out
 
 
-########################
-# CLEANING FUNCTIONS
-########################
 def filter_deepbgc(table, min_length, contig_edge):
     """
     Filters a DataFrame of BGC (Biosynthetic Gene Cluster) data based on length, edge proximity, and tool-specific criteria.
@@ -647,70 +644,111 @@ def filter_deepbgc(table, min_length, contig_edge):
             - Excludes BGCs near contig edges and with "Product_class" as "Saccharide".
     """
     df = table.copy()
-    #filter out headings, short bgcs by deepbgc, bgcs that could be cut off, and rows with column names
+    # filter out headings, short bgcs by deepbgc, bgcs that could be cut off, and rows with column names
     df = df.loc[df["sample_id"] != "sample_id"]
     df = df.drop(df.loc[df["BGC_length"] < min_length].index)
-    df = df.drop(df.loc[(df["Prediction_tool"] == "deepBGC") & (df["BGC_probability"] < 0.6)].index)
+    df = df.drop(
+        df.loc[
+            (df["Prediction_tool"] == "deepBGC") & (df["BGC_probability"] < 0.6)
+        ].index
+    )
     df = df.drop(df.loc[(df["Product_class"] == "Saccharide")].index)
     df = df.drop(
         df.loc[
-            (df["contig_id"].str.extract(r"length_(\d+)")[0].astype(int) - df["BGC_end"]).abs() <= contig_edge
+            (
+                df["contig_id"].str.extract(r"length_(\d+)")[0].astype(int)
+                - df["BGC_end"]
+            ).abs()
+            <= contig_edge
         ].index
-    ) 
+    )
     df = df.drop(df.loc[df["BGC_start"].isin(range(0, contig_edge + 1))].index)
     return df
-
 
 
 def cleanup_table(table):
     """
     Cleans up DataFrame by creating a unique identifier (sample_id + contig_id)for each row and standardizing
-    the "Product_class" column. 
+    the "Product_class" column.
 
     Args:
-        table (pd.DataFrame): The input DataFrame containing columns "sample_id", "contig_id", 
+        table (pd.DataFrame): The input DataFrame containing columns "sample_id", "contig_id",
                               and "Product_class".
 
     Returns:
         pd.DataFrame: A cleaned and sorted DataFrame with updated "identifier" and "Product_class" columns.
     """
-    
+
     df = table.copy()
-    df["identifier"] = df["sample_id"].str.replace("-megahit", "", regex=False).str.replace("-metaspades", "", regex=False) + "_" + df["contig_id"].str.replace(r"(NODE_\d+).*", r"\1", regex=True)
+    df["identifier"] = (
+        df["sample_id"]
+        .str.replace("-megahit", "", regex=False)
+        .str.replace("-metaspades", "", regex=False)
+        + "_"
+        + df["contig_id"].str.replace(r"(NODE_\d+).*", r"\1", regex=True)
+    )
 
     # standardize the product class
-    df["Product_class"] = df["Product_class"].str.replace("NRP;Polyketide", "NRP-Polyketide")
+    df["Product_class"] = df["Product_class"].str.replace(
+        "NRP;Polyketide", "NRP-Polyketide"
+    )
     df["Product_class"] = df["Product_class"].str.replace("NRPS", "NRP")
     df["Product_class"] = df["Product_class"].str.strip()
     df["Product_class"] = df["Product_class"].str.replace("NRP-like", "NRP")
     df["Product_class"] = df["Product_class"].str.replace("NRPS-like", "NRP")
     df["Product_class"] = df["Product_class"].str.replace("NRP-Polyketide", "NRP")
     df["Product_class"] = df["Product_class"].str.replace("RiPP-like", "RiPP")
-    df["Product_class"] = df["Product_class"].str.replace("Polyketide-Terpene", "Polyketide")
-    df["Product_class"] = df["Product_class"].str.replace(r"^Lanthipeptide-class-\w+$", "Lanthipeptide", regex=True)
+    df["Product_class"] = df["Product_class"].str.replace(
+        "Polyketide-Terpene", "Polyketide"
+    )
+    df["Product_class"] = df["Product_class"].str.replace(
+        r"^Lanthipeptide-class-\w+$", "Lanthipeptide", regex=True
+    )
     df = df.sort_values(by="identifier")
 
     return df
 
 
 def combine_tool(table, bgc, representative):
+    """
+    Updates the given table DataFrame to mark the presence of a specific prediction tool.
+    It searches for in the table for the line which equals to the representative's identifier and adds the tool
+    for the bgcs that is given as an argument
+
+    Args:
+        table (pd.DataFrame): A DataFrame containing BGC data with an 'identifier' column.
+        bgc (dict): A dictionary representing a BGC with a 'Prediction_tool' key.
+        representative (dict): A dictionary representing the representative BGC with an 'identifier' key.
+
+    Returns:
+        The function modifies the 'table' DataFrame in place, setting the appropriate tool
+        column ('deepBGC', 'GECCO', or 'antiSMASH') to "Yes" and updating the
+        'Tool_representative'.
+    """
     if bgc["Prediction_tool"] == "deepBGC":
-        table.loc[table["identifier"] == representative["identifier"], "deepBGC"] = "Yes"
+        table.loc[table["identifier"] == representative["identifier"], "deepBGC"] = (
+            "Yes"
+        )
     elif bgc["Prediction_tool"] == "GECCO":
         table.loc[table["identifier"] == representative["identifier"], "GECCO"] = "Yes"
     elif bgc["Prediction_tool"] == "antiSMASH":
-        table.loc[table["identifier"] == representative["identifier"], "antiSMASH"] = "Yes"
-    table.loc[table["identifier"] == representative["identifier"], "Tool_representative"] = representative["Prediction_tool"]
+        table.loc[table["identifier"] == representative["identifier"], "antiSMASH"] = (
+            "Yes"
+        )
+    table.loc[
+        table["identifier"] == representative["identifier"], "Tool_representative"
+    ] = representative["Prediction_tool"]
+
 
 ########################
 # DEDUPLCATION FUNCTIONS
 ########################
 def process_chunk(chunk):
     """
-    Worker function for process_parallel. 
+    Worker function for process_parallel.
     This function takes a chunk of bgcs (all on the same contig) and:
     1. If only one bgc is present, add it to the table.
-    2. If multiple bgcs are present, find the longest one as representative and 
+    2. If multiple bgcs are present, find the longest one as representative and
        add it to the table. Then, combine all overlapping bgcs with the representative
        and add them to the table. If a bgc does not overlap, add it separately to the table.
 
@@ -720,8 +758,17 @@ def process_chunk(chunk):
     Returns:
         pd.DataFrame: A cleaned and sorted DataFrame with updated "identifier" and "Product_class" columns.
     """
-    filtered_bgcs_chunk = pd.DataFrame(columns=["deepBGC", "GECCO", "antiSMASH", "merged", "Product_class", "mmseqs_lineage_contig"]) # create df for chunk
-    
+    filtered_bgcs_chunk = pd.DataFrame(
+        columns=[
+            "deepBGC",
+            "GECCO",
+            "antiSMASH",
+            "merged",
+            "Product_class",
+            "mmseqs_lineage_contig",
+        ]
+    )  # create df for chunk
+
     identifier = chunk["identifier"].iloc[0]
     chunk = chunk.reset_index(drop=True)
     same_contig = {}
@@ -737,9 +784,14 @@ def process_chunk(chunk):
     # add individual bgc to table
     if len(same_contig) == 1:
         single_bgc = pd.DataFrame.from_dict(same_contig, orient="index")
-        filtered_bgcs_chunk = pd.concat([filtered_bgcs_chunk, single_bgc], ignore_index=True)
+        filtered_bgcs_chunk = pd.concat(
+            [filtered_bgcs_chunk, single_bgc], ignore_index=True
+        )
         combine_tool(filtered_bgcs_chunk, single_bgc.iloc[0], single_bgc.iloc[0])
-        filtered_bgcs_chunk.loc[filtered_bgcs_chunk["identifier"] == single_bgc.iloc[0]["identifier"], "merged"] = 1
+        filtered_bgcs_chunk.loc[
+            filtered_bgcs_chunk["identifier"] == single_bgc.iloc[0]["identifier"],
+            "merged",
+        ] = 1
 
     # combine overlapping bgcs on same contig
     elif len(same_contig) > 1:
@@ -747,42 +799,68 @@ def process_chunk(chunk):
         representative = max(same_contig.values(), key=lambda x: x["BGC_length"])
         # create new table with all representatives and combined with other bgcs
         bgc_new = pd.DataFrame([representative])
-        filtered_bgcs_chunk = pd.concat([filtered_bgcs_chunk, bgc_new], ignore_index=True)
+        filtered_bgcs_chunk = pd.concat(
+            [filtered_bgcs_chunk, bgc_new], ignore_index=True
+        )
         duplicates = len(same_contig)
         product_classes = []
         outside_counter = 0
-        
+
         # iterate over bgcs on the same contig
         for key, value in same_contig.items():
-            if key != representative["identifier"]: # dont compare to itself
+            if key != representative["identifier"]:  # dont compare to itself
                 # bgc overlaps the representative
-                if (representative["BGC_start"] < value["BGC_end"] and representative["BGC_end"] > value["BGC_start"]):
+                if (
+                    representative["BGC_start"] < value["BGC_end"]
+                    and representative["BGC_end"] > value["BGC_start"]
+                ):
                     combine_tool(filtered_bgcs_chunk, representative, representative)
                     combine_tool(filtered_bgcs_chunk, value, representative)
-                    if pd.notna(representative["Product_class"]) and representative["Product_class"] not in product_classes:
+                    if (
+                        pd.notna(representative["Product_class"])
+                        and representative["Product_class"] not in product_classes
+                    ):
                         product_classes.append(representative["Product_class"])
-                    if pd.notna(value["Product_class"]) and value["Product_class"] not in product_classes:
+                    if (
+                        pd.notna(value["Product_class"])
+                        and value["Product_class"] not in product_classes
+                    ):
                         product_classes.append(value["Product_class"])
 
                 # bgc lays outside of representative
                 else:
                     value = pd.DataFrame.from_dict(value, orient="index").T
 
-                    value.loc[0, "contig_id"] = value.loc[0, "contig_id"] + f"_{chr(65 + outside_counter)}"
-                    outside_counter += 1     
+                    value.loc[0, "contig_id"] = (
+                        value.loc[0, "contig_id"] + f"_{chr(65 + outside_counter)}"
+                    )
+                    outside_counter += 1
 
-                    filtered_bgcs_chunk = pd.concat([filtered_bgcs_chunk, value], ignore_index=True)
+                    filtered_bgcs_chunk = pd.concat(
+                        [filtered_bgcs_chunk, value], ignore_index=True
+                    )
                     duplicates -= 1
-                    filtered_bgcs_chunk.loc[filtered_bgcs_chunk["identifier"] == value.loc[0, "identifier"], "merged"] = "1"
-                    filtered_bgcs_chunk.loc[filtered_bgcs_chunk["identifier"] == value.loc[0, "identifier"], "Product_class"] = value.loc[0]["Product_class"]
+                    filtered_bgcs_chunk.loc[
+                        filtered_bgcs_chunk["identifier"] == value.loc[0, "identifier"],
+                        "merged",
+                    ] = "1"
+                    filtered_bgcs_chunk.loc[
+                        filtered_bgcs_chunk["identifier"] == value.loc[0, "identifier"],
+                        "Product_class",
+                    ] = value.loc[0]["Product_class"]
 
                     combine_tool(filtered_bgcs_chunk, value.iloc[0], value.iloc[0])
                     combine_tool(filtered_bgcs_chunk, representative, representative)
-        filtered_bgcs_chunk.loc[filtered_bgcs_chunk["identifier"] == representative["identifier"], "Product_class"] = ", ".join(map(str, product_classes)) # convert to str, so join works
-        filtered_bgcs_chunk.loc[filtered_bgcs_chunk["identifier"] == representative["identifier"], "merged"] = str(duplicates)
+        filtered_bgcs_chunk.loc[
+            filtered_bgcs_chunk["identifier"] == representative["identifier"],
+            "Product_class",
+        ] = ", ".join(
+            map(str, product_classes)
+        )  # convert to str, so join works
+        filtered_bgcs_chunk.loc[
+            filtered_bgcs_chunk["identifier"] == representative["identifier"], "merged"
+        ] = str(duplicates)
     return filtered_bgcs_chunk
-
-
 
 
 def parallelization(table, cores):
@@ -807,9 +885,11 @@ def parallelization(table, cores):
         print("\nDereplicating the files\n... ", end="")
 
     # Use ProcessPoolExecutor to parallelize the processing
-    max_workers = cores # number of cores
+    max_workers = cores  # number of cores
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
-        results = executor.map(process_chunk, chunks) # each group (chunk) goes to the process_chunk function and gets saved in results
+        results = executor.map(
+            process_chunk, chunks
+        )  # each group (chunk) goes to the process_chunk function and gets saved in results
 
     # Combine results from all processes, drop duplicates from the overlapping chunks, and reformat the final table
     filtered_bgcs = pd.concat(results, ignore_index=True)
@@ -817,32 +897,32 @@ def parallelization(table, cores):
     filtered_bgcs = filtered_bgcs.drop_duplicates(subset=["identifier"], keep="last")
     filtered_bgcs["Product_class"] = filtered_bgcs["Product_class"].apply(
         lambda x: ", ".join(sorted(x.split(", "))) if isinstance(x, str) else x
-    )    
+    )
     filtered_bgcs = filtered_bgcs.reindex(
         [
-        "identifier", 
-        "sample_id", 
-        "contig_id", 
-        "BGC_start", 
-        "BGC_end", 
-        "BGC_length", 
-        "deepBGC", 
-        "GECCO", 
-        "antiSMASH", 
-        "merged", 
-        "Product_class", 
-        "Tool_representative", 
-        "BGC_probability", 
-        "mmseqs_lineage_contig", 
-        "BGC_region_contig_ids", 
-        "MIBiG_ID", 
-        "InterPro_ID",
-        "CDS_count",
-        "BGC_complete",
-        "PFAM_domains",
-        "CDS_ID"
-        ], 
-        axis=1
+            "identifier",
+            "sample_id",
+            "contig_id",
+            "BGC_start",
+            "BGC_end",
+            "BGC_length",
+            "deepBGC",
+            "GECCO",
+            "antiSMASH",
+            "merged",
+            "Product_class",
+            "Tool_representative",
+            "BGC_probability",
+            "mmseqs_lineage_contig",
+            "BGC_region_contig_ids",
+            "MIBiG_ID",
+            "InterPro_ID",
+            "CDS_count",
+            "BGC_complete",
+            "PFAM_domains",
+            "CDS_ID",
+        ],
+        axis=1,
     )
     if verbose:
         print("Done.")
