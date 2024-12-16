@@ -7,7 +7,7 @@ name = "comBGC"
 version = "0.1.0"
 description = "A tool that aggregates, filters and combines the results of BGC prediction tools: antiSMASH, deepBGC, and GECCO."
 readme = "README.md"
-license = "MIT"
+license = { text = "MIT License" }
 authors = [{name = "Tom Richtermeier, Jasmin Frangenberg", email = "tom.richtermeier@gmx.de"}]
 dependencies = [
     "biopython",
