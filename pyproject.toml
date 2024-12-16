@@ -3,16 +3,17 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "combgc"
-version = "0.6.3"
-description = "A tool that aggregates and combines the results of BGC prediction tools: antiSMASH, deepBGC, and GECCO."
+name = "comBGC"
+version = "0.1.0"
+description = "A tool that aggregates, filters and combines the results of BGC prediction tools: antiSMASH, deepBGC, and GECCO."
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 authors = [{name = "Tom Richtermeier, Jasmin Frangenberg", email = "tom.richtermeier@gmx.de"}]
 dependencies = [
-    "biopython>=1.84",
-    "pandas>=1.1.0",
+    "biopython",
+    "pandas",
     "argparse",
+    "numpy"
 ]
 keywords = ["biosynthetic-gene-clusters", "bioinformatics", "genes", "bgc"]
 classifiers = [
@@ -23,7 +24,7 @@ classifiers = [
 requires-python = ">=3.7"
 
 [project.scripts]
-combgc = "your_package.your_script:main"
+combgc = "combgc.comBGC:main"
 
 [project.optional-dependencies]
 dev = [
