@@ -1,5 +1,5 @@
 # comBGC
-<img src="com-bgc-logo.png" alt="Werner Siemens Foundation" width="250" />
+<img src="combgc/images/com-bgc-logo.png" alt="Werner Siemens Foundation" width="250" />
 
 comBGC is a tool that can be used to combine the results of the prediction tools deepBGC, GECCO, and antiSMASH for detecting bionsynthetic gene clusters (BGCs). It combines the results of all three tools and adds different filters, so only hight quality BGCs are included. Furthermore, a merging step is applied to the datasets. This removes the redundancy and combines the results of the prediction tool. This way no duplicate BGCs are included in the final table.
 ### Installation
@@ -62,5 +62,5 @@ This tool was initiated by Jasmin Frangenberg (@jasmezz) and expanded by Tom Ric
 ---
 This project was funded by Werner Siemens Foundation grant ‘Palaeobiotechnology’
 
-<img src="wss.svg" alt="Werner Siemens Foundation" width="250" />
+<img src="combgc/images/wss.svg" alt="Werner Siemens Foundation" width="250" />
 
