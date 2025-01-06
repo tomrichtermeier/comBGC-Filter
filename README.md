@@ -24,26 +24,42 @@ To run comBGC and parse the results of multiple BGC prediction tools into a sing
 
 Using --helpt gives you an overview of all parameters that can be modified, of which `-i`, `-o`, and `--cores` are required.
 
-    arguments:
-        -h, --help            show this help message and exit
-        -i [PATH(s) [PATH(s) ...]], --input [PATH(s) [PATH(s) ...]]
-                                path(s) to the required output file(s) of antiSMASH, DeepBGC and/or GECCO
-                                these can be:
-                                - antiSMASH: <sample name>.gbk and (optional) knownclusterblast/ directory
-                                - DeepBGC:   <sample name>.bgc.tsv
-                                - GECCO:     <sample name>.clusters.tsv
-                                Note: Please provide files from a single sample only. If you would like to
-                                summarize multiple samples, please see the --antismash_multiple_samples flag.
-        -o [PATH], --outdir [PATH]
-                                directory for comBGC output. Default: current directory
-        -a [PATH], --antismash_multiple_samples [PATH]
-                                directory of antiSMASH output. Should contain subfolders (one per
+    comBGC arguments:
+        -h, --help              
+        -i [PATH(s) [PATH(s) ...]], --input [PATH(s) [PATH(s) ...]] # required
+        -o [PATH], --outdir [PATH]                                  # required
+        -a [PATH], --antismash_multiple_samples [PATH] 
+        -vv, --verbose          
+        -v, --version           
+        --cores [CORES]                                             # required
+        --min_length [LENGTH]   
+        --contig_edge [BASES]   
+        --sample_metadata [PATH]
+        --contig_metadata
+
+- `-o, --outdir`
+- `-i, --input` path(s) to the required output file(s) of antiSMASH, DeepBGC and/or GECCO
+                these can be:  
+                    - antiSMASH: <sample name>.gbk and (optional) knownclusterblast/ directory  
+                    - DeepBGC:   <sample name>.bgc.tsv  
+                    - GECCO:     <sample name>.clusters.tsv  
+                Note: Please provide files from a single sample only. If you would like to
+                summarize multiple samples, please see the --antismash_multiple_samples flag.
+- `-o, --outdir` directory for comBGC output. Default: current directory
+- `-a, --antismash_multiple_samples` directory of antiSMASH output. Should contain subfolders (one per
                                 sample). Can only be used if --input is not specified.
-        -vv, --verbose        increase output verbosity
-        -v, --version         show version number and exit
-        --cores CORES         number of CPU cores to use
-        --min_length LENGTH   Minimum length [bp] of BGC sequence to keep. Default: 3000
-        --contig_edge BASES   Exclude BGCs within X bases of the contig edge. Default: 2
+- `-vv, --verbose` increase output verbosity
+- `-v, --version` show version number and exit
+- `--cores` number of CPU cores to use
+- `--min_length` Minimum length [bp] of BGC sequence to keep. Default: 3000 bp
+- `--contig_edge` Exclude BGCs within X bases on the contig edge. Default: 2 bp
+- `--sample_metadata` Path to a TSV file containing sample metadata, 
+                                e.g., 'path/to/sample_metadata.tsv'. The metadata table must have sample names 
+                                in the first column and  contig IDs in the second column.
+- `--contig_metadata` Path to a TSV file containing contig metadata, 
+                                e.g., 'path/to/contig_metadata.tsv'. The metadata table must have sample names 
+                                in the first column and  contig IDs in the second column.
+
 
 **Example Usage**
 
@@ -56,7 +72,7 @@ Using --helpt gives you an overview of all parameters that can be modified, of w
 
 ### Authors
 ---
-This tool was initiated by Jasmin Frangenberg (@jasmezz) and expanded by Tom Richtermeier (@tomrichtermeier).
+This tool was initiated by Jasmin Frangenberg (@jasmezz) and expanded by Tom Richtermeier (@tomrichtermeier), while being supervised by Anan Ibrahim (@Darcy220606)
 
 ### Funding
 ---
