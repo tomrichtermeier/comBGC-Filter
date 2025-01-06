@@ -6,35 +6,29 @@ build-backend = "setuptools.build_meta"
 name = "comBGC"
 version = "0.1.0"
 description = "A tool that aggregates, filters and combines the results of BGC prediction tools: antiSMASH, deepBGC, and GECCO."
-readme = "README.md"
+keywords = ["biosynthetic-gene-clusters", "bioinformatics", "genes", "bgc"]
+readme = {file = "README.txt", content-type = "text/markdown"}
 license = { text = "MIT License" }
-authors = [{name = "Tom Richtermeier, Jasmin Frangenberg", email = "tom.richtermeier@gmx.de"}]
+authors = [
+    { name = "Tom Richtermeier", email = "tom.richtermeier@gmx.de" },
+    { name = "Jasmin Frangenberg", email = "jasmin.frangenberg@example.com" }
+]
 dependencies = [
     "biopython",
     "pandas",
-    "argparse",
     "numpy"
 ]
-keywords = ["biosynthetic-gene-clusters", "bioinformatics", "genes", "bgc"]
+requires-python = ">=3.7"
 classifiers = [
-    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent"
 ]
-requires-python = ">=3.7"
+
+[project.urls]
+Repository = "https://github.com/tomrichtermeier/comBGC-Filter/"
+Issues = "https://github.com/tomrichtermeier/comBGC-Filter/issues"
+
 
 [project.scripts]
-combgc = "combgc.comBGC:main"
-
-[project.optional-dependencies]
-dev = [
-    "pytest>=6.0",
-    "flake8",
-    "black"
-]
-
-[tool.setuptools.package-data]
-your_package = ["LICENSE"]
-
-[tool.setuptools.packages.find]
-where = ["src"]
+combgc = "comBGC:main"
