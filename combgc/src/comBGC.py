@@ -127,6 +127,24 @@ parser.add_argument(
     help="Exclude BGCs within X bases of the contig edge. Default: 2"
 )
 
+parser.add_argument(
+    "--sample_metadata", 
+    dest="[PATH]", 
+    help="""Path to a TSV file containing sample metadata, e.g., 'path/to/sample_metadata.tsv'. 
+The metadata table must have sample names in the first column.""",
+    type=str, 
+    default=None
+)
+
+parser.add_argument(
+    "--contig_metadata", 
+    dest="[PATH]", 
+    help="""Path to a TSV file containing contig metadata, e.g., 'path/to/contig_metadata.tsv'. 
+The metadata table must have sample names in the first column and contig IDs in the second column.""",
+    type=str, 
+    default=None
+)
+
 # Get command line arguments
 args = parser.parse_args()
 
@@ -139,6 +157,9 @@ version = args.version
 cores = args.cores
 min_length = args.min_length
 contig_edge = args.contig_edge
+add_samplemetadata = args.samplemetadata
+add_contigmetadata = args.contigmetadata
+
 
 if version:
     exit("comBGC {version}".format(version=tool_version))
@@ -627,7 +648,11 @@ def gecco_workflow(gecco_paths):
     return gecco_out
 
 
-def filter_deepbgc(table, min_length, contig_edge):
+
+#########################################
+# FUNCTION: Filter bgcs
+#########################################
+def filter_bgc(table, min_length, contig_edge):
     """
     Filters a DataFrame of BGC (Biosynthetic Gene Cluster) data based on length, edge proximity, and tool-specific criteria.
 
@@ -666,6 +691,10 @@ def filter_deepbgc(table, min_length, contig_edge):
     return df
 
 
+
+#########################################
+# FUNCTION: Clean/standardize table
+#########################################
 def cleanup_table(table):
     """
     Cleans up DataFrame by creating a unique identifier (sample_id + contig_id)for each row and standardizing
@@ -709,6 +738,10 @@ def cleanup_table(table):
     return df
 
 
+
+#########################################
+# FUNCTION: Combining prediction tools
+#########################################
 def combine_tool(table, bgc, representative):
     """
     Updates the given table DataFrame to mark the presence of a specific prediction tool.
@@ -738,6 +771,7 @@ def combine_tool(table, bgc, representative):
     table.loc[
         table["identifier"] == representative["identifier"], "Tool_representative"
     ] = representative["Prediction_tool"]
+
 
 
 ########################
@@ -929,6 +963,60 @@ def parallelization(table, cores):
     return filtered_bgcs
 
 
+
+#########################################
+# FUNCTION: Add sample metadata
+#########################################
+def sample_metadata_addition(merged_df, smetadata):
+    """
+    Adds the sample metadata only when turned on.
+    Important to note: the first column must have the sample name and the should be tab seperated.
+    """
+    if smetadata == None :
+        return merged_df
+    else:
+        # add the samples metadata 
+        metadata_df = pd.read_csv(smetadata, sep='\t')
+        metadata_df.rename(columns={metadata_df.columns[0]: 'sample_id'}, inplace=True)
+        # merge it to the df using sample name 'name' as common
+        df1 = merged_df.merge(metadata_df, on='sample_id', how='left')
+        return df1
+
+
+
+#########################################
+# FUNCTION: Add contig metadata
+#########################################
+def contig_metadata_addition(merged_df, cmetadata):
+    """
+    Adds the contig metadata only when turned on.
+    Important to note: the first column must have the sample name and the second name must have contig_id
+                       the table should be tab seperated.
+    """
+    if cmetadata == None :
+        return merged_df
+    else:
+        # add the samples metadata 
+        merged_df = merged_df.drop("mmseqs_lineage_contig", axis=1)
+        metadata_df = pd.read_csv(cmetadata, sep='\t')
+        # rename first column : must contain the sample names
+        metadata_df.rename(columns={metadata_df.columns[0]: 'sample_id'}, inplace=True)
+        # rename second column _ must contain the contig names
+        metadata_df.rename(columns={metadata_df.columns[1]: 'contig_id'}, inplace=True)
+        # ensure that the dataframe is not empty or else KeyError arises
+        if not merged_df.empty:
+            # remove duplicate entries
+            merged_df.drop_duplicates(inplace=True)
+            # merge it to the df using sample name 'name' as common
+            df2 = pd.merge(merged_df, metadata_df, on=['contig_id', 'sample_id'], how='left')
+        else:
+            df2 = merged_df
+        return df2
+
+
+
+
+
 ########################
 # MAIN
 ########################
@@ -999,11 +1087,18 @@ if __name__ == "__main__":
     df["BGC_end"] = pd.to_numeric(df["BGC_end"], errors="coerce", downcast="integer")
     df["BGC_probability"] = pd.to_numeric(df["BGC_probability"], errors="coerce", downcast="integer")
 
-    df = filter_deepbgc(df, min_length, contig_edge)
+    df = filter_bgc(df, min_length, contig_edge)
     df = cleanup_table(df)
     filtered_bgcs = parallelization(df, cores)
     filtered_bgcs["Product_class"] = filtered_bgcs["Product_class"].replace("", "Unknown")  # Replace empty strings
     filtered_bgcs["Product_class"] = filtered_bgcs["Product_class"].fillna("Unknown")
+    filtered_bgcs = filtered_bgcs.drop("identifier", axis=1)
+    
+    # merge additional metadata if present
+    sample_metadata_df = sample_metadata_addition(filtered_bgcs, add_samplemetadata)
+    filtered_bgcs = sample_metadata_df
+    contig_metadata_df = contig_metadata_addition(filtered_bgcs, add_contigmetadata)
+    filtered_bgcs = contig_metadata_df
 
 
     # Write results to TSV
