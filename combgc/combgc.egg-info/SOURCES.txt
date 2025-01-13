@@ -1,0 +1,10 @@
+LICENSE
+README.md
+combgc.py
+pyproject.toml
+combgc.egg-info/PKG-INFO
+combgc.egg-info/SOURCES.txt
+combgc.egg-info/dependency_links.txt
+combgc.egg-info/entry_points.txt
+combgc.egg-info/requires.txt
+combgc.egg-info/top_level.txt
