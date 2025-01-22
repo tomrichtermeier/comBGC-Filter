@@ -39,3 +39,5 @@ combgc = "combgc:main"
 
 [tool.setuptools]
 py-modules = ["combgc"]
+packages = ["functions"]
+include-package-data = true
