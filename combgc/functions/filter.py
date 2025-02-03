@@ -253,7 +253,7 @@ def process_chunk(chunk):
     return filtered_bgcs_chunk
 
 
-def parallelization(table, cores):
+def parallelization(table, cores, verbose):
     """
     Parallelizes the processing of a DataFrame by dividing it into chunks based on the same contig_id
     and processes each chunk in parallel using the specified number of CPU cores. The processed chunks
@@ -271,8 +271,8 @@ def parallelization(table, cores):
     # Convert the grouped DataFrame to a list of groups
     chunks = [group for _, group in grouped_df]
 
-    #if verbose:
-        #print("\nDereplicating the files\n... ", end="")
+    if verbose:
+        print("\nDereplicating the files\n... ", end="")
 
     # Use ProcessPoolExecutor to parallelize the processing
     max_workers = cores  # number of cores
@@ -314,6 +314,6 @@ def parallelization(table, cores):
         ],
         axis=1,
     )
-    #if verbose:
-        #print("Done.")
+    if verbose:
+        print("Done.")
     return filtered_bgcs

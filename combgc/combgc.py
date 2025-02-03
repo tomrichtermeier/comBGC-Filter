@@ -100,7 +100,7 @@ def contig_metadata_addition(merged_df, cmetadata):
 ########################
 
 def main():
-    # warnings.filterwarnings("ignore", category=FutureWarning, message="The behavior of DataFrame concatenation with empty or all-NA entries is deprecated.*")
+    warnings.filterwarnings("ignore", category=FutureWarning, message="The behavior of DataFrame concatenation with empty or all-NA entries is deprecated.*")
 
     tool_version = "0.6.3"
     welcome = """\
@@ -327,9 +327,9 @@ The metadata table must have sample names in the first column and contig IDs in 
     df["BGC_start"] = pd.to_numeric(df["BGC_start"], errors="coerce", downcast="integer")
     df["BGC_end"] = pd.to_numeric(df["BGC_end"], errors="coerce", downcast="integer")
     df["BGC_probability"] = pd.to_numeric(df["BGC_probability"], errors="coerce", downcast="integer")
-    #df = filter_bgc(df, min_length, contig_edge)
+    df = filter_bgc(df, min_length, contig_edge)
     df = cleanup_table(df)
-    filtered_bgcs = parallelization(df, cores)
+    filtered_bgcs = parallelization(df, cores, verbose)
     filtered_bgcs["Product_class"] = filtered_bgcs["Product_class"].replace("", "Unknown")  # Replace empty strings
     filtered_bgcs["Product_class"] = filtered_bgcs["Product_class"].fillna("Unknown")
     filtered_bgcs = filtered_bgcs.drop("identifier", axis=1)
