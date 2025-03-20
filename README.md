@@ -1,5 +1,7 @@
 # comBGC: A workflow for parsing, filtering, and merging biosynthetic gene clusters
-<img src="images/com-bgc-logo.png" alt="Werner Siemens Foundation" width="225" />
+<img src="images/com-bgc-logo.png" alt="Werner Siemens Foundation" width="225" />  
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **comBGC** is a command-line tool that integrates, filters, and refines biosynthetic gene cluster (BGC) predictions from **deepBGC, GECCO, and antiSMASH**. It ensures that only **high-quality, non-redundant BGCs** are included in the final dataset.
 
