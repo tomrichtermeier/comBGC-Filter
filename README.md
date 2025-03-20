@@ -1,5 +1,5 @@
 # comBGC: A workflow for parsing, filtering, and merging biosynthetic gene clusters
-<img src="images/com-bgc-logo.png" alt="Werner Siemens Foundation" width="225" />  
+<img src="https://github.com/user-attachments/assets/1c010bfe-21cf-4bd7-8292-2ff8997cacb8" alt="com-bgc-logo" width="225" />  
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
