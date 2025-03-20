@@ -102,7 +102,7 @@ def contig_metadata_addition(merged_df, cmetadata):
 def main():
     warnings.filterwarnings("ignore", category=FutureWarning, message="The behavior of DataFrame concatenation with empty or all-NA entries is deprecated.*")
 
-    tool_version = "0.6.3"
+    tool_version = "0.6.6"
     welcome = """\
                                                         
         ██████╗ ██████╗ ███╗   ███╗██████╗  ██████╗  ██████╗
