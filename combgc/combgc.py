@@ -102,7 +102,7 @@ def contig_metadata_addition(merged_df, cmetadata):
 def main():
     warnings.filterwarnings("ignore", category=FutureWarning, message="The behavior of DataFrame concatenation with empty or all-NA entries is deprecated.*")
 
-    tool_version = "0.6.7"
+    tool_version = "0.6.8"
     welcome = """\
                                                         
         ██████╗ ██████╗ ███╗   ███╗██████╗  ██████╗  ██████╗
@@ -322,11 +322,7 @@ The metadata table must have sample names in the first column and contig IDs in 
     if not os.path.exists(outdir):
         os.makedirs(outdir)
 
-    summary_all.to_csv(
-        os.path.join(outdir, "combgc_only_gecco.tsv"), sep="\t", index=False
-    )
-
-    ## ADD THE FILTERING PART HERE
+    # filter and standardize the summary table
     df = summary_all.copy()
     df.columns = df.columns.str.strip()
 
@@ -334,14 +330,13 @@ The metadata table must have sample names in the first column and contig IDs in 
     df["BGC_start"] = pd.to_numeric(df["BGC_start"], errors="coerce", downcast="integer")
     df["BGC_end"] = pd.to_numeric(df["BGC_end"], errors="coerce", downcast="integer")
     df["BGC_probability"] = pd.to_numeric(df["BGC_probability"], errors="coerce", downcast="integer")
-    
-    print(summary_all["Prediction_tool"].value_counts())
+
     df = filter_bgc(df, min_length, contig_edge)
     if df.empty:
         raise ValueError("No BGCs remain after filtering.")    
-    print(summary_all["Prediction_tool"].value_counts())
-
     df = cleanup_table(df)
+    
+    # dereplicated BGCs with the same identifier
     filtered_bgcs = parallelization(df, cores, verbose)
     filtered_bgcs["Product_class"] = filtered_bgcs["Product_class"].replace("", "Unknown")  # Replace empty strings
     filtered_bgcs["Product_class"] = filtered_bgcs["Product_class"].fillna("Unknown")
