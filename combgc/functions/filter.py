@@ -38,15 +38,15 @@ def filter_bgc(table, min_length, contig_edge):
     df = pd.concat([df_deepbgc, df_gecco, df_antiSMASH], ignore_index=True)
 
     #Remove BGCs near contig edges
-    df = df.drop(
-        df.loc[
-            (
-                df["contig_id"].str.extract(r"length_(\d+)")[0].astype(int)
-                - df["BGC_end"]
-            ).abs()
-            <= contig_edge
-        ].index
-    )
+    # df = df.drop(
+    #     df.loc[
+    #         (
+    #             df["contig_id"].str.extract(r"length_(\d+)")[0].astype(int)
+    #             - df["BGC_end"]
+    #         ).abs()
+    #         <= contig_edge
+    #     ].index
+    # )
     df = df.drop(df.loc[df["BGC_start"].isin(range(0, contig_edge + 1))].index)
 
     df = df.drop(df.loc[(df["Product_class"] == "Saccharide")].index)

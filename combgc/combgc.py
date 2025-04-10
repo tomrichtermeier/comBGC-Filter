@@ -3,7 +3,7 @@
 # Written by Jasmin Frangenberg and released under the MIT license.
 # See below for full license text.
 
-from Bio import SeqIO
+from Bio import SeqIO, BiopythonParserWarning
 import pandas as pd
 import argparse
 import os
@@ -102,7 +102,7 @@ def contig_metadata_addition(merged_df, cmetadata):
 def main():
     warnings.filterwarnings("ignore", category=FutureWarning, message="The behavior of DataFrame concatenation with empty or all-NA entries is deprecated.*")
 
-    tool_version = "0.6.8"
+    tool_version = "0.6.9"
     welcome = """\
                                                         
         ██████╗ ██████╗ ███╗   ███╗██████╗  ██████╗  ██████╗
@@ -286,28 +286,34 @@ The metadata table must have sample names in the first column and contig IDs in 
     if verbose:
         print(welcome)
         print("\nYou provided input for: " + ", ".join(tools_provided.keys()))
+    
+    with warnings.catch_warnings(record=True) as w:
+        warnings.simplefilter("always", BiopythonParserWarning)
 
-    # Aggregate BGC information into data frame
-    summary_antismash = pd.DataFrame()
-    summary_deepbgc = pd.DataFrame()
-    summary_gecco = pd.DataFrame()
+        # Aggregate BGC information into data frame
+        summary_antismash = pd.DataFrame()
+        summary_deepbgc = pd.DataFrame()
+        summary_gecco = pd.DataFrame()
 
-    for tool in tools_provided.keys():
-        if tool == "antiSMASH":
-            if dir_antismash:
-                antismash_paths = prepare_multisample_input_antismash(dir_antismash)
-                for input_antismash in antismash_paths:
-                    summary_antismash_temp = antismash_workflow(input_antismash, verbose)
-                    summary_antismash = pd.concat(
-                        [summary_antismash, summary_antismash_temp]
-                    )
-            else:
-                summary_antismash = antismash_workflow(input_antismash, verbose)
-        elif tool == "deepBGC":
-            summary_deepbgc = deepbgc_workflow(input_deepbgc, verbose)
-        elif tool == "GECCO":
-            summary_gecco = gecco_workflow(input_gecco, verbose)
-
+        for tool in tools_provided.keys():
+            if tool == "antiSMASH":
+                if dir_antismash:
+                    antismash_paths = prepare_multisample_input_antismash(dir_antismash)
+                    for input_antismash in antismash_paths:
+                        summary_antismash_temp = antismash_workflow(input_antismash, verbose)
+                        summary_antismash = pd.concat(
+                            [summary_antismash, summary_antismash_temp]
+                        )
+                else:
+                    summary_antismash = antismash_workflow(input_antismash, verbose)
+            elif tool == "deepBGC":
+                summary_deepbgc = deepbgc_workflow(input_deepbgc, verbose)
+            elif tool == "GECCO":
+                summary_gecco = gecco_workflow(input_gecco, verbose)
+        
+        if any(issubclass(wi.category, BiopythonParserWarning) for wi in w):
+            print("⚠️  Hinweis: Einige GenBank-Dateien enthalten nicht-standardisierte LOCUS-Zeilen.")
+    
     # Summarize and sort data frame
     summary_all = pd.concat([summary_antismash, summary_deepbgc, summary_gecco])
     summary_all.sort_values(
