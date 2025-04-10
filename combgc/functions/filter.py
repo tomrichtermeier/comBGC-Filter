@@ -6,7 +6,7 @@ from concurrent.futures import ProcessPoolExecutor
 
 
 #########################################
-# FUNCTION: Filter bgcs
+# FUNCTION: Filter BGCs
 #########################################
 def filter_bgc(table, min_length, contig_edge):
     """
@@ -20,20 +20,24 @@ def filter_bgc(table, min_length, contig_edge):
 
     Returns:
         pd.DataFrame: Filtered DataFrame with:
-            - Non-header rows (excludes rows where "sample_id" equals "sample_id").
+            - Excludes header-like rows where ‘sample_id’ is literally the string ‘sample_id’.
             - BGCs meeting minimum length and probability criteria.
             - Excludes BGCs near contig edges and with "Product_class" as "Saccharide".
     """
     df = table.copy()
-    # filter out headings, short bgcs by deepbgc, bgcs that could be cut off, and rows with column names
-    df = df.loc[df["sample_id"] != "sample_id"]
-    df = df.drop(df.loc[df["BGC_length"] < min_length].index)
-    df = df.drop(
-        df.loc[
-            (df["Prediction_tool"] == "deepBGC") & (df["BGC_probability"] < 0.6)
-        ].index
-    )
-    df = df.drop(df.loc[(df["Product_class"] == "Saccharide")].index)
+    df = df.loc[df["sample_id"] != "sample_id"] # remove header rows
+    df = df[df["BGC_length"] >= min_length] # filter by length
+
+    # Filter out BGCs by deepBGC with low probability (easy solution brought weird filter behavior)
+    df_antiSMASH = df[df["Prediction_tool"] == "antiSMASH"]
+    df_deepbgc = df[df["Prediction_tool"] == "deepBGC"]
+    df_gecco = df[df["Prediction_tool"] == "GECCO"]
+    # Apply probability filter to DeepBGC only
+    df_deepbgc = df_deepbgc.drop(df_deepbgc.loc[df_deepbgc["BGC_probability"] < 0.6].index)
+    # Recombine DeepBGC and GECCO before applying other filters
+    df = pd.concat([df_deepbgc, df_gecco, df_antiSMASH], ignore_index=True)
+
+    #Remove BGCs near contig edges
     df = df.drop(
         df.loc[
             (
@@ -44,6 +48,8 @@ def filter_bgc(table, min_length, contig_edge):
         ].index
     )
     df = df.drop(df.loc[df["BGC_start"].isin(range(0, contig_edge + 1))].index)
+
+    df = df.drop(df.loc[(df["Product_class"] == "Saccharide")].index)
     return df
 
 

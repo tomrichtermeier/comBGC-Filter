@@ -102,7 +102,7 @@ def contig_metadata_addition(merged_df, cmetadata):
 def main():
     warnings.filterwarnings("ignore", category=FutureWarning, message="The behavior of DataFrame concatenation with empty or all-NA entries is deprecated.*")
 
-    tool_version = "0.6.6"
+    tool_version = "0.6.7"
     welcome = """\
                                                         
         ██████╗ ██████╗ ███╗   ███╗██████╗  ██████╗  ██████╗
@@ -117,8 +117,8 @@ def main():
                     ........................
         This tool aggregates the results of BGC prediction tools:
                     antiSMASH, deepBGC, and GECCO
-        For detailed usage documentation please refer
-        to https://nf-co.re/funcscan
+             For detailed usage documentation please refer to 
+                      https://nf-co.re/funcscan
         .........................................................""".format(
         version=tool_version
     )
@@ -319,15 +319,28 @@ The metadata table must have sample names in the first column and contig IDs in 
     # Rearrange and rename the columns in the summary df
     summary_all = summary_all.iloc[:, [0, 2, 1] + list(range(3, len(summary_all.columns)))]
     summary_all.rename(columns={'Sample_ID':'sample_id', 'Contig_ID':'contig_id', 'CDS_ID':'BGC_region_contig_ids'}, inplace=True)
+    if not os.path.exists(outdir):
+        os.makedirs(outdir)
+
+    summary_all.to_csv(
+        os.path.join(outdir, "combgc_only_gecco.tsv"), sep="\t", index=False
+    )
 
     ## ADD THE FILTERING PART HERE
     df = summary_all.copy()
+    df.columns = df.columns.str.strip()
 
     df["BGC_length"] = pd.to_numeric(df["BGC_length"], errors="coerce", downcast="integer")
     df["BGC_start"] = pd.to_numeric(df["BGC_start"], errors="coerce", downcast="integer")
     df["BGC_end"] = pd.to_numeric(df["BGC_end"], errors="coerce", downcast="integer")
     df["BGC_probability"] = pd.to_numeric(df["BGC_probability"], errors="coerce", downcast="integer")
+    
+    print(summary_all["Prediction_tool"].value_counts())
     df = filter_bgc(df, min_length, contig_edge)
+    if df.empty:
+        raise ValueError("No BGCs remain after filtering.")    
+    print(summary_all["Prediction_tool"].value_counts())
+
     df = cleanup_table(df)
     filtered_bgcs = parallelization(df, cores, verbose)
     filtered_bgcs["Product_class"] = filtered_bgcs["Product_class"].replace("", "Unknown")  # Replace empty strings

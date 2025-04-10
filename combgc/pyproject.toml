@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "combgc"
-version = "0.6.6"
+version = "0.6.7"
 description = "A tool that aggregates, filters and combines the results of BGC prediction tools: antiSMASH, deepBGC, and GECCO."
 keywords = ["biosynthetic-gene-clusters", "bioinformatics", "genes", "bgc"]
 readme = {file = "README.md", content-type = "text/markdown"}
