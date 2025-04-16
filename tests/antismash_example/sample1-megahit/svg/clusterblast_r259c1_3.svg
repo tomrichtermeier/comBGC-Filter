@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="285,40 296,40 301,35 296,30 285,30 285,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09795&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 24 - 450" locus_tag="NCFMKG_09795" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="303,40 329,40 334,35 329,30 303,30 303,40 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09800&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 490 - 1330" locus_tag="NCFMKG_09800" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="335,40 347,40 352,35 347,30 335,30 335,40 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09805&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1342 - 1804" locus_tag="NCFMKG_09805" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="360,35 365,30 384,30 384,40 365,40 360,35 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09810&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1991 - 2645" locus_tag="NCFMKG_09810" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="385,35 390,30 430,30 430,40 390,40 385,35 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09815&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2649 - 3843" locus_tag="NCFMKG_09815" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="430,35 435,30 454,30 454,40 435,40 430,35 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09820&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3847 - 4489" locus_tag="NCFMKG_09820" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="456,40 490,40 495,35 490,30 456,30 456,40 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09825&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4538 - 5555" locus_tag="NCFMKG_09825" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+</g>
+<g label="NZ_RKRG01000004" description="NZ_RKRG01000004 (69313-91171): Methanobrevibacter gottschalkii DSM 11977 Ga02... (31% of genes show similarity), thioamitides" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_RKRG01000004&amp;start=69313&amp;end=91171" target="_blank">NZ_RKRG01000004 (69313-91171)</a>: Methanobrevibacter gottschalkii DSM 11977 Ga02... (31% of genes show similarity), thioamitides</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 36,90 41,85 36,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08800&lt;/b&gt;&lt;br&gt;glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit&lt;br&gt;Location: 90173 - 89091" locus_tag="EDC42_RS08800" class="clusterblast-orf" id="dummy-1_h1_3_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="41,90 157,90 162,85 157,80 41,80 41,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08795&lt;/b&gt;&lt;br&gt;carbamoyl-phosphate synthase large subunit&lt;br&gt;Location: 89068 - 85892" locus_tag="EDC42_RS08795" class="clusterblast-orf" id="dummy-1_h1_3_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="163,85 168,80 183,80 183,90 168,90 163,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08790&lt;/b&gt;&lt;br&gt;DUF2089 domain-containing protein&lt;br&gt;Location: 85874 - 85344" locus_tag="EDC42_RS08790" class="clusterblast-orf" id="dummy-1_h1_3_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="190,90 229,90 234,85 229,80 190,80 190,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08785&lt;/b&gt;&lt;br&gt;amidohydrolase family protein&lt;br&gt;Location: 85151 - 83997" locus_tag="EDC42_RS08785" class="clusterblast-orf" id="dummy-1_h1_3_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="236,90 247,90 252,85 247,80 236,80 236,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08780&lt;/b&gt;&lt;br&gt;universal stress protein&lt;br&gt;Location: 83955 - 83533&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_09795&lt;/b&gt;&lt;br&gt;Percentage identity: 91&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 253&lt;br&gt;E-value: 2.15e-86" locus_tag="EDC42_RS08780" class="clusterblast-orf" id="dummy-1_h1_3_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="253,90 280,90 285,85 280,80 253,80 253,90 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08775&lt;/b&gt;&lt;br&gt;CBS domain-containing protein&lt;br&gt;Location: 83486 - 82641&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_09800&lt;/b&gt;&lt;br&gt;Percentage identity: 90&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 475&lt;br&gt;E-value: 1.32e-169" locus_tag="EDC42_RS08775" class="clusterblast-orf" id="dummy-1_h1_3_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="286,90 298,90 303,85 298,80 286,80 286,90 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08770&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 82633 - 82175&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_09805&lt;/b&gt;&lt;br&gt;Percentage identity: 76&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 233&lt;br&gt;E-value: 8.86e-78" locus_tag="EDC42_RS08770" class="clusterblast-orf" id="dummy-1_h1_3_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="303,85 308,80 341,80 341,90 308,90 303,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08765&lt;/b&gt;&lt;br&gt;7-cyano-7-deazaguanine synthase&lt;br&gt;Location: 82178 - 81168" locus_tag="EDC42_RS08765" class="clusterblast-orf" id="dummy-1_h1_3_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="341,85 346,80 366,80 366,90 346,90 341,85 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08760&lt;/b&gt;&lt;br&gt;TfuA-related McrA-glycine thioamidation protein&lt;br&gt;Location: 81171 - 80521&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_09810&lt;/b&gt;&lt;br&gt;Percentage identity: 78&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 319&lt;br&gt;E-value: 7.63e-110" locus_tag="EDC42_RS08760" class="clusterblast-orf" id="dummy-1_h1_3_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="366,85 371,80 412,80 412,90 371,90 366,85 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08755&lt;/b&gt;&lt;br&gt;YcaO-related McrA-glycine thioamidation protein&lt;br&gt;Location: 80516 - 79314&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_09815&lt;/b&gt;&lt;br&gt;Percentage identity: 77&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 605&lt;br&gt;E-value: 7.35e-217" locus_tag="EDC42_RS08755" class="clusterblast-orf" id="dummy-1_h1_3_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="412,85 417,80 436,80 436,90 417,90 412,85 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08750&lt;/b&gt;&lt;br&gt;site-2 protease family protein&lt;br&gt;Location: 79312 - 78671&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_09820&lt;/b&gt;&lt;br&gt;Percentage identity: 75&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 314&lt;br&gt;E-value: 5.6e-108" locus_tag="EDC42_RS08750" class="clusterblast-orf" id="dummy-1_h1_3_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="439,90 473,90 478,85 473,80 439,80 439,90 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08745&lt;/b&gt;&lt;br&gt;aminopeptidase P family protein&lt;br&gt;Location: 78593 - 77577&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_09825&lt;/b&gt;&lt;br&gt;Percentage identity: 76&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 546&lt;br&gt;E-value: 1.47e-195" locus_tag="EDC42_RS08745" class="clusterblast-orf" id="dummy-1_h1_3_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="488,90 518,90 523,85 518,80 488,80 488,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08740&lt;/b&gt;&lt;br&gt;type II secretion system F family protein&lt;br&gt;Location: 77318 - 76392" locus_tag="EDC42_RS08740" class="clusterblast-orf" id="dummy-1_h1_3_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="523,90 525,90 530,85 525,80 523,80 523,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08735&lt;/b&gt;&lt;br&gt;class III signal peptide-containing protein&lt;br&gt;Location: 76392 - 76210" locus_tag="EDC42_RS08735" class="clusterblast-orf" id="dummy-1_h1_3_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="531,90 562,90 567,85 562,80 531,80 531,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08730&lt;/b&gt;&lt;br&gt;bile acid:sodium symporter family protein&lt;br&gt;Location: 76174 - 75227" locus_tag="EDC42_RS08730" class="clusterblast-orf" id="dummy-1_h1_3_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="573,85 578,80 595,80 595,90 578,90 573,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08725&lt;/b&gt;&lt;br&gt;TMEM175 family protein&lt;br&gt;Location: 75071 - 74499" locus_tag="EDC42_RS08725" class="clusterblast-orf" id="dummy-1_h1_3_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="594,85 599,80 616,80 616,90 599,90 594,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08720&lt;/b&gt;&lt;br&gt;TMEM175 family protein&lt;br&gt;Location: 74509 - 73928" locus_tag="EDC42_RS08720" class="clusterblast-orf" id="dummy-1_h1_3_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="618,90 667,90 672,85 667,80 618,80 618,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08715&lt;/b&gt;&lt;br&gt;lactaldehyde dehydrogenase&lt;br&gt;Location: 73877 - 72465" locus_tag="EDC42_RS08715" class="clusterblast-orf" id="dummy-1_h1_3_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="673,85 678,80 700,80 700,90 678,90 673,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08710&lt;/b&gt;&lt;br&gt;tRNA-binding protein&lt;br&gt;Location: 72443 - 71721" locus_tag="EDC42_RS08710" class="clusterblast-orf" id="dummy-1_h1_3_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="706,90 716,90 721,85 716,80 706,80 706,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08705&lt;/b&gt;&lt;br&gt;PRC-barrel domain-containing protein&lt;br&gt;Location: 71563 - 71162" locus_tag="EDC42_RS08705" class="clusterblast-orf" id="dummy-1_h1_3_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="723,90 747,90 752,85 747,80 723,80 723,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08700&lt;/b&gt;&lt;br&gt;aspartate dehydrogenase&lt;br&gt;Location: 71113 - 70349" locus_tag="EDC42_RS08700" class="clusterblast-orf" id="dummy-1_h1_3_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="752,90 774,90 779,85 774,80 752,80 752,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;EDC42_RS08695&lt;/b&gt;&lt;br&gt;tRNA(His) guanylyltransferase Thg1 family protein&lt;br&gt;Location: 70349 - 69627" locus_tag="EDC42_RS08695" class="clusterblast-orf" id="dummy-1_h1_3_21"  />
+</g>
+</svg>

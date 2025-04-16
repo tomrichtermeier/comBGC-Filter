@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="230,35 235,30 285,30 285,40 235,40 230,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_03790&lt;/b&gt;&lt;br&gt;RNA polymerase sigma factor SigA&lt;br&gt;Location: 586 - 1924" locus_tag="NCFMKG_03790" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="289,35 294,30 365,30 365,40 294,40 289,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_03795&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2022 - 3897" locus_tag="NCFMKG_03795" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="370,35 375,30 426,30 426,40 375,40 370,35 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_03800&lt;/b&gt;&lt;br&gt;Thioether cross-link-forming SCIFF peptide maturase&lt;br&gt;Location: 4022 - 5399" locus_tag="NCFMKG_03800" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="433,35 438,30 439,30 439,40 438,40 433,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_03805&lt;/b&gt;&lt;br&gt;Six-cysteine peptide SCIFF&lt;br&gt;Location: 5580 - 5727" locus_tag="NCFMKG_03805" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="442,35 447,30 459,30 459,40 447,40 442,35 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_03810&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5811 - 6234" locus_tag="NCFMKG_03810" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="464,35 469,30 513,30 513,40 469,40 464,35 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_03815&lt;/b&gt;&lt;br&gt;Queuine tRNA-ribosyltransferase&lt;br&gt;Location: 6349 - 7564" locus_tag="NCFMKG_03815" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="513,35 518,30 549,30 549,40 518,40 513,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_03820&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7556 - 8456" locus_tag="NCFMKG_03820" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+</g>
+<g label="NZ_NIBG01000001" description="NZ_NIBG01000001 (39610-61298): Anaeromicrobium sediminis strain DY2726D Seq1,... (20% of genes show similarity), ranthipeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_NIBG01000001&amp;start=39610&amp;end=61298" target="_blank">NZ_NIBG01000001 (39610-61298)</a>: Anaeromicrobium sediminis strain DY2726D Seq1,... (20% of genes show similarity), ranthipeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 60,80 60,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00280&lt;/b&gt;&lt;br&gt;coproporphyrinogen dehydrogenase HemZ&lt;br&gt;Location: 59742 - 58261" locus_tag="CCE28_RS00280" class="clusterblast-orf" id="dummy-1_h1_10_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="60,85 65,80 67,80 67,90 65,90 60,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS21925&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 58246 - 58073" locus_tag="CCE28_RS21925" class="clusterblast-orf" id="dummy-1_h1_10_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="70,85 75,80 95,80 95,90 75,90 70,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00275&lt;/b&gt;&lt;br&gt;MBL fold metallo-hydrolase&lt;br&gt;Location: 58008 - 57388" locus_tag="CCE28_RS00275" class="clusterblast-orf" id="dummy-1_h1_10_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="95,85 100,80 114,80 114,90 100,90 95,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00270&lt;/b&gt;&lt;br&gt;D-aminoacyl-tRNA deacylase&lt;br&gt;Location: 57377 - 56928" locus_tag="CCE28_RS00270" class="clusterblast-orf" id="dummy-1_h1_10_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="114,85 119,80 202,80 202,90 119,90 114,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00265&lt;/b&gt;&lt;br&gt;bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase&lt;br&gt;Location: 56914 - 54743" locus_tag="CCE28_RS00265" class="clusterblast-orf" id="dummy-1_h1_10_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="205,85 210,80 226,80 226,90 210,90 205,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00260&lt;/b&gt;&lt;br&gt;adenine phosphoribosyltransferase&lt;br&gt;Location: 54672 - 54160" locus_tag="CCE28_RS00260" class="clusterblast-orf" id="dummy-1_h1_10_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="232,85 237,80 268,80 268,90 237,90 232,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00255&lt;/b&gt;&lt;br&gt;protein translocase subunit SecF&lt;br&gt;Location: 53998 - 53117" locus_tag="CCE28_RS00255" class="clusterblast-orf" id="dummy-1_h1_10_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="269,85 274,80 319,80 319,90 274,90 269,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00250&lt;/b&gt;&lt;br&gt;protein translocase subunit SecD&lt;br&gt;Location: 53099 - 51852" locus_tag="CCE28_RS00250" class="clusterblast-orf" id="dummy-1_h1_10_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="321,85 326,80 341,80 341,90 326,90 321,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00245&lt;/b&gt;&lt;br&gt;gamma carbonic anhydrase family protein&lt;br&gt;Location: 51823 - 51311" locus_tag="CCE28_RS00245" class="clusterblast-orf" id="dummy-1_h1_10_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="342,85 347,80 397,80 397,90 347,90 342,85 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00240&lt;/b&gt;&lt;br&gt;thioether cross-link-forming SCIFF peptide maturase&lt;br&gt;Location: 51298 - 49949&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_03800&lt;/b&gt;&lt;br&gt;Percentage identity: 45&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 404&lt;br&gt;E-value: 6.67e-136" locus_tag="CCE28_RS00240" class="clusterblast-orf" id="dummy-1_h1_10_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="405,85 410,80 410,80 410,90 410,90 405,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00235&lt;/b&gt;&lt;br&gt;six-cysteine ranthipeptide SCIFF&lt;br&gt;Location: 49751 - 49611" locus_tag="CCE28_RS00235" class="clusterblast-orf" id="dummy-1_h1_10_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="413,85 418,80 429,80 429,90 418,90 413,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00230&lt;/b&gt;&lt;br&gt;TIGR04086 family membrane protein&lt;br&gt;Location: 49546 - 49148" locus_tag="CCE28_RS00230" class="clusterblast-orf" id="dummy-1_h1_10_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="434,85 439,80 490,80 490,90 439,90 434,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00225&lt;/b&gt;&lt;br&gt;adenylosuccinate lyase&lt;br&gt;Location: 49033 - 47654" locus_tag="CCE28_RS00225" class="clusterblast-orf" id="dummy-1_h1_10_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="494,85 499,80 528,80 528,90 499,90 494,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00220&lt;/b&gt;&lt;br&gt;PHP domain-containing protein&lt;br&gt;Location: 47544 - 46717" locus_tag="CCE28_RS00220" class="clusterblast-orf" id="dummy-1_h1_10_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="532,85 537,80 543,80 543,90 537,90 532,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00215&lt;/b&gt;&lt;br&gt;stage V sporulation protein SpoVS&lt;br&gt;Location: 46602 - 46342" locus_tag="CCE28_RS00215" class="clusterblast-orf" id="dummy-1_h1_10_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="552,85 557,80 615,80 615,90 557,90 552,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00210&lt;/b&gt;&lt;br&gt;ribonuclease Y&lt;br&gt;Location: 46111 - 44570" locus_tag="CCE28_RS00210" class="clusterblast-orf" id="dummy-1_h1_10_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="624,85 629,80 635,80 635,90 629,90 624,85 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00205&lt;/b&gt;&lt;br&gt;preprotein translocase subunit YajC&lt;br&gt;Location: 44343 - 44074&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_03810&lt;/b&gt;&lt;br&gt;Percentage identity: 41&lt;br&gt;Percentage coverage: 45&lt;br&gt;BLAST bit score: 49&lt;br&gt;E-value: 1.51e-06" locus_tag="CCE28_RS00205" class="clusterblast-orf" id="dummy-1_h1_10_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="638,85 643,80 683,80 683,90 643,90 638,85 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00200&lt;/b&gt;&lt;br&gt;tRNA guanosine(34) transglycosylase Tgt&lt;br&gt;Location: 44004 - 42886&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_03815&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 92&lt;br&gt;BLAST bit score: 536&lt;br&gt;E-value: 5.97e-190" locus_tag="CCE28_RS00200" class="clusterblast-orf" id="dummy-1_h1_10_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="684,85 689,80 726,80 726,90 689,90 684,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00195&lt;/b&gt;&lt;br&gt;tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA&lt;br&gt;Location: 42858 - 41833&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_03820&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 87&lt;br&gt;BLAST bit score: 313&lt;br&gt;E-value: 3.21e-104" locus_tag="CCE28_RS00195" class="clusterblast-orf" id="dummy-1_h1_10_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="726,85 731,80 780,80 780,90 731,90 726,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;CCE28_RS00190&lt;/b&gt;&lt;br&gt;SpoIID/LytB domain-containing protein&lt;br&gt;Location: 41821 - 40508" locus_tag="CCE28_RS00190" class="clusterblast-orf" id="dummy-1_h1_10_19"  />
+</g>
+</svg>

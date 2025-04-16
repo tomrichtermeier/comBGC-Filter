@@ -1,0 +1,1025 @@
+ClusterBlast scores for NODE_15_length_13587_cov_90.8
+
+Table of genes, locations, strands and annotations of query cluster:
+NCFMKG_01145	0	1101	+	hypothetical protein	
+NCFMKG_01150	1134	6612	+	hypothetical protein	
+NCFMKG_01155	6608	7319	+	hypothetical protein	
+NCFMKG_01160	7347	8835	-	ABC transporter domain-containing protein	
+NCFMKG_01165	8831	9596	-	Cobalt transporter	
+NCFMKG_01170	9597	10194	-	Trep-Strep domain-containing protein	
+NCFMKG_01175	10537	11584	+	N-acetyl sugar amidotransferase	
+NCFMKG_01180	11961	12210	-	hypothetical protein	
+
+
+Significant hits: 
+1. NZ_VLKC01000002	Sporomusa sp. KB1 SalpaDRAFT_Scaffold1.2, whole genome shotgun sequence
+2. NZ_CTRP01000014	Sporomusa ovata isolate Sporomusa ovata strain An4, whole genome shotgun sequence
+3. NZ_CP010978	Pelosinus fermentans JBW45 chromosome, complete genome
+4. NC_015738	Eggerthella sp. YY7918, complete sequence
+5. NZ_CP033719	Propionibacterium acidifaciens strain FDAARGOS_576 chromosome, complete genome
+6. NZ_BMMP01000003	Streptomyces daqingensis strain CGMCC 4.7178 sequence03, whole genome shotgun sequence
+7. NZ_CZBP01000007	Blautia obeum strain 2789STDY5834957, whole genome shotgun sequence
+8. NZ_QULA01000001	Blautia sp. OM07-19 OM07-19.Scaf1, whole genome shotgun sequence
+9. NZ_KB933398	Lysinibacillus sphaericus OT4b.31 Ls31_scaffold1, whole genome shotgun sequence
+10. NZ_CP009438	Streptomyces glaucescens strain GLA.O chromosome, complete genome
+11. NZ_CP032848	Brevibacillus laterosporus strain Bl-zj chromosome, complete genome
+12. NZ_AXBT01000003	Brevibacillus laterosporus PE36 PE_F_(paired)_contig_11, whole genome shotgun sequence
+13. NZ_CP025545	Brevibacillus laterosporus strain ZQ2 chromosome, complete genome
+14. NZ_CP007806	Brevibacillus laterosporus LMG 15441 chromosome, complete genome
+15. NZ_CP017705	Brevibacillus laterosporus DSM 25 chromosome, complete genome
+16. NZ_CP033464	Brevibacillus laterosporus strain 1821L chromosome, complete genome
+17. NZ_MBFH01000010	Brevibacillus laterosporus strain Uniss_18 NODE_10_length_178834_cov_57.9834, whole genome shotgun sequence
+18. NZ_CP048799	Brevibacillus sp. 7WMA2 chromosome, complete genome
+19. NZ_CP032410	Brevibacillus laterosporus strain E7593-50 chromosome, complete genome
+20. NZ_AP018449	Methylomusa anaerophila strain MMFC1 chromosome, complete genome
+21. NZ_CP064090	Brevibacillus parabrevis strain B3 chromosome, complete genome
+22. NZ_CP118544	Brevibacillus parabrevis strain BCP-09 chromosome, complete genome
+23. NZ_CP085874	Brevibacillus sp. HD3.3A chromosome, complete genome
+24. NZ_FOYZ01000007	Anaeromicropila populeti strain 743A, whole genome shotgun sequence
+25. NZ_JADMVR010000001	Enterocloster bolteae strain 1001302B_160321_D9 NODE_1_length_575847_cov_24.8808, whole genome shotgun sequence
+26. NZ_KB851149	Enterocloster bolteae 90B8 acBSf-supercont1.2, whole genome shotgun sequence
+27. NZ_CP022464	Enterocloster bolteae strain ATCC BAA-613 chromosome, complete genome
+28. NZ_KK211336	Clostridium beijerinckii HUN142 T483DRAFT_scaffold00002.2, whole genome shotgun sequence
+29. NZ_CP107022	Clostridium beijerinckii strain CloBei18h chromosome, complete genome
+30. NZ_LN908213	Clostridium beijerinckii isolate C. beijerinckii DSM 6423 chromosome I, complete sequence
+31. NZ_CP013238	Clostridium butyricum strain CDC_51208 plasmid pNPD4_2, complete sequence
+32. NZ_CP016087	Clostridium saccharoperbutylacetonicum strain N1-504 chromosome, complete genome
+33. NZ_QRDZ01000004	Cohnella phaseoli strain CECT 7287 Ga0244611_104, whole genome shotgun sequence
+34. NZ_JANAVO010000002	Allokutzneria sp. A3M-2-11 16 NODE_2_length_762498_cov_151.292993, whole genome shotgun sequence
+35. NZ_JAIWIY010000001	Anaerococcus degeneri strain FDAARGOS_1538 000000F_arrow_pilon, whole genome shotgun sequence
+36. NZ_CP066014	Anaerococcus vaginalis strain FDAARGOS_988 chromosome, complete genome
+37. NZ_CP058561	Vallitalea guaymasensis strain Ra1766G1 chromosome, complete genome
+38. NZ_JAQDGY010000011	Blautia intestinalis strain AF99-42 AF99-42.Scaf11, whole genome shotgun sequence
+39. NZ_LR134442	Propionibacterium australiense strain NCTC13651 chromosome 1, complete sequence
+40. NZ_CP094823	Mammaliicoccus sciuri strain IVB6217 chromosome, complete genome
+41. NZ_QGTH01000010	Finegoldia magna strain DSM 20470 Ga0244520_110, whole genome shotgun sequence
+42. NZ_LACQ01000003	Streptomyces sp. OspMP-M45 YUMDRAFT_scaffold_2.3_C, whole genome shotgun sequence
+43. NZ_CP036259	Sporomusa termitida strain DSM 4440 chromosome, complete genome
+44. NZ_CP029342	Streptomyces sp. SM18 chromosome, complete genome
+45. NZ_VFNO01000005	Brevibacillus sp. AG162 Ga0222362_105, whole genome shotgun sequence
+46. NZ_LR134338	Brevibacillus brevis strain NCTC2611 chromosome 1, complete sequence
+47. NZ_CP023474	Brevibacillus brevis X23 chromosome, complete genome
+48. NZ_CP018145	Brevibacillus formosus strain NF2 chromosome, complete genome
+49. NZ_CP085876	Brevibacillus sp. DP1.3A chromosome, complete genome
+50. NZ_CP042161	Brevibacillus brevis strain HK544 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NZ_VLKC01000002
+Source: Sporomusa sp. KB1 SalpaDRAFT_Scaffold1.2, whole genome shotgun sequence
+Type: NRP-metallophore,NRPS,NRPS-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3158.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SALPA_RS31455	SALPA_RS31455	1344257	1345774	-	AMP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	SALPA_RS09930	44	301	91.80327868852459	9.35e-94
+NCFMKG_01145	SALPA_RS09895	39	233	93.44262295081968	9.85e-72
+NCFMKG_01150	SALPA_RS09920	36	1003	101.53424657534246	0.0
+NCFMKG_01150	SALPA_RS09905	33	651	82.57534246575342	2.55e-194
+NCFMKG_01150	SALPA_RS09900	38	327	26.9041095890411	3.46e-96
+NCFMKG_01160	SALPA_RS09975	45	413	101.41414141414143	2.19e-138
+NCFMKG_01165	SALPA_RS09980	35	140	88.9763779527559	2.34e-38
+NCFMKG_01170	SALPA_RS09985	34	90	100.0	2.61e-20
+
+
+
+>>
+2. NZ_CTRP01000014
+Source: Sporomusa ovata isolate Sporomusa ovata strain An4, whole genome shotgun sequence
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2779.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SPAN4DRAFT_RS18535	SPAN4DRAFT_RS18535	340290	343387	-	efflux_RND_transporter_permease_subunit
+SPAN4DRAFT_RS28070	SPAN4DRAFT_RS28070	363966	365516	-	AMP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	SPAN4DRAFT_RS18560	45	312	92.89617486338798	1.93e-102
+NCFMKG_01150	SPAN4DRAFT_RS28060	43	1275	92.6027397260274	0.0
+NCFMKG_01150	SPAN4DRAFT_RS18570	34	751	81.75342465753424	3.94e-230
+NCFMKG_01160	SPAN4DRAFT_RS18610	42	335	92.72727272727272	4.47e-108
+NCFMKG_01165	SPAN4DRAFT_RS18615	31	106	87.79527559055119	1.16e-25
+
+
+
+>>
+3. NZ_CP010978
+Source: Pelosinus fermentans JBW45 chromosome, complete genome
+Type: NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2333.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	JBW_RS17860	46	319	92.89617486338798	1.44e-100
+NCFMKG_01150	JBW_RS17855	36	1018	101.26027397260273	0.0
+NCFMKG_01150	JBW_RS17845	37	546	49.86301369863014	3.17e-158
+NCFMKG_01160	JBW_RS17885	44	345	92.72727272727272	1.57e-111
+NCFMKG_01165	JBW_RS17880	34	105	89.37007874015748	4.43e-25
+
+
+
+>>
+4. NC_015738
+Source: Eggerthella sp. YY7918, complete sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2058.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EGYY_RS00105	EGYY_RS00105	24849	25187	-	type_II_toxin-antitoxin_system_PemK/MazF_family_toxin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	EGYY_RS00190	36	204	96.17486338797814	1.37e-60
+NCFMKG_01150	EGYY_RS00185	33	897	101.58904109589042	2.56e-291
+NCFMKG_01150	EGYY_RS00175	36	543	51.94520547945205	6.05e-157
+NCFMKG_01160	EGYY_RS00155	39	342	95.35353535353536	3.69e-111
+NCFMKG_01165	EGYY_RS00150	32	72	43.7007874015748	5.99e-13
+
+
+
+>>
+5. NZ_CP033719
+Source: Propionibacterium acidifaciens strain FDAARGOS_576 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1886.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	EGX94_RS02975	34	160	68.5792349726776	6.53e-44
+NCFMKG_01150	EGX94_RS02970	31	761	104.16438356164383	8.59e-240
+NCFMKG_01150	EGX94_RS02955	31	552	81.26027397260273	1.82e-160
+NCFMKG_01160	EGX94_RS02920	39	327	97.77777777777777	1.01e-104
+NCFMKG_01165	EGX94_RS02925	45	86	38.188976377952756	7.03e-18
+
+
+
+>>
+6. NZ_BMMP01000003
+Source: Streptomyces daqingensis strain CGMCC 4.7178 sequence03, whole genome shotgun sequence
+Type: NRPS,NRPS-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1878.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	IEY56_RS06100	36	206	97.26775956284153	2.51e-61
+NCFMKG_01150	IEY56_RS06095	43	734	53.75342465753425	4.78e-235
+NCFMKG_01150	IEY56_RS06090	32	582	84.27397260273972	1.27e-176
+NCFMKG_01160	IEY56_RS06130	37	272	97.97979797979798	1.12e-83
+NCFMKG_01165	IEY56_RS06125	31	84	86.22047244094489	3.14e-17
+
+
+
+>>
+7. NZ_CZBP01000007
+Source: Blautia obeum strain 2789STDY5834957, whole genome shotgun sequence
+Type: NRPS,cyclic-lactone-autoinducer
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2834.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+ARA22_RS05955	ARA22_RS05955	83498	84188	+	DDE-type_integrase/transposase/recombinase
+ARA22_RS20050	ARA22_RS20050	84617	85435	+	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	ARA22_RS06035	35	235	93.98907103825137	1.25e-72
+NCFMKG_01145	ARA22_RS06015	37	219	92.89617486338798	2.37e-66
+NCFMKG_01150	ARA22_RS06010	34	1070	100.16438356164383	0.0
+NCFMKG_01150	ARA22_RS06040	38	587	50.52054794520547	2.38e-172
+NCFMKG_01150	ARA22_RS06025	38	280	23.45205479452055	2.62e-75
+NCFMKG_01160	ARA22_RS05975	44	376	97.97979797979798	5.97e-124
+NCFMKG_01170	ARA22_RS05985	32	67	103.03030303030303	9.2e-12
+
+
+
+>>
+8. NZ_QULA01000001
+Source: Blautia sp. OM07-19 OM07-19.Scaf1, whole genome shotgun sequence
+Type: NRPS,cyclic-lactone-autoinducer
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2834.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DXC01_RS01480	DXC01_RS01480	365675	366493	-	transposase
+DXC01_RS01485	DXC01_RS01485	366922	367612	-	DDE-type_integrase/transposase/recombinase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	DXC01_RS01405	35	235	93.98907103825137	1.25e-72
+NCFMKG_01145	DXC01_RS01425	37	219	92.89617486338798	2.37e-66
+NCFMKG_01150	DXC01_RS01430	34	1070	100.16438356164383	0.0
+NCFMKG_01150	DXC01_RS01400	38	587	50.52054794520547	2.38e-172
+NCFMKG_01150	DXC01_RS01415	38	280	23.45205479452055	2.62e-75
+NCFMKG_01160	DXC01_RS01470	44	376	97.97979797979798	5.97e-124
+NCFMKG_01170	DXC01_RS01460	32	67	103.03030303030303	9.2e-12
+
+
+
+>>
+9. NZ_KB933398
+Source: Lysinibacillus sphaericus OT4b.31 Ls31_scaffold1, whole genome shotgun sequence
+Type: NRPS,betalactone
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1437.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	H131_RS04375	34	233	92.34972677595628	5.76e-68
+NCFMKG_01150	H131_RS04350	41	679	52.821917808219176	4.74e-213
+NCFMKG_01155	H131_RS04345	48	127	58.89830508474576	6.85e-35
+NCFMKG_01160	H131_RS04330	40	322	96.76767676767678	5.2e-103
+NCFMKG_01165	H131_RS04335	36	76	42.125984251968504	2.24e-14
+
+
+
+>>
+10. NZ_CP009438
+Source: Streptomyces glaucescens strain GLA.O chromosome, complete genome
+Type: NRP-metallophore,NRPS,NRPS-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 3459.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SGLAU_RS36130	SGLAU_RS36130	1048727	1048819	+	procyclic_form-specific_polypeptide_B-alpha
+SGLAU_RS04620	SGLAU_RS04620	1092163	1093485	-	FAD-dependent_oxidoreductase
+SGLAU_RS36135	SGLAU_RS36135	1093481	1093501	-	hypothetical_protein
+SGLAU_RS36140	SGLAU_RS36140	1093501	1093623	-	hypothetical_protein
+SGLAU_RS36145	SGLAU_RS36145	1099293	1099874	+	HAD-IIIA_family_hydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	SGLAU_RS04390	35	195	98.08743169398907	3.71e-57
+NCFMKG_01150	SGLAU_RS04570	37	1007	100.54794520547945	0.0
+NCFMKG_01150	SGLAU_RS04395	44	731	54.410958904109584	3.76e-233
+NCFMKG_01150	SGLAU_RS04400	32	588	80.98630136986301	8.08e-179
+NCFMKG_01150	SGLAU_RS04580	32	572	81.31506849315069	3.83e-173
+NCFMKG_01160	SGLAU_RS04360	37	274	99.79797979797979	3.44e-84
+NCFMKG_01165	SGLAU_RS04365	35	92	86.61417322834646	6.25e-20
+
+
+
+>>
+11. NZ_CP032848
+Source: Brevibacillus laterosporus strain Bl-zj chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2760.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+D8Z77_RS01575	D8Z77_RS01575	329374	329610	+	hypothetical_protein
+D8Z77_RS01610	D8Z77_RS01610	339114	340257	-	VWA_domain-containing_protein
+D8Z77_RS01635	D8Z77_RS01635	345676	346094	-	DUF3995_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	D8Z77_RS01650	45	308	93.71584699453553	3.77e-96
+NCFMKG_01150	D8Z77_RS01645	42	1376	101.6986301369863	0.0
+NCFMKG_01150	D8Z77_RS01660	33	747	81.53424657534246	1.07e-226
+NCFMKG_01160	D8Z77_RS01685	40	329	95.95959595959596	7.1e-106
+
+
+
+>>
+12. NZ_AXBT01000003
+Source: Brevibacillus laterosporus PE36 PE_F_(paired)_contig_11, whole genome shotgun sequence
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2756.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+P615_RS02275	P615_RS02275	85100	85564	-	2-isopropylmalate_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	P615_RS02200	45	306	93.71584699453553	1.05e-95
+NCFMKG_01150	P615_RS02205	42	1374	101.86301369863014	0.0
+NCFMKG_01150	P615_RS02190	33	746	81.53424657534246	2.76e-226
+NCFMKG_01160	P615_RS02165	41	330	95.95959595959596	5.03e-106
+
+
+
+>>
+13. NZ_CP025545
+Source: Brevibacillus laterosporus strain ZQ2 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2755.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+C0R09_RS17880	C0R09_RS17880	4016082	4017286	-	amidohydrolase
+C0R09_RS17895	C0R09_RS17895	4018425	4019025	-	cytochrome_aa3_quinol_oxidase_subunit_III
+C0R09_RS17900	C0R09_RS17900	4019044	4020883	-	cytochrome_aa3_quinol_oxidase_subunit_I
+C0R09_RS17905	C0R09_RS17905	4021015	4021868	-	cytochrome_aa3_quinol_oxidase_subunit_II
+C0R09_RS17920	C0R09_RS17920	4024714	4025385	-	PhzF_family_phenazine_biosynthesis_isomerase
+C0R09_RS17925	C0R09_RS17925	4025569	4026512	-	metallophosphoesterase
+C0R09_RS17930	C0R09_RS17930	4026622	4028281	-	glycerol-3-phosphate_dehydrogenase/oxidase
+C0R09_RS17935	C0R09_RS17935	4028457	4029967	-	glycerol_kinase_GlpK
+C0R09_RS17940	C0R09_RS17940	4030025	4030734	-	aquaporin_family_protein
+C0R09_RS17945	C0R09_RS17945	4030917	4031514	-	glycerol-3-phosphate_responsive_antiterminator
+C0R09_RS17990	C0R09_RS17990	4047929	4048229	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	C0R09_RS18065	45	307	93.71584699453553	7.44e-96
+NCFMKG_01150	C0R09_RS18060	42	1367	101.6986301369863	0.0
+NCFMKG_01150	C0R09_RS18075	34	748	81.36986301369863	4.18e-227
+NCFMKG_01160	C0R09_RS18100	41	333	95.95959595959596	3.18e-107
+
+
+
+>>
+14. NZ_CP007806
+Source: Brevibacillus laterosporus LMG 15441 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2753.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BRLA_RS24840	BRLA_RS24840	4052755	4053056	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	BRLA_RS17895	44	307	93.44262295081968	8.46e-96
+NCFMKG_01150	BRLA_RS17890	42	1372	101.6986301369863	0.0
+NCFMKG_01150	BRLA_RS17905	33	743	81.58904109589041	2.48e-225
+NCFMKG_01160	BRLA_RS17935	41	331	95.95959595959596	1.27e-106
+
+
+
+>>
+15. NZ_CP017705
+Source: Brevibacillus laterosporus DSM 25 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2747.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BrL25_RS25475	BrL25_RS25475	846042	846545	-	transposase
+BrL25_RS04120	BrL25_RS04120	846449	847517	-	IS3_family_transposase
+BrL25_RS04355	BrL25_RS04355	928062	928379	-	cupin_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	BrL25_RS04280	43	309	93.16939890710383	1.39e-96
+NCFMKG_01150	BrL25_RS04275	42	1367	101.47945205479452	0.0
+NCFMKG_01150	BrL25_RS04290	33	733	81.97260273972603	6.04e-222
+NCFMKG_01160	BrL25_RS04315	41	338	95.95959595959596	1.8e-109
+
+
+
+>>
+16. NZ_CP033464
+Source: Brevibacillus laterosporus strain 1821L chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2746.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EEL30_RS19265	EEL30_RS19265	3978083	3979049	+	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	EEL30_RS19185	43	309	93.16939890710383	9.92e-97
+NCFMKG_01150	EEL30_RS19180	42	1358	101.75342465753425	0.0
+NCFMKG_01150	EEL30_RS19195	33	735	81.53424657534246	1.73e-222
+NCFMKG_01160	EEL30_RS19230	41	344	95.95959595959596	1.43e-111
+
+
+
+>>
+17. NZ_MBFH01000010
+Source: Brevibacillus laterosporus strain Uniss_18 NODE_10_length_178834_cov_57.9834, whole genome shotgun sequence
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2745.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BBZ61_RS13865	BBZ61_RS13865	63166	63585	+	DUF3995_domain-containing_protein
+BBZ61_RS13930	BBZ61_RS13930	79644	79928	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	BBZ61_RS13850	45	307	93.71584699453553	5.3e-96
+NCFMKG_01150	BBZ61_RS13855	42	1365	101.86301369863014	0.0
+NCFMKG_01150	BBZ61_RS13840	33	745	81.58904109589041	5.17e-226
+NCFMKG_01160	BBZ61_RS13810	40	328	95.95959595959596	2.82e-105
+
+
+
+>>
+18. NZ_CP048799
+Source: Brevibacillus sp. 7WMA2 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2745.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GOP56_RS23920	GOP56_RS23920	2644146	2644610	+	2-isopropylmalate_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	GOP56_RS10730	45	307	93.71584699453553	7.44e-96
+NCFMKG_01150	GOP56_RS10725	42	1365	101.86301369863014	0.0
+NCFMKG_01150	GOP56_RS10740	33	743	81.53424657534246	2.48e-225
+NCFMKG_01160	GOP56_RS10765	40	330	95.95959595959596	5.03e-106
+
+
+
+>>
+19. NZ_CP032410
+Source: Brevibacillus laterosporus strain E7593-50 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2741.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+D5F52_RS26890	D5F52_RS26890	57711	57932	+	oxalate_decarboxylase
+D5F52_RS00380	D5F52_RS00380	61242	61480	+	YolD-like_family_protein
+D5F52_RS00395	D5F52_RS00395	63320	63637	+	oxalate_decarboxylase
+D5F52_RS00565	D5F52_RS00565	117493	118170	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	D5F52_RS00480	43	309	93.16939890710383	9.92e-97
+NCFMKG_01150	D5F52_RS00485	42	1363	101.47945205479452	0.0
+NCFMKG_01150	D5F52_RS00470	33	730	82.08219178082192	7.38e-221
+NCFMKG_01160	D5F52_RS00440	41	339	96.36363636363636	1.27e-109
+
+
+
+>>
+20. NZ_AP018449
+Source: Methylomusa anaerophila strain MMFC1 chromosome, complete genome
+Type: NRP-metallophore,NRPS,T3PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2723.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	MAMMFC1_RS13915	44	306	92.62295081967213	8.43e-96
+NCFMKG_01150	MAMMFC1_RS13920	41	1330	102.3013698630137	0.0
+NCFMKG_01150	MAMMFC1_RS13905	35	734	81.64383561643835	3.44e-222
+NCFMKG_01160	MAMMFC1_RS13880	43	353	96.36363636363636	2.44e-115
+
+
+
+>>
+21. NZ_CP064090
+Source: Brevibacillus parabrevis strain B3 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2605.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+IRJ17_RS11590	IRJ17_RS11590	2428825	2429007	-	hypothetical_protein
+IRJ17_RS11595	IRJ17_RS11595	2429008	2429999	-	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	IRJ17_RS11665	45	314	92.62295081967213	2.04e-98
+NCFMKG_01150	IRJ17_RS11670	42	1371	101.6986301369863	0.0
+NCFMKG_01150	IRJ17_RS11655	34	776	83.94520547945206	3.78e-237
+NCFMKG_01160	IRJ17_RS11710	33	144	48.08080808080808	3.8e-37
+
+
+
+>>
+22. NZ_CP118544
+Source: Brevibacillus parabrevis strain BCP-09 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2605.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	PSE45_RS20775	45	311	92.62295081967213	2.2e-97
+NCFMKG_01150	PSE45_RS20770	42	1374	101.47945205479452	0.0
+NCFMKG_01150	PSE45_RS20785	34	776	84.16438356164385	5.19e-237
+NCFMKG_01160	PSE45_RS20730	33	144	48.08080808080808	3.8e-37
+
+
+
+>>
+23. NZ_CP085874
+Source: Brevibacillus sp. HD3.3A chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2599.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HP435_RS21375	HP435_RS21375	4596985	4597233	-	ribonuclease_toxin_immunity_protein_CdiI
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	HP435_RS21325	45	312	92.62295081967213	7.96e-98
+NCFMKG_01150	HP435_RS21320	42	1368	101.6986301369863	0.0
+NCFMKG_01150	HP435_RS21335	34	775	83.78082191780823	7.13e-237
+NCFMKG_01160	HP435_RS21280	33	144	48.08080808080808	3.8e-37
+
+
+
+>>
+24. NZ_FOYZ01000007
+Source: Anaeromicropila populeti strain 743A, whole genome shotgun sequence
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2272.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BM305_RS10090	BM305_RS10090	69929	70078	-	M48_family_metallopeptidase
+BM305_RS18795	BM305_RS18795	71513	71635	+	AraC_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	BM305_RS10105	40	242	92.34972677595628	2.59e-75
+NCFMKG_01150	BM305_RS10120	32	894	101.26027397260273	5.34e-290
+NCFMKG_01150	BM305_RS10125	31	649	80.71232876712328	8.16e-194
+NCFMKG_01160	BM305_RS10065	43	386	98.98989898989899	4.69e-128
+NCFMKG_01165	BM305_RS10070	31	101	86.61417322834646	7.01e-24
+
+
+
+>>
+25. NZ_JADMVR010000001
+Source: Enterocloster bolteae strain 1001302B_160321_D9 NODE_1_length_575847_cov_24.8808, whole genome shotgun sequence
+Type: NRPS,NRPS-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2082.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+I2D45_RS30480	I2D45_RS30480	123044	123697	+	phosphoadenosine_phosphosulfate_sulfurtransferase
+I2D45_RS00620	I2D45_RS00620	125093	125749	+	PLP-dependent_transferase
+I2D45_RS30485	I2D45_RS30485	129595	130371	+	replication_initiation_factor_domain-containing_protein
+I2D45_RS00655	I2D45_RS00655	130369	130464	+	site-specific_integrase
+I2D45_RS00740	I2D45_RS00740	160119	160430	+	AraC_family_transcriptional_regulator
+I2D45_RS30490	I2D45_RS30490	169186	169354	-	rubredoxin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	I2D45_RS00720	35	229	91.53005464480874	2.38e-70
+NCFMKG_01150	I2D45_RS00725	43	751	52.821917808219176	8.9e-241
+NCFMKG_01150	I2D45_RS00710	32	437	52.821917808219176	9.68e-123
+NCFMKG_01150	I2D45_RS00695	43	310	25.424657534246574	2.73e-85
+NCFMKG_01160	I2D45_RS00685	39	355	100.80808080808082	1.55e-115
+
+
+
+>>
+26. NZ_KB851149
+Source: Enterocloster bolteae 90B8 acBSf-supercont1.2, whole genome shotgun sequence
+Type: NRPS,NRPS-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2082.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HMPREF1097_RS32195	HMPREF1097_RS32195	407260	407428	+	rubredoxin
+HMPREF1097_RS31995	HMPREF1097_RS31995	446150	446284	-	phage_integrase_SAM-like_domain-containing_protein
+HMPREF1097_RS31265	HMPREF1097_RS31265	450865	451521	-	PLP-dependent_transferase
+HMPREF1097_RS32205	HMPREF1097_RS32205	452917	453570	-	phosphoadenosine_phosphosulfate_sulfurtransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	HMPREF1097_RS10225	35	229	91.53005464480874	2.38e-70
+NCFMKG_01150	HMPREF1097_RS10220	43	751	52.821917808219176	8.9e-241
+NCFMKG_01150	HMPREF1097_RS10235	32	437	52.821917808219176	9.68e-123
+NCFMKG_01150	HMPREF1097_RS10250	43	310	25.424657534246574	2.73e-85
+NCFMKG_01160	HMPREF1097_RS10260	39	355	100.80808080808082	1.55e-115
+
+
+
+>>
+27. NZ_CP022464
+Source: Enterocloster bolteae strain ATCC BAA-613 chromosome, complete genome
+Type: NRPS,NRPS-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2077.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CGC65_RS09035	CGC65_RS09035	1903114	1904294	-	ISL3_family_transposase
+CGC65_RS31710	CGC65_RS31710	1905695	1906348	+	phosphoadenosine_phosphosulfate_sulfurtransferase
+CGC65_RS09070	CGC65_RS09070	1907744	1908400	+	PLP-dependent_transferase
+CGC65_RS09095	CGC65_RS09095	1911062	1911712	-	helix-turn-helix_transcriptional_regulator
+CGC65_RS31715	CGC65_RS31715	1912231	1913013	+	replication_initiation_factor_domain-containing_protein
+CGC65_RS31540	CGC65_RS31540	1913011	1913106	+	site-specific_integrase
+CGC65_RS31720	CGC65_RS31720	1953394	1953562	-	rubredoxin
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	CGC65_RS09180	35	229	91.53005464480874	2.38e-70
+NCFMKG_01150	CGC65_RS09185	43	749	52.821917808219176	6.67e-240
+NCFMKG_01150	CGC65_RS09170	32	434	51.28767123287671	1.1e-121
+NCFMKG_01150	CGC65_RS09145	43	310	25.424657534246574	2.73e-85
+NCFMKG_01160	CGC65_RS09135	39	355	100.80808080808082	1.55e-115
+
+
+
+>>
+28. NZ_KK211336
+Source: Clostridium beijerinckii HUN142 T483DRAFT_scaffold00002.2, whole genome shotgun sequence
+Type: NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2028.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	T483_RS0122890	40	278	93.44262295081968	4.36e-85
+NCFMKG_01150	T483_RS0122895	32	929	101.0958904109589	5.27e-308
+NCFMKG_01150	T483_RS0122905	35	494	49.698630136986296	3.23e-141
+NCFMKG_01160	T483_RS0122925	41	327	94.34343434343434	2.98e-105
+
+
+
+>>
+29. NZ_CP107022
+Source: Clostridium beijerinckii strain CloBei18h chromosome, complete genome
+Type: NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2021.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	OD350_RS11905	40	277	93.44262295081968	1.32e-84
+NCFMKG_01150	OD350_RS11900	32	924	101.0958904109589	4.57e-306
+NCFMKG_01150	OD350_RS11890	35	494	49.64383561643836	4.23e-141
+NCFMKG_01160	OD350_RS11870	40	326	94.34343434343434	5.94e-105
+
+
+
+>>
+30. NZ_LN908213
+Source: Clostridium beijerinckii isolate C. beijerinckii DSM 6423 chromosome I, complete sequence
+Type: NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2021.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	CIBE_RS17240	40	277	93.44262295081968	1.32e-84
+NCFMKG_01150	CIBE_RS17235	32	924	101.0958904109589	4.57e-306
+NCFMKG_01150	CIBE_RS17225	35	494	49.64383561643836	4.23e-141
+NCFMKG_01160	CIBE_RS17205	40	326	94.34343434343434	5.94e-105
+
+
+
+>>
+31. NZ_CP013238
+Source: Clostridium butyricum strain CDC_51208 plasmid pNPD4_2, complete sequence
+Type: NRPS,NRPS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2016.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	NPD4_RS01875	41	281	92.89617486338798	6.48e-86
+NCFMKG_01150	NPD4_RS01870	32	926	100.93150684931507	4.08e-307
+NCFMKG_01150	NPD4_RS01860	34	484	49.64383561643836	5.94e-138
+NCFMKG_01160	NPD4_RS01840	41	325	94.34343434343434	1.19e-104
+
+
+
+>>
+32. NZ_CP016087
+Source: Clostridium saccharoperbutylacetonicum strain N1-504 chromosome, complete genome
+Type: NRPS,NRPS-like,T1PKS,prodigiosin
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 2005.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CLSAP_RS09535	CLSAP_RS09535	2077562	2078128	+	radical_SAM_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	CLSAP_RS09560	41	283	93.44262295081968	5.42e-87
+NCFMKG_01150	CLSAP_RS09565	32	904	101.04109589041094	1.56e-298
+NCFMKG_01150	CLSAP_RS09575	35	491	49.64383561643836	4.29e-140
+NCFMKG_01160	CLSAP_RS09595	40	327	94.34343434343434	4.21e-105
+
+
+
+>>
+33. NZ_QRDZ01000004
+Source: Cohnella phaseoli strain CECT 7287 Ga0244611_104, whole genome shotgun sequence
+Type: NRPS,NRPS-like,T1PKS,cyclic-lactone-autoinducer
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1961.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	DFP98_RS06505	45	308	93.44262295081968	1.72e-96
+NCFMKG_01150	DFP98_RS06510	48	882	54.849315068493155	4.17e-290
+NCFMKG_01150	DFP98_RS06520	39	563	49.86301369863014	3.51e-164
+NCFMKG_01160	DFP98_RS06540	33	208	102.020202020202	2.03e-58
+
+
+
+>>
+34. NZ_JANAVO010000002
+Source: Allokutzneria sp. A3M-2-11 16 NODE_2_length_762498_cov_151.292993, whole genome shotgun sequence
+Type: NI-siderophore,NRPS,NRPS-like,PKS-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1879.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+NLX83_RS18460	NLX83_RS18460	67469	67693	-	PTS_glucose/sucrose_transporter_subunit_IIB
+NLX83_RS18505	NLX83_RS18505	74235	74714	-	Holliday_junction_resolvase_RuvX
+NLX83_RS18540	NLX83_RS18540	82329	83627	+	SidA/IucD/PvdA_family_monooxygenase
+NLX83_RS18550	NLX83_RS18550	85634	86185	-	DUF899_family_protein
+NLX83_RS18630	NLX83_RS18630	100782	101130	+	pyridoxamine_5'-phosphate_oxidase_family_protein
+NLX83_RS41040	NLX83_RS41040	108143	109330	-	condensation_domain-containing_protein
+NLX83_RS18660	NLX83_RS18660	111578	112504	-	Gfo/Idh/MocA_family_oxidoreductase
+NLX83_RS41050	NLX83_RS41050	132940	135330	-	type_I_polyketide_synthase
+NLX83_RS18780	NLX83_RS18780	149203	150357	-	acyl-CoA_dehydrogenase_family_protein
+NLX83_RS18840	NLX83_RS18840	162686	163597	-	RNA_polymerase_sigma_factor
+NLX83_RS18930	NLX83_RS18930	184720	186957	-	bifunctional_(p)ppGpp_synthetase/guanosine-3',5'-bis(diphosphate)_3'-pyrophosphohydrolase
+NLX83_RS18960	NLX83_RS18960	192309	192908	-	Holliday_junction_branch_migration_protein_RuvA
+NLX83_RS18985	NLX83_RS18985	196039	196632	-	pyridoxal_5'-phosphate_synthase_glutaminase_subunit_PdxT
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	NLX83_RS18660	43	243	87.1584699453552	3.39e-76
+NCFMKG_01150	NLX83_RS18645	35	609	74.24657534246575	8.73e-192
+NCFMKG_01150	NLX83_RS18670	40	561	49.26027397260274	7.5e-164
+NCFMKG_01150	NLX83_RS41040	47	347	22.19178082191781	1.25e-104
+NCFMKG_01155	NLX83_RS18650	33	119	97.03389830508475	1.05e-30
+
+
+
+>>
+35. NZ_JAIWIY010000001
+Source: Anaerococcus degeneri strain FDAARGOS_1538 000000F_arrow_pilon, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1637.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+LDJ82_RS00770	LDJ82_RS00770	147532	148152	-	ATP-binding_cassette_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	LDJ82_RS00875	38	185	66.93989071038251	3.08e-53
+NCFMKG_01145	LDJ82_RS00855	31	182	98.36065573770492	2.93e-52
+NCFMKG_01150	LDJ82_RS00850	31	932	100.65753424657535	4.18e-305
+NCFMKG_01160	LDJ82_RS00810	39	338	99.5959595959596	2.15e-109
+
+
+
+>>
+36. NZ_CP066014
+Source: Anaerococcus vaginalis strain FDAARGOS_988 chromosome, complete genome
+Type: NRPS,RRE-containing
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1629.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	I6H45_RS03195	38	185	66.93989071038251	3.08e-53
+NCFMKG_01145	I6H45_RS03215	31	180	98.36065573770492	2.25e-51
+NCFMKG_01150	I6H45_RS03220	31	924	98.08219178082192	8.88e-303
+NCFMKG_01160	I6H45_RS03260	39	340	99.5959595959596	7.65e-110
+
+
+
+>>
+37. NZ_CP058561
+Source: Vallitalea guaymasensis strain Ra1766G1 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1383.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	HYG85_RS16770	33	219	100.0	3.74e-63
+NCFMKG_01150	HYG85_RS16780	41	742	52.76712328767124	5.55e-237
+NCFMKG_01160	HYG85_RS16760	41	335	97.57575757575758	4.6e-108
+NCFMKG_01165	HYG85_RS16755	31	87	60.629921259842526	1.79e-18
+
+
+
+>>
+38. NZ_JAQDGY010000011
+Source: Blautia intestinalis strain AF99-42 AF99-42.Scaf11, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1170.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	PGR46_RS11275	36	208	80.87431693989072	1.91e-62
+NCFMKG_01150	PGR46_RS11280	31	610	81.97260273972603	8.04e-186
+NCFMKG_01160	PGR46_RS11255	42	352	101.01010101010101	2.51e-114
+
+
+
+>>
+39. NZ_LR134442
+Source: Propionibacterium australiense strain NCTC13651 chromosome 1, complete sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1116.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EL282_RS03650	EL282_RS03650	834197	835505	-	ISL3_family_transposase
+EL282_RS03655	EL282_RS03655	835648	836496	-	IS3_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	EL282_RS03710	34	164	68.5792349726776	4.41e-45
+NCFMKG_01150	EL282_RS03730	31	550	81.15068493150685	8.14e-160
+NCFMKG_01160	EL282_RS03765	38	320	97.77777777777777	2.5e-102
+NCFMKG_01165	EL282_RS03760	41	82	45.66929133858268	2.57e-16
+
+
+
+>>
+40. NZ_CP094823
+Source: Mammaliicoccus sciuri strain IVB6217 chromosome, complete genome
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1028.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	MUA76_RS00495	38	198	68.5792349726776	3.06e-58
+NCFMKG_01150	MUA76_RS00515	32	457	50.19178082191781	4.03e-129
+NCFMKG_01160	MUA76_RS00540	38	293	95.15151515151516	6.28e-92
+NCFMKG_01165	MUA76_RS00535	36	80	48.4251968503937	1.27e-15
+
+
+
+>>
+41. NZ_QGTH01000010
+Source: Finegoldia magna strain DSM 20470 Ga0244520_110, whole genome shotgun sequence
+Type: NRPS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 895.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	DES33_RS05340	32	176	92.62295081967213	1.15e-49
+NCFMKG_01145	DES33_RS05360	34	164	66.66666666666666	4.11e-45
+NCFMKG_01150	DES33_RS05365	34	289	26.136986301369863	1.66e-83
+NCFMKG_01160	DES33_RS05400	37	266	95.15151515151516	1.63e-81
+
+
+
+>>
+42. NZ_LACQ01000003
+Source: Streptomyces sp. OspMP-M45 YUMDRAFT_scaffold_2.3_C, whole genome shotgun sequence
+Type: NRP-metallophore,NRPS,NRPS-like,PKS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 3044.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+YUM_RS33905	YUM_RS33905	258365	261175	+	amino_acid_adenylation_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	YUM_RS07980	36	198	97.54098360655738	3.4e-58
+NCFMKG_01150	YUM_RS07985	44	727	54.13698630136986	1.71e-231
+NCFMKG_01150	YUM_RS33905	43	711	52.109589041095894	1.74e-231
+NCFMKG_01150	YUM_RS07990	32	576	84.38356164383562	2.44e-174
+NCFMKG_01150	YUM_RS07920	32	573	83.67123287671234	4.03e-173
+NCFMKG_01150	YUM_RS33910	31	259	35.94520547945205	4.29e-71
+
+
+
+>>
+43. NZ_CP036259
+Source: Sporomusa termitida strain DSM 4440 chromosome, complete genome
+Type: NRPS,NRPS-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2953.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	SPTER_RS05955	42	297	92.89617486338798	2.72e-92
+NCFMKG_01145	SPTER_RS05980	38	237	93.98907103825137	3.05e-73
+NCFMKG_01150	SPTER_RS05965	46	837	53.36986301369863	5.54e-273
+NCFMKG_01150	SPTER_RS06025	32	667	82.79452054794521	7.07e-200
+NCFMKG_01150	SPTER_RS05975	36	320	27.06849315068493	9.32e-94
+NCFMKG_01160	SPTER_RS05895	44	392	99.39393939393939	4.28e-130
+NCFMKG_01160	SPTER_RS05930	32	83	40.4040404040404	9.24e-16
+NCFMKG_01165	SPTER_RS05910	33	120	84.64566929133859	1.47e-30
+
+
+
+>>
+44. NZ_CP029342
+Source: Streptomyces sp. SM18 chromosome, complete genome
+Type: NRP-metallophore,NRPS,NRPS-like,PKS-like
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2777.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+B9S64_RS35180	B9S64_RS35180	5737221	5737424	+	RNA_polymerase_sigma_factor_SigF
+B9S64_RS35185	B9S64_RS35185	5737438	5740248	-	amino_acid_adenylation_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	B9S64_RS25650	35	195	99.72677595628416	5.22e-57
+NCFMKG_01150	B9S64_RS25645	44	724	53.8082191780822	7.45e-231
+NCFMKG_01150	B9S64_RS35185	43	704	52.109589041095894	7.57e-229
+NCFMKG_01150	B9S64_RS25640	32	581	84.05479452054794	5.14e-176
+NCFMKG_01150	B9S64_RS25710	32	573	82.1917808219178	4.11e-173
+
+
+
+>>
+45. NZ_VFNO01000005
+Source: Brevibacillus sp. AG162 Ga0222362_105, whole genome shotgun sequence
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2144.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FB479_RS17995	FB479_RS17995	378787	379143	-	DNA/RNA_non-specific_endonuclease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	FB479_RS17880	43	301	93.16939890710383	1.34e-93
+NCFMKG_01150	FB479_RS17875	37	1085	101.58904109589042	0.0
+NCFMKG_01150	FB479_RS17890	34	758	83.12328767123289	7.71e-231
+
+
+
+>>
+46. NZ_LR134338
+Source: Brevibacillus brevis strain NCTC2611 chromosome 1, complete sequence
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2138.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+EL268_RS07755	EL268_RS07755	1477724	1478080	+	DNA/RNA_non-specific_endonuclease
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	EL268_RS07870	43	301	93.16939890710383	1.34e-93
+NCFMKG_01150	EL268_RS07875	36	1084	101.58904109589042	0.0
+NCFMKG_01150	EL268_RS07860	34	753	83.28767123287672	8.72e-229
+
+
+
+>>
+47. NZ_CP023474
+Source: Brevibacillus brevis X23 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2138.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	A616_RS24425	42	298	93.16939890710383	2.82e-92
+NCFMKG_01150	A616_RS24420	37	1094	101.47945205479452	0.0
+NCFMKG_01150	A616_RS24435	33	746	83.23287671232876	1.84e-226
+
+
+
+>>
+48. NZ_CP018145
+Source: Brevibacillus formosus strain NF2 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2133.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	BP422_RS18300	42	295	93.16939890710383	3.02e-91
+NCFMKG_01150	BP422_RS18295	37	1092	101.58904109589042	0.0
+NCFMKG_01150	BP422_RS18310	34	746	82.95890410958904	1.33e-226
+
+
+
+>>
+49. NZ_CP085876
+Source: Brevibacillus sp. DP1.3A chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2127.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	HP399_RS08565	43	299	93.16939890710383	7.28e-93
+NCFMKG_01150	HP399_RS08570	36	1077	101.47945205479452	0.0
+NCFMKG_01150	HP399_RS08555	34	751	82.95890410958904	4.21e-228
+
+
+
+>>
+50. NZ_CP042161
+Source: Brevibacillus brevis strain HK544 chromosome, complete genome
+Type: NRP-metallophore,NRPS
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 2122.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FPS98_RS01930	FPS98_RS01930	405638	406649	+	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_01145	FPS98_RS01900	42	295	93.16939890710383	3.02e-91
+NCFMKG_01150	FPS98_RS01905	37	1084	101.47945205479452	0.0
+NCFMKG_01150	FPS98_RS01890	33	743	83.3972602739726	1.67e-225
+

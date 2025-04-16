@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="50" width="800" viewBox="0 0 800 50" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="1,40 56,40 61,35 56,30 1,30 1,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09795&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 24 - 450" locus_tag="NCFMKG_09795" class="clusterblast-orf" id="knownclusterblast-1_q0_0_all"  />
+<polygon points="67,40 180,40 185,35 180,30 67,30 67,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09800&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 490 - 1330" locus_tag="NCFMKG_09800" class="clusterblast-orf" id="knownclusterblast-1_q1_0_all"  />
+<polygon points="187,40 247,40 252,35 247,30 187,30 187,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09805&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1342 - 1804" locus_tag="NCFMKG_09805" class="clusterblast-orf" id="knownclusterblast-1_q2_0_all"  />
+<polygon points="278,35 283,30 371,30 371,40 283,40 278,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09810&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1991 - 2645" locus_tag="NCFMKG_09810" class="clusterblast-orf" id="knownclusterblast-1_q3_0_all"  />
+<polygon points="371,35 376,30 539,30 539,40 376,40 371,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09815&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2649 - 3843" locus_tag="NCFMKG_09815" class="clusterblast-orf" id="knownclusterblast-1_q4_0_all"  />
+<polygon points="540,35 545,30 631,30 631,40 545,40 540,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09820&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 3847 - 4489" locus_tag="NCFMKG_09820" class="clusterblast-orf" id="knownclusterblast-1_q5_0_all"  />
+<polygon points="637,40 776,40 781,35 776,30 637,30 637,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_09825&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4538 - 5555" locus_tag="NCFMKG_09825" class="clusterblast-orf" id="knownclusterblast-1_q6_0_all"  />
+</g>
+</svg>

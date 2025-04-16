@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="375,40 376,35 375,30 375,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11715&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 53 - 212" locus_tag="NCFMKG_11715" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="376,40 382,40 387,35 382,30 376,30 376,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 208 - 1858" locus_tag="NCFMKG_11720" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="387,40 399,40 404,35 399,30 387,30 387,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11725&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1847 - 4475" locus_tag="NCFMKG_11725" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+</g>
+<g label="NZ_CP061913" description="NZ_CP061913 (4107552-4228806): Dactylosporangium vinaceum strain NRRL B-16297... (6% of genes show similarity), NRPS,NRPS-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP061913&amp;start=4107552&amp;end=4228806" target="_blank">NZ_CP061913 (4107552-4228806)</a>: Dactylosporangium vinaceum strain NRRL B-16297... (6% of genes show similarity), NRPS,NRPS-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 1,90 6,85 1,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18450&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4107793 - 4108779" locus_tag="Dvina_RS18450" class="clusterblast-orf" id="dummy-1_h1_3_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="6,90 6,90 11,85 6,80 6,80 6,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18455&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4108776 - 4109582" locus_tag="Dvina_RS18455" class="clusterblast-orf" id="dummy-1_h1_3_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="11,90 17,90 22,85 17,80 11,80 11,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18460&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4109579 - 4111201" locus_tag="Dvina_RS18460" class="clusterblast-orf" id="dummy-1_h1_3_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="22,90 24,90 29,85 24,80 22,80 22,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18465&lt;/b&gt;&lt;br&gt;LLM class flavin-dependent oxidoreductase&lt;br&gt;Location: 4111256 - 4112302" locus_tag="Dvina_RS18465" class="clusterblast-orf" id="dummy-1_h1_3_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="29,85 34,80 36,80 36,90 34,90 29,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18470&lt;/b&gt;&lt;br&gt;NADP-dependent oxidoreductase&lt;br&gt;Location: 4112315 - 4113364" locus_tag="Dvina_RS18470" class="clusterblast-orf" id="dummy-1_h1_3_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="36,90 40,85 36,80 36,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18475&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 4113456 - 4114061" locus_tag="Dvina_RS18475" class="clusterblast-orf" id="dummy-1_h1_3_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="40,85 45,80 47,80 47,90 45,90 40,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18480&lt;/b&gt;&lt;br&gt;LLM class flavin-dependent oxidoreductase&lt;br&gt;Location: 4114112 - 4115173" locus_tag="Dvina_RS18480" class="clusterblast-orf" id="dummy-1_h1_3_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="47,85 52,80 56,80 56,90 52,90 47,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18485&lt;/b&gt;&lt;br&gt;LLM class flavin-dependent oxidoreductase&lt;br&gt;Location: 4115170 - 4116522" locus_tag="Dvina_RS18485" class="clusterblast-orf" id="dummy-1_h1_3_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="56,85 61,80 63,80 63,90 61,90 56,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18490&lt;/b&gt;&lt;br&gt;LLM class flavin-dependent oxidoreductase&lt;br&gt;Location: 4116519 - 4117580" locus_tag="Dvina_RS18490" class="clusterblast-orf" id="dummy-1_h1_3_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="63,85 68,80 68,80 68,90 68,90 63,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18495&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 4117585 - 4118313" locus_tag="Dvina_RS18495" class="clusterblast-orf" id="dummy-1_h1_3_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="68,85 73,80 75,80 75,90 73,90 68,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18500&lt;/b&gt;&lt;br&gt;LLM class flavin-dependent oxidoreductase&lt;br&gt;Location: 4118313 - 4119497" locus_tag="Dvina_RS18500" class="clusterblast-orf" id="dummy-1_h1_3_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="76,85 79,80 79,90 76,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18505&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 4119632 - 4119988" locus_tag="Dvina_RS18505" class="clusterblast-orf" id="dummy-1_h1_3_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="80,90 81,90 86,85 81,80 80,80 80,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18510&lt;/b&gt;&lt;br&gt;TIGR03564 family F420-dependent LLM class oxidoreductase&lt;br&gt;Location: 4120279 - 4121161" locus_tag="Dvina_RS18510" class="clusterblast-orf" id="dummy-1_h1_3_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="88,90 90,85 88,80 88,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18515&lt;/b&gt;&lt;br&gt;histidine kinase&lt;br&gt;Location: 4121364 - 4121693" locus_tag="Dvina_RS18515" class="clusterblast-orf" id="dummy-1_h1_3_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="90,90 94,85 90,80 90,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18520&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 4121690 - 4122349" locus_tag="Dvina_RS18520" class="clusterblast-orf" id="dummy-1_h1_3_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="95,85 97,80 97,90 95,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18525&lt;/b&gt;&lt;br&gt;antibiotic biosynthesis monooxygenase&lt;br&gt;Location: 4122505 - 4122798" locus_tag="Dvina_RS18525" class="clusterblast-orf" id="dummy-1_h1_3_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="98,90 103,90 108,85 103,80 98,80 98,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18530&lt;/b&gt;&lt;br&gt;tryptophan 7-halogenase&lt;br&gt;Location: 4123045 - 4124535" locus_tag="Dvina_RS18530" class="clusterblast-orf" id="dummy-1_h1_3_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="109,85 114,80 115,80 115,90 114,90 109,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18535&lt;/b&gt;&lt;br&gt;2,3-diaminopropionate biosynthesis protein SbnA&lt;br&gt;Location: 4124617 - 4125570" locus_tag="Dvina_RS18535" class="clusterblast-orf" id="dummy-1_h1_3_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="115,85 120,80 121,80 121,90 120,90 115,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18540&lt;/b&gt;&lt;br&gt;2,3-diaminopropionate biosynthesis protein SbnB&lt;br&gt;Location: 4125576 - 4126580" locus_tag="Dvina_RS18540" class="clusterblast-orf" id="dummy-1_h1_3_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="121,85 126,80 128,80 128,90 126,90 121,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18545&lt;/b&gt;&lt;br&gt;TauD/TfdA family dioxygenase&lt;br&gt;Location: 4126582 - 4127538" locus_tag="Dvina_RS18545" class="clusterblast-orf" id="dummy-1_h1_3_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="128,85 133,80 141,80 141,90 133,90 128,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18550&lt;/b&gt;&lt;br&gt;amino acid adenylation domain-containing protein&lt;br&gt;Location: 4127553 - 4129604&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11725&lt;/b&gt;&lt;br&gt;Percentage identity: 34&lt;br&gt;Percentage coverage: 52&lt;br&gt;BLAST bit score: 252&lt;br&gt;E-value: 1.35e-70" locus_tag="Dvina_RS18550" class="clusterblast-orf" id="dummy-1_h1_3_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="141,85 146,80 146,80 146,90 146,90 141,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18555&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 4129627 - 4130421" locus_tag="Dvina_RS18555" class="clusterblast-orf" id="dummy-1_h1_3_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="146,85 151,80 157,80 157,90 151,90 146,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18560&lt;/b&gt;&lt;br&gt;MBL fold metallo-hydrolase&lt;br&gt;Location: 4130432 - 4132021" locus_tag="Dvina_RS18560" class="clusterblast-orf" id="dummy-1_h1_3_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="158,90 159,85 158,80 158,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18565&lt;/b&gt;&lt;br&gt;MbtH family protein&lt;br&gt;Location: 4132230 - 4132454" locus_tag="Dvina_RS18565" class="clusterblast-orf" id="dummy-1_h1_3_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="160,90 166,90 171,85 166,80 160,80 160,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18570&lt;/b&gt;&lt;br&gt;fatty acyl-AMP ligase&lt;br&gt;Location: 4132498 - 4134246" locus_tag="Dvina_RS18570" class="clusterblast-orf" id="dummy-1_h1_3_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="171,90 173,85 171,80 171,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18575&lt;/b&gt;&lt;br&gt;acyl carrier protein&lt;br&gt;Location: 4134239 - 4134511" locus_tag="Dvina_RS18575" class="clusterblast-orf" id="dummy-1_h1_3_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="173,90 310,90 315,85 310,80 173,80 173,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18580&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthase/polyketide synthase&lt;br&gt;Location: 4134557 - 4156432&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11720&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 74&lt;br&gt;BLAST bit score: 148&lt;br&gt;E-value: 2.56e-35" locus_tag="Dvina_RS18580" class="clusterblast-orf" id="dummy-1_h1_3_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="315,90 389,90 394,85 389,80 315,80 315,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18585&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4156432 - 4168644" locus_tag="Dvina_RS18585" class="clusterblast-orf" id="dummy-1_h1_3_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="394,90 566,90 571,85 566,80 394,80 394,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18590&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthase/polyketide synthase&lt;br&gt;Location: 4168641 - 4195949&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11720&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 74&lt;br&gt;BLAST bit score: 147&lt;br&gt;E-value: 8.39e-35" locus_tag="Dvina_RS18590" class="clusterblast-orf" id="dummy-1_h1_3_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="571,90 650,90 655,85 650,80 571,80 571,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18595&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4195946 - 4208806" locus_tag="Dvina_RS18595" class="clusterblast-orf" id="dummy-1_h1_3_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="655,85 659,80 659,90 655,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18600&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4208901 - 4209545" locus_tag="Dvina_RS18600" class="clusterblast-orf" id="dummy-1_h1_3_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="659,85 664,80 669,80 669,90 664,90 659,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18605&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4209542 - 4211029" locus_tag="Dvina_RS18605" class="clusterblast-orf" id="dummy-1_h1_3_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="669,85 674,80 674,80 674,90 674,90 669,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18610&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 4211026 - 4211769" locus_tag="Dvina_RS18610" class="clusterblast-orf" id="dummy-1_h1_3_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="674,85 679,80 679,80 679,90 679,90 674,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18615&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4211786 - 4212484" locus_tag="Dvina_RS18615" class="clusterblast-orf" id="dummy-1_h1_3_33"  />
+</g>
+<g id="a1_0034"  >
+<polygon points="679,85 682,80 682,90 679,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18620&lt;/b&gt;&lt;br&gt;RNA polymerase sigma factor&lt;br&gt;Location: 4212481 - 4213035" locus_tag="Dvina_RS18620" class="clusterblast-orf" id="dummy-1_h1_3_34"  />
+</g>
+<g id="a1_0035"  >
+<polygon points="683,90 685,85 683,80 683,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18625&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4213234 - 4213443" locus_tag="Dvina_RS18625" class="clusterblast-orf" id="dummy-1_h1_3_35"  />
+</g>
+<g id="a1_0036"  >
+<polygon points="685,85 690,80 697,80 697,90 690,90 685,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18630&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 4213477 - 4215381" locus_tag="Dvina_RS18630" class="clusterblast-orf" id="dummy-1_h1_3_36"  />
+</g>
+<g id="a1_0037"  >
+<polygon points="699,90 700,90 705,85 700,80 699,80 699,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18635&lt;/b&gt;&lt;br&gt;4-hydroxyphenylpyruvate dioxygenase&lt;br&gt;Location: 4215645 - 4216628" locus_tag="Dvina_RS18635" class="clusterblast-orf" id="dummy-1_h1_3_37"  />
+</g>
+<g id="a1_0038"  >
+<polygon points="706,85 711,80 716,80 716,90 711,90 706,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18640&lt;/b&gt;&lt;br&gt;MBL fold metallo-hydrolase&lt;br&gt;Location: 4216714 - 4218318" locus_tag="Dvina_RS18640" class="clusterblast-orf" id="dummy-1_h1_3_38"  />
+</g>
+<g id="a1_0039"  >
+<polygon points="717,85 722,80 723,80 723,90 722,90 717,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18645&lt;/b&gt;&lt;br&gt;sulfotransferase domain-containing protein&lt;br&gt;Location: 4218350 - 4219327" locus_tag="Dvina_RS18645" class="clusterblast-orf" id="dummy-1_h1_3_39"  />
+</g>
+<g id="a1_0040"  >
+<polygon points="725,90 729,85 725,80 725,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18650&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4219575 - 4220282" locus_tag="Dvina_RS18650" class="clusterblast-orf" id="dummy-1_h1_3_40"  />
+</g>
+<g id="a1_0041"  >
+<polygon points="729,90 736,90 741,85 736,80 729,80 729,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18655&lt;/b&gt;&lt;br&gt;FtsX-like permease family protein&lt;br&gt;Location: 4220286 - 4222109" locus_tag="Dvina_RS18655" class="clusterblast-orf" id="dummy-1_h1_3_41"  />
+</g>
+<g id="a1_0042"  >
+<polygon points="741,90 743,90 748,85 743,80 741,80 741,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18660&lt;/b&gt;&lt;br&gt;ParB N-terminal domain-containing protein&lt;br&gt;Location: 4222175 - 4223185" locus_tag="Dvina_RS18660" class="clusterblast-orf" id="dummy-1_h1_3_42"  />
+</g>
+<g id="a1_0043"  >
+<polygon points="748,85 753,80 755,80 755,90 753,90 748,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18665&lt;/b&gt;&lt;br&gt;ParB/RepB/Spo0J family partition protein&lt;br&gt;Location: 4223205 - 4224221" locus_tag="Dvina_RS18665" class="clusterblast-orf" id="dummy-1_h1_3_43"  />
+</g>
+<g id="a1_0044"  >
+<polygon points="757,90 767,90 772,85 767,80 757,80 757,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18670&lt;/b&gt;&lt;br&gt;ATP-dependent RecD-like DNA helicase&lt;br&gt;Location: 4224584 - 4226818" locus_tag="Dvina_RS18670" class="clusterblast-orf" id="dummy-1_h1_3_44"  />
+</g>
+<g id="a1_0045"  >
+<polygon points="772,85 776,80 776,90 772,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18675&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 4226926 - 4227582" locus_tag="Dvina_RS18675" class="clusterblast-orf" id="dummy-1_h1_3_45"  />
+</g>
+<g id="a1_0046"  >
+<polygon points="777,85 780,80 780,90 777,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Dvina_RS18680&lt;/b&gt;&lt;br&gt;DUF2267 domain-containing protein&lt;br&gt;Location: 4227618 - 4228049" locus_tag="Dvina_RS18680" class="clusterblast-orf" id="dummy-1_h1_3_46"  />
+</g>
+</svg>

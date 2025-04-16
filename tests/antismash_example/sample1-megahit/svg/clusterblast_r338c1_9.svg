@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="354,40 356,35 354,30 354,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11715&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 53 - 212" locus_tag="NCFMKG_11715" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="356,40 378,40 383,35 378,30 356,30 356,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 208 - 1858" locus_tag="NCFMKG_11720" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="383,40 421,40 426,35 421,30 383,30 383,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_11725&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1847 - 4475" locus_tag="NCFMKG_11725" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+</g>
+<g label="NZ_CP011020" description="NZ_CP011020 (4570388-4619223): Pseudomonas chlororaphis strain UFB2 isolate S... (5% of genes show similarity), NRPS,NRPS-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP011020&amp;start=4570388&amp;end=4619223" target="_blank">NZ_CP011020 (4570388-4619223)</a>: Pseudomonas chlororaphis strain UFB2 isolate S... (5% of genes show similarity), NRPS,NRPS-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,90 6,90 11,85 6,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20275&lt;/b&gt;&lt;br&gt;Fe2+-dependent dioxygenase&lt;br&gt;Location: 4618689 - 4618009" locus_tag="VM99_RS20275" class="clusterblast-orf" id="dummy-1_h1_9_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="12,90 18,90 23,85 18,80 12,80 12,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20270&lt;/b&gt;&lt;br&gt;tetratricopeptide repeat protein&lt;br&gt;Location: 4617951 - 4617241" locus_tag="VM99_RS20270" class="clusterblast-orf" id="dummy-1_h1_9_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="27,90 58,90 63,85 58,80 27,80 27,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20265&lt;/b&gt;&lt;br&gt;alpha-xenorhabdolysin family binary toxin subunit A&lt;br&gt;Location: 4617024 - 4614754" locus_tag="VM99_RS20265" class="clusterblast-orf" id="dummy-1_h1_9_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="64,90 74,90 79,85 74,80 64,80 64,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20260&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4614732 - 4613821" locus_tag="VM99_RS20260" class="clusterblast-orf" id="dummy-1_h1_9_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="79,85 84,80 98,80 98,90 84,90 79,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20255&lt;/b&gt;&lt;br&gt;type III PLP-dependent enzyme&lt;br&gt;Location: 4613772 - 4612609" locus_tag="VM99_RS20255" class="clusterblast-orf" id="dummy-1_h1_9_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="112,90 131,90 136,85 131,80 112,80 112,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20250&lt;/b&gt;&lt;br&gt;DUF2599 domain-containing protein&lt;br&gt;Location: 4611741 - 4610302" locus_tag="VM99_RS20250" class="clusterblast-orf" id="dummy-1_h1_9_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="138,90 158,90 163,85 158,80 138,80 138,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS27820&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4610163 - 4608646" locus_tag="VM99_RS27820" class="clusterblast-orf" id="dummy-1_h1_9_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="163,85 168,80 182,80 182,90 168,90 163,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20240&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4608642 - 4607485" locus_tag="VM99_RS20240" class="clusterblast-orf" id="dummy-1_h1_9_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="182,85 187,80 192,80 192,90 187,90 182,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20235&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4607488 - 4606835" locus_tag="VM99_RS20235" class="clusterblast-orf" id="dummy-1_h1_9_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="192,85 197,80 207,80 207,90 197,90 192,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20230&lt;/b&gt;&lt;br&gt;glycine betaine ABC transporter substrate-binding protein&lt;br&gt;Location: 4606822 - 4605929" locus_tag="VM99_RS20230" class="clusterblast-orf" id="dummy-1_h1_9_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="207,85 212,80 219,80 219,90 212,90 207,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20225&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4605918 - 4605217" locus_tag="VM99_RS20225" class="clusterblast-orf" id="dummy-1_h1_9_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="224,90 245,90 250,85 245,80 224,80 224,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20220&lt;/b&gt;&lt;br&gt;peptide chain release factor 3&lt;br&gt;Location: 4604861 - 4603278" locus_tag="VM99_RS20220" class="clusterblast-orf" id="dummy-1_h1_9_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="256,90 260,85 256,80 256,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20215&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4602942 - 4602697" locus_tag="VM99_RS20215" class="clusterblast-orf" id="dummy-1_h1_9_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="261,85 263,80 263,90 261,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS29330&lt;/b&gt;&lt;br&gt;dipeptide ABC transporter ATP-binding protein&lt;br&gt;Location: 4602628 - 4602497" locus_tag="VM99_RS29330" class="clusterblast-orf" id="dummy-1_h1_9_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="273,90 285,90 290,85 285,80 273,80 273,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20210&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 4601860 - 4600835" locus_tag="VM99_RS20210" class="clusterblast-orf" id="dummy-1_h1_9_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="290,90 298,90 303,85 298,80 290,80 290,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20205&lt;/b&gt;&lt;br&gt;ABC-2 family transporter protein&lt;br&gt;Location: 4600838 - 4600047" locus_tag="VM99_RS20205" class="clusterblast-orf" id="dummy-1_h1_9_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="303,90 310,90 315,85 310,80 303,80 303,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20200&lt;/b&gt;&lt;br&gt;ABC-2 family transporter protein&lt;br&gt;Location: 4600047 - 4599265" locus_tag="VM99_RS20200" class="clusterblast-orf" id="dummy-1_h1_9_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="316,90 410,90 415,85 410,80 316,80 316,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20195&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4599223 - 4593113&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11725&lt;/b&gt;&lt;br&gt;Percentage identity: 33&lt;br&gt;Percentage coverage: 53&lt;br&gt;BLAST bit score: 239&lt;br&gt;E-value: 3.07e-63" locus_tag="VM99_RS20195" class="clusterblast-orf" id="dummy-1_h1_9_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="415,90 425,90 430,85 425,80 415,80 415,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20190&lt;/b&gt;&lt;br&gt;2,3-diaminopropionate biosynthesis protein SbnA&lt;br&gt;Location: 4593156 - 4592203" locus_tag="VM99_RS20190" class="clusterblast-orf" id="dummy-1_h1_9_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="431,90 455,90 460,85 455,80 431,80 431,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20185&lt;/b&gt;&lt;br&gt;non-ribosomal peptide synthetase&lt;br&gt;Location: 4592152 - 4590389&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_11720&lt;/b&gt;&lt;br&gt;Percentage identity: 31&lt;br&gt;Percentage coverage: 74&lt;br&gt;BLAST bit score: 140&lt;br&gt;E-value: 1.46e-33" locus_tag="VM99_RS20185" class="clusterblast-orf" id="dummy-1_h1_9_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="460,90 476,90 481,85 476,80 460,80 460,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20180&lt;/b&gt;&lt;br&gt;condensation domain-containing protein&lt;br&gt;Location: 4590385 - 4589099" locus_tag="VM99_RS20180" class="clusterblast-orf" id="dummy-1_h1_9_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="481,90 493,90 498,85 493,80 481,80 481,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20175&lt;/b&gt;&lt;br&gt;2,3-diaminopropionate biosynthesis protein SbnB&lt;br&gt;Location: 4589090 - 4588041" locus_tag="VM99_RS20175" class="clusterblast-orf" id="dummy-1_h1_9_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="499,90 530,90 535,85 530,80 499,80 499,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20170&lt;/b&gt;&lt;br&gt;PhpK family radical SAM P-methyltransferase&lt;br&gt;Location: 4587980 - 4585740" locus_tag="VM99_RS20170" class="clusterblast-orf" id="dummy-1_h1_9_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="536,85 541,80 543,80 543,90 541,90 536,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20165&lt;/b&gt;&lt;br&gt;DUF2087 domain-containing protein&lt;br&gt;Location: 4585685 - 4585245" locus_tag="VM99_RS20165" class="clusterblast-orf" id="dummy-1_h1_9_23"  />
+</g>
+<g id="a1_0024"  >
+<polygon points="549,85 554,80 565,80 565,90 554,90 549,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20160&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4584899 - 4583919" locus_tag="VM99_RS20160" class="clusterblast-orf" id="dummy-1_h1_9_24"  />
+</g>
+<g id="a1_0025"  >
+<polygon points="565,85 570,80 581,80 581,90 570,90 565,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20155&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4583919 - 4582951" locus_tag="VM99_RS20155" class="clusterblast-orf" id="dummy-1_h1_9_25"  />
+</g>
+<g id="a1_0026"  >
+<polygon points="581,85 586,80 596,80 596,90 586,90 581,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20150&lt;/b&gt;&lt;br&gt;ABC transporter permease subunit&lt;br&gt;Location: 4582940 - 4582029" locus_tag="VM99_RS20150" class="clusterblast-orf" id="dummy-1_h1_9_26"  />
+</g>
+<g id="a1_0027"  >
+<polygon points="596,85 601,80 612,80 612,90 601,90 596,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20145&lt;/b&gt;&lt;br&gt;ABC transporter permease subunit&lt;br&gt;Location: 4582018 - 4581008" locus_tag="VM99_RS20145" class="clusterblast-orf" id="dummy-1_h1_9_27"  />
+</g>
+<g id="a1_0028"  >
+<polygon points="614,85 619,80 639,80 639,90 619,90 614,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20140&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 4580934 - 4579339" locus_tag="VM99_RS20140" class="clusterblast-orf" id="dummy-1_h1_9_28"  />
+</g>
+<g id="a1_0029"  >
+<polygon points="641,85 646,80 664,80 664,90 646,90 641,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20135&lt;/b&gt;&lt;br&gt;OprD family porin&lt;br&gt;Location: 4579265 - 4577850" locus_tag="VM99_RS20135" class="clusterblast-orf" id="dummy-1_h1_9_29"  />
+</g>
+<g id="a1_0030"  >
+<polygon points="667,85 672,80 692,80 692,90 672,90 667,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20130&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 4577677 - 4576091" locus_tag="VM99_RS20130" class="clusterblast-orf" id="dummy-1_h1_9_30"  />
+</g>
+<g id="a1_0031"  >
+<polygon points="699,85 704,80 725,80 725,90 704,90 699,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20125&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 4575696 - 4574071" locus_tag="VM99_RS20125" class="clusterblast-orf" id="dummy-1_h1_9_31"  />
+</g>
+<g id="a1_0032"  >
+<polygon points="729,85 734,80 755,80 755,90 734,90 729,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20120&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 4573815 - 4572214" locus_tag="VM99_RS20120" class="clusterblast-orf" id="dummy-1_h1_9_32"  />
+</g>
+<g id="a1_0033"  >
+<polygon points="773,90 775,90 780,85 775,80 773,80 773,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;VM99_RS20115&lt;/b&gt;&lt;br&gt;DUF6124 family protein&lt;br&gt;Location: 4571118 - 4570729" locus_tag="VM99_RS20115" class="clusterblast-orf" id="dummy-1_h1_9_33"  />
+</g>
+</svg>

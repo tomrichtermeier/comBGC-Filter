@@ -1,0 +1,17 @@
+ClusterBlast scores for NODE_15_length_13587_cov_90.8
+
+Table of genes, locations, strands and annotations of query cluster:
+NCFMKG_01145	0	1101	+	hypothetical protein	
+NCFMKG_01150	1134	6612	+	hypothetical protein	
+NCFMKG_01155	6608	7319	+	hypothetical protein	
+NCFMKG_01160	7347	8835	-	ABC transporter domain-containing protein	
+NCFMKG_01165	8831	9596	-	Cobalt transporter	
+NCFMKG_01170	9597	10194	-	Trep-Strep domain-containing protein	
+NCFMKG_01175	10537	11584	+	N-acetyl sugar amidotransferase	
+NCFMKG_01180	11961	12210	-	hypothetical protein	
+
+
+Significant hits: 
+
+
+Details:

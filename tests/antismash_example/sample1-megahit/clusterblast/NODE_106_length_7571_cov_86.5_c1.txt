@@ -1,0 +1,1069 @@
+ClusterBlast scores for NODE_106_length_7571_cov_86.5
+
+Table of genes, locations, strands and annotations of query cluster:
+NCFMKG_05070	61	904	-	hypothetical protein	
+NCFMKG_05075	912	2031	-	hypothetical protein	
+NCFMKG_05080	2042	3224	-	Saccharopine dehydrogenase NADP binding domain-containing protein	
+NCFMKG_05085	3225	4005	-	DUF6564 domain-containing protein	
+NCFMKG_05090	4005	5007	-	hypothetical protein	
+NCFMKG_05095	5019	5745	-	putative phosphodiesterase	
+NCFMKG_05100	5754	7062	-	Fosfomycin biosynthesis bifunctional protein Fom1	
+NCFMKG_05105	7179	7293	+	hypothetical protein	
+
+
+Significant hits: 
+1. NZ_RKRG01000002	Methanobrevibacter gottschalkii DSM 11977 Ga0244664_12, whole genome shotgun sequence
+2. NZ_CACZYW010000005	MAG: Eubacterium ruminantium isolate RUG13076, whole genome shotgun sequence
+3. NZ_HG796200	Methanobrevibacter oralis JMR01, whole genome shotgun sequence
+4. NZ_AUKD01000018	Butyrivibrio fibrisolvens MD2001 G635DRAFT_scaffold00017.17_C, whole genome shotgun sequence
+5. NZ_CP092473	Roseburia sp. NSJ-69 chromosome, complete genome
+6. NC_021012	Roseburia intestinalis XB6B4, complete sequence
+7. NZ_FNUF01000001	Prevotella sp. lc2012, whole genome shotgun sequence
+8. NZ_CP051197	Treponema vincentii strain OMZ 802 chromosome, complete genome
+9. NZ_KE332514	Treponema vincentii F0403 aczIO-supercont1.3, whole genome shotgun sequence
+10. NZ_JADNCX010000011	Bacteroides uniformis strain D31t1_170403_D7 NODE_11_length_186739_cov_38.3395, whole genome shotgun sequence
+11. NZ_CP072255	Bacteroides uniformis CL03T12C37 chromosome, complete genome
+12. NZ_JAQNTF010000005	Bacteroides uniformis strain 1001217st1_C1_1001217B_191108 NODE_5_length_379134_cov_22.799072, whole genome shotgun sequence
+13. NZ_CP065889	Bacteroides uniformis strain FDAARGOS_901 chromosome
+14. NZ_CP072236	Bacteroides uniformis strain CL06T06C18 chromosome, complete genome
+15. NZ_CP103250	Bacteroides uniformis strain BFG-227 chromosome, complete genome
+16. NZ_JADMQR010000003	Bacteroides uniformis strain D46t1_190503_E1 NODE_3_length_353269_cov_27.9914, whole genome shotgun sequence
+17. NZ_JAQNRM010000011	Bacteroides uniformis strain D52st1_D3_D52t1_170925 NODE_11_length_178415_cov_19.0085, whole genome shotgun sequence
+18. NZ_QTMH01000004	Bacteroides sp. AF20-13LB AF20-13LB.Scaf4, whole genome shotgun sequence
+19. NZ_WCTV01000005	Bacteroides uniformis strain BIOML-A15 scaffold5_size232203, whole genome shotgun sequence
+20. NZ_WCUH01000012	Bacteroides uniformis strain BIOML-A28 scaffold12_size113863, whole genome shotgun sequence
+21. NZ_WCUU01000008	Bacteroides uniformis strain BIOML-A41 scaffold8_size468067, whole genome shotgun sequence
+22. NZ_JAQDZO010000003	Bacteroides stercoris strain AM19-42 AM19-42.Scaf3, whole genome shotgun sequence
+23. NZ_JAQNVX010000006	Bacteroides stercoris strain 2226st1_G7_2226SCRN_200925 NODE_6_length_152446_cov_9.813610, whole genome shotgun sequence
+24. NZ_QRXZ01000003	Bacteroides stercoris strain AF16-30 AF16-30.Scaf3, whole genome shotgun sequence
+25. NZ_KE340318	Bacteroides stercoris CC31F acUUc-supercont1.9, whole genome shotgun sequence
+26. NZ_CP102262	Bacteroides stercoris ATCC 43183 chromosome, complete genome
+27. NZ_JAQCOH010000003	Bacteroides eggerthii strain AF01-20J J-20.Scaf3, whole genome shotgun sequence
+28. NZ_QRXL01000003	Bacteroides eggerthii strain AF18-1 AF18-1.Scaf3, whole genome shotgun sequence
+29. NZ_CP117955	Bacteroides fragilis strain OB EAV1 11 D6 FAA chromosome, complete genome
+30. NZ_JADNGK010000026	Bacteroides fragilis strain 1001095H_141210_E11 NODE_26_length_69575_cov_25.5326, whole genome shotgun sequence
+31. NZ_GL622543	Bacteroides eggerthii 1_2_48FAA supercont1.6, whole genome shotgun sequence
+32. NZ_JAQNRR010000010	Bacteroides uniformis strain G3_h1001713B170204_200309 NODE_10_length_248109_cov_27.807964, whole genome shotgun sequence
+33. NC_013410	Fibrobacter succinogenes subsp. succinogenes S85, complete sequence
+34. NZ_AP019724	Bacteroides uniformis strain NBRC 113350 chromosome, complete genome
+35. NZ_FOCK01000001	Prevotella sp. ne3005, whole genome shotgun sequence
+36. NZ_WCTN01000001	Bacteroides uniformis strain BIOML-A7 scaffold1_size700001, whole genome shotgun sequence
+37. NZ_CP072220	Bacteroides uniformis strain CL11T00C07 chromosome, complete genome
+38. NZ_JAQFBH010000003	Bacteroides uniformis strain OM18-7A OM18-7A.Scaf3, whole genome shotgun sequence
+39. NZ_JAQNSN010000002	Bacteroides uniformis strain 1001283st1_H2_1001285I_161205 NODE_2_length_447132_cov_17.3943, whole genome shotgun sequence
+40. NZ_QTLM01000001	Bacteroides sp. AM07-18 AM07-18.Scaf1, whole genome shotgun sequence
+41. NZ_QTNH01000004	Bacteroides sp. AM32-11AC AM32-11AC.Scaf4, whole genome shotgun sequence
+42. NZ_JAQNRV010000012	Bacteroides uniformis strain BSD2780120875st2_E11_BSD2780120875b_170604 NODE_12_length_169254_cov_19.9514, whole genome shotgun sequence
+43. NZ_SPHH01000012	Bacteroides uniformis strain BSD2780061689st1_G7 NODE_12_length_149386_cov_31.9074, whole genome shotgun sequence
+44. NZ_CP053837	Aliarcobacter faecis strain CCUG 66484 chromosome, complete genome
+45. NZ_JNKG01000011	Prevotella sp. RM4 T499DRAFT_scaffold00005.5_C, whole genome shotgun sequence
+46. NZ_QUHC01000001	Odoribacter sp. AF15-53 AF15-53.Scaf1, whole genome shotgun sequence
+47. NZ_CP019606	Tessaracoccus aquimaris strain NSG39 chromosome, complete genome
+48. NZ_CP027777	Clostridium botulinum strain Mfbjulcb8 chromosome, complete genome
+49. NZ_CP102274	Hungatella hathewayi strain DSM 13479 chromosome, complete genome
+50. NZ_FQUG01000005	Schwartzia succinivorans DSM 10502, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NZ_RKRG01000002
+Source: Methanobrevibacter gottschalkii DSM 11977 Ga0244664_12, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 4081.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	EDC42_RS05360	78	461	99.28571428571429	5.72e-164
+NCFMKG_05070	EDC42_RS05325	45	259	97.5	3.16e-84
+NCFMKG_05075	EDC42_RS05355	76	593	100.0	5.17e-213
+NCFMKG_05080	EDC42_RS05350	84	674	100.0	1.34e-244
+NCFMKG_05085	EDC42_RS05345	66	363	98.06949806949807	3.52e-126
+NCFMKG_05090	EDC42_RS05340	83	569	100.0	7.55e-205
+NCFMKG_05095	EDC42_RS05335	78	393	100.8298755186722	2.07e-138
+NCFMKG_05100	EDC42_RS05330	87	769	100.0	1.63e-280
+
+
+
+>>
+2. NZ_CACZYW010000005
+Source: MAG: Eubacterium ruminantium isolate RUG13076, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 3002.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	HUF10_RS04250	36	137	97.5	7.78e-37
+NCFMKG_05070	HUF10_RS04255	31	126	95.0	1.13e-32
+NCFMKG_05075	HUF10_RS04220	71	555	99.46236559139786	6.3e-198
+NCFMKG_05080	HUF10_RS04225	72	584	100.0	8.66e-209
+NCFMKG_05085	HUF10_RS04230	50	258	98.84169884169884	1.24e-84
+NCFMKG_05090	HUF10_RS04235	74	490	99.3993993993994	8.71e-174
+NCFMKG_05095	HUF10_RS04240	51	252	101.65975103734439	1.15e-82
+NCFMKG_05100	HUF10_RS04245	68	600	98.62068965517241	6.9e-214
+
+
+
+>>
+3. NZ_HG796200
+Source: Methanobrevibacter oralis JMR01, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 3634.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+TY05_RS12685	TY05_RS12685	132546	132626	+	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	TY05_RS02990	50	280	94.64285714285714	6.55e-93
+NCFMKG_05070	TY05_RS02985	49	271	99.28571428571429	3.08e-89
+NCFMKG_05075	TY05_RS02955	74	574	99.46236559139786	1.6e-205
+NCFMKG_05080	TY05_RS02960	81	662	100.0	1.59e-239
+NCFMKG_05085	TY05_RS02965	65	353	98.84169884169884	3.19e-122
+NCFMKG_05090	TY05_RS02970	80	501	92.1921921921922	2.45e-178
+NCFMKG_05095	TY05_RS02975	67	297	83.40248962655602	3.84e-101
+NCFMKG_05100	TY05_RS02980	80	455	62.06896551724138	6.65e-159
+NCFMKG_05100	TY05_RS12690	85	241	33.10344827586207	7.48e-77
+
+
+
+>>
+4. NZ_AUKD01000018
+Source: Butyrivibrio fibrisolvens MD2001 G635DRAFT_scaffold00017.17_C, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2893.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	G635_RS0113740	57	65	18.21428571428571	1.03e-09
+NCFMKG_05075	G635_RS0113730	68	523	99.73118279569893	1.33e-185
+NCFMKG_05080	G635_RS0113725	72	581	100.25445292620864	9.7e-208
+NCFMKG_05085	G635_RS0113720	54	267	98.06949806949807	3.44e-88
+NCFMKG_05090	G635_RS0113715	74	499	100.0	3.77e-177
+NCFMKG_05095	G635_RS0113670	61	308	99.5850622406639	8.1e-105
+NCFMKG_05100	G635_RS0113665	74	650	98.39080459770115	7.83e-234
+
+
+
+>>
+5. NZ_CP092473
+Source: Roseburia sp. NSJ-69 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2319.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+H8S51_RS02475	H8S51_RS02475	525154	525366	+	AAA_family_ATPase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	H8S51_RS02410	31	119	101.07142857142857	5.69e-30
+NCFMKG_05075	H8S51_RS02425	48	343	100.26881720430107	1.67e-114
+NCFMKG_05080	H8S51_RS02420	62	518	100.0	1.21e-182
+NCFMKG_05085	H8S51_RS02400	41	198	95.36679536679536	4.56e-61
+NCFMKG_05090	H8S51_RS02395	63	422	100.0	4.93e-147
+NCFMKG_05095	H8S51_RS02385	47	239	100.8298755186722	1.92e-77
+NCFMKG_05100	H8S51_RS02390	55	480	97.70114942528735	1.17e-166
+
+
+
+>>
+6. NC_021012
+Source: Roseburia intestinalis XB6B4, complete sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2311.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+RO1_RS09050	RO1_RS09050	2017886	2018712	+	flagellin
+RO1_RS09075	RO1_RS09075	2022932	2024643	+	ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	RO1_RS09020	31	116	102.85714285714285	1.16e-28
+NCFMKG_05075	RO1_RS09035	48	343	100.26881720430107	1.67e-114
+NCFMKG_05080	RO1_RS09030	62	518	100.0	1.21e-182
+NCFMKG_05085	RO1_RS09010	41	197	95.36679536679536	1.29e-60
+NCFMKG_05090	RO1_RS09005	63	420	100.0	4.02e-146
+NCFMKG_05095	RO1_RS08995	47	235	100.8298755186722	6.3e-76
+NCFMKG_05100	RO1_RS09000	55	482	97.70114942528735	2.88e-167
+
+
+
+>>
+7. NZ_FNUF01000001
+Source: Prevotella sp. lc2012, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2156.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	BLU99_RS02005	31	136	95.35714285714286	1.57e-36
+NCFMKG_05075	BLU99_RS01970	49	338	102.41935483870968	1.6e-112
+NCFMKG_05080	BLU99_RS01950	56	429	98.72773536895674	6.75e-148
+NCFMKG_05085	BLU99_RS01955	43	191	96.13899613899613	2.58e-58
+NCFMKG_05090	BLU99_RS01960	66	444	100.0	1.03e-155
+NCFMKG_05095	BLU99_RS01965	41	195	100.8298755186722	3.39e-60
+NCFMKG_05100	BLU99_RS01980	50	423	98.62068965517241	3.83e-144
+
+
+
+>>
+8. NZ_CP051197
+Source: Treponema vincentii strain OMZ 802 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2371.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+E4N70_RS04605	E4N70_RS04605	963690	964696	+	ISAs1_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	E4N70_RS04520	48	328	100.26881720430107	1.64e-108
+NCFMKG_05080	E4N70_RS04540	69	556	98.9821882951654	5.11e-198
+NCFMKG_05085	E4N70_RS04535	52	260	97.2972972972973	2.61e-85
+NCFMKG_05090	E4N70_RS04530	74	501	99.3993993993994	6.77e-178
+NCFMKG_05095	E4N70_RS04525	62	303	100.8298755186722	7.94e-103
+NCFMKG_05100	E4N70_RS04515	50	423	97.70114942528735	4.75e-144
+
+
+
+>>
+9. NZ_KE332514
+Source: Treponema vincentii F0403 aczIO-supercont1.3, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2368.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	HMPREF1222_RS11995	49	328	97.04301075268818	8.16e-109
+NCFMKG_05080	HMPREF1222_RS12015	69	560	98.9821882951654	3.1e-199
+NCFMKG_05085	HMPREF1222_RS12010	52	257	97.2972972972973	3.01e-84
+NCFMKG_05090	HMPREF1222_RS12005	73	496	99.3993993993994	6.44e-176
+NCFMKG_05095	HMPREF1222_RS12000	62	303	100.8298755186722	5.6e-103
+NCFMKG_05100	HMPREF1222_RS11990	50	424	97.70114942528735	1.18e-144
+
+
+
+>>
+10. NZ_JADNCX010000011
+Source: Bacteroides uniformis strain D31t1_170403_D7 NODE_11_length_186739_cov_38.3395, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2113.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+I2D97_RS19385	I2D97_RS19385	47188	47238	-	smalltalk_protein
+I2D97_RS10830	I2D97_RS10830	60317	61623	+	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	I2D97_RS10850	32	117	93.21428571428572	2.62e-29
+NCFMKG_05075	I2D97_RS10795	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	I2D97_RS10820	57	447	100.25445292620864	7.86e-155
+NCFMKG_05085	I2D97_RS10810	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	I2D97_RS10805	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	I2D97_RS10800	41	186	100.8298755186722	6.86e-57
+NCFMKG_05100	I2D97_RS10790	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+11. NZ_CP072255
+Source: Bacteroides uniformis CL03T12C37 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2112.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+INE75_RS06190	INE75_RS06190	1441039	1442345	+	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	INE75_RS06210	32	117	93.21428571428572	2.62e-29
+NCFMKG_05075	INE75_RS06155	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	INE75_RS06180	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	INE75_RS06170	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	INE75_RS06165	62	411	100.30030030030031	1.66e-142
+NCFMKG_05095	INE75_RS06160	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	INE75_RS06150	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+12. NZ_JAQNTF010000005
+Source: Bacteroides uniformis strain 1001217st1_C1_1001217B_191108 NODE_5_length_379134_cov_22.799072, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2112.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+POZ95_RS09115	POZ95_RS09115	308744	310050	-	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	POZ95_RS09095	32	117	93.21428571428572	2.62e-29
+NCFMKG_05075	POZ95_RS09145	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	POZ95_RS09120	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	POZ95_RS09130	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	POZ95_RS09135	62	411	100.30030030030031	1.66e-142
+NCFMKG_05095	POZ95_RS09140	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	POZ95_RS09150	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+13. NZ_CP065889
+Source: Bacteroides uniformis strain FDAARGOS_901 chromosome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+I6G58_RS10485	I6G58_RS10485	2604928	2606234	-	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	I6G58_RS10465	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	I6G58_RS10520	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	I6G58_RS10495	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	I6G58_RS10505	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	I6G58_RS10510	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	I6G58_RS10515	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	I6G58_RS10525	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+14. NZ_CP072236
+Source: Bacteroides uniformis strain CL06T06C18 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+INE84_RS17950	INE84_RS17950	4399234	4400540	-	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	INE84_RS17930	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	INE84_RS17985	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	INE84_RS17960	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	INE84_RS17970	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	INE84_RS17975	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	INE84_RS17980	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	INE84_RS17990	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+15. NZ_CP103250
+Source: Bacteroides uniformis strain BFG-227 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+NXX72_RS12635	NXX72_RS12635	3121864	3123170	+	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	NXX72_RS12655	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	NXX72_RS12605	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	NXX72_RS12630	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	NXX72_RS12620	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	NXX72_RS12615	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	NXX72_RS12610	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	NXX72_RS12600	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+16. NZ_JADMQR010000003
+Source: Bacteroides uniformis strain D46t1_190503_E1 NODE_3_length_353269_cov_27.9914, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+I2H78_RS04275	I2H78_RS04275	202098	202565	-	N-acetylmuramoyl-L-alanine_amidase
+I2H78_RS04280	I2H78_RS04280	202520	202621	-	smalltalk_protein
+I2H78_RS04355	I2H78_RS04355	215650	216956	+	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	I2H78_RS04375	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	I2H78_RS04320	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	I2H78_RS04345	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	I2H78_RS04335	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	I2H78_RS04330	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	I2H78_RS04325	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	I2H78_RS04315	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+17. NZ_JAQNRM010000011
+Source: Bacteroides uniformis strain D52st1_D3_D52t1_170925 NODE_11_length_178415_cov_19.0085, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+POY83_RS12305	POY83_RS12305	100279	101585	-	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	POY83_RS12285	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	POY83_RS12335	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	POY83_RS12310	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	POY83_RS12320	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	POY83_RS12325	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	POY83_RS12330	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	POY83_RS12340	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+18. NZ_QTMH01000004
+Source: Bacteroides sp. AF20-13LB AF20-13LB.Scaf4, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DWX62_RS05760	DWX62_RS05760	184478	185784	-	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	DWX62_RS05740	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	DWX62_RS21880	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	DWX62_RS05775	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	DWX62_RS05785	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	DWX62_RS05790	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	DWX62_RS21875	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	DWX62_RS05800	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+19. NZ_WCTV01000005
+Source: Bacteroides uniformis strain BIOML-A15 scaffold5_size232203, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GAP52_RS07035	GAP52_RS07035	148765	150071	+	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	GAP52_RS07055	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	GAP52_RS06995	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	GAP52_RS07020	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	GAP52_RS07010	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	GAP52_RS07005	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	GAP52_RS07000	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	GAP52_RS06990	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+20. NZ_WCUH01000012
+Source: Bacteroides uniformis strain BIOML-A28 scaffold12_size113863, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GAQ35_RS14945	GAQ35_RS14945	35727	37033	-	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	GAQ35_RS14925	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	GAQ35_RS21660	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	GAQ35_RS14960	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	GAQ35_RS14970	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	GAQ35_RS14975	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	GAQ35_RS21655	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	GAQ35_RS14985	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+21. NZ_WCUU01000008
+Source: Bacteroides uniformis strain BIOML-A41 scaffold8_size468067, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2110.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GAQ57_RS11435	GAQ57_RS11435	123439	124745	-	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	GAQ57_RS11415	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	GAQ57_RS23000	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	GAQ57_RS11450	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	GAQ57_RS11460	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	GAQ57_RS11465	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	GAQ57_RS22995	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	GAQ57_RS11475	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+22. NZ_JAQDZO010000003
+Source: Bacteroides stercoris strain AM19-42 AM19-42.Scaf3, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2049.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	PGT33_RS04505	45	318	97.84946236559139	7.59e-105
+NCFMKG_05080	PGT33_RS04485	55	436	100.0	2.7e-150
+NCFMKG_05085	PGT33_RS04490	45	206	96.52509652509652	2.63e-64
+NCFMKG_05090	PGT33_RS04495	66	452	100.0	6.58e-159
+NCFMKG_05095	PGT33_RS04500	43	202	101.2448132780083	7.35e-63
+NCFMKG_05100	PGT33_RS04510	51	435	98.39080459770115	9.61e-149
+
+
+
+>>
+23. NZ_JAQNVX010000006
+Source: Bacteroides stercoris strain 2226st1_G7_2226SCRN_200925 NODE_6_length_152446_cov_9.813610, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2049.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	PO098_RS05670	45	318	97.84946236559139	7.59e-105
+NCFMKG_05080	PO098_RS05690	55	436	100.0	2.7e-150
+NCFMKG_05085	PO098_RS05685	45	206	96.52509652509652	2.63e-64
+NCFMKG_05090	PO098_RS05680	66	452	100.0	6.58e-159
+NCFMKG_05095	PO098_RS05675	43	202	101.2448132780083	7.35e-63
+NCFMKG_05100	PO098_RS05665	51	435	98.39080459770115	9.61e-149
+
+
+
+>>
+24. NZ_QRXZ01000003
+Source: Bacteroides stercoris strain AF16-30 AF16-30.Scaf3, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2049.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	DWW64_RS04015	45	318	97.84946236559139	7.59e-105
+NCFMKG_05080	DWW64_RS03995	55	436	100.0	2.7e-150
+NCFMKG_05085	DWW64_RS04000	45	206	96.52509652509652	2.63e-64
+NCFMKG_05090	DWW64_RS04005	66	452	100.0	6.58e-159
+NCFMKG_05095	DWW64_RS04010	43	202	101.2448132780083	7.35e-63
+NCFMKG_05100	DWW64_RS04020	51	435	98.39080459770115	9.61e-149
+
+
+
+>>
+25. NZ_KE340318
+Source: Bacteroides stercoris CC31F acUUc-supercont1.9, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2048.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	HMPREF1181_RS16745	45	318	97.84946236559139	7.59e-105
+NCFMKG_05080	HMPREF1181_RS16725	55	436	100.0	2.7e-150
+NCFMKG_05085	HMPREF1181_RS16730	45	206	96.52509652509652	5.27e-64
+NCFMKG_05090	HMPREF1181_RS16735	66	452	100.0	6.58e-159
+NCFMKG_05095	HMPREF1181_RS16740	42	201	101.2448132780083	1.47e-62
+NCFMKG_05100	HMPREF1181_RS16750	51	435	98.39080459770115	9.61e-149
+
+
+
+>>
+26. NZ_CP102262
+Source: Bacteroides stercoris ATCC 43183 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2047.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	NQ565_RS12735	45	318	97.84946236559139	7.59e-105
+NCFMKG_05080	NQ565_RS12715	55	436	100.0	2.7e-150
+NCFMKG_05085	NQ565_RS12720	45	205	96.52509652509652	1.06e-63
+NCFMKG_05090	NQ565_RS12725	66	452	100.0	6.58e-159
+NCFMKG_05095	NQ565_RS12730	42	201	101.2448132780083	1.47e-62
+NCFMKG_05100	NQ565_RS12740	51	435	98.39080459770115	9.61e-149
+
+
+
+>>
+27. NZ_JAQCOH010000003
+Source: Bacteroides eggerthii strain AF01-20J J-20.Scaf3, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2038.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+PG043_RS06480	PG043_RS06480	458213	458675	+	DegT/DnrJ/EryC1/StrS_family_aminotransferase
+PG043_RS06485	PG043_RS06485	458671	459038	+	sugar_phosphate_nucleotidyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	PG043_RS06520	46	319	97.84946236559139	3.79e-105
+NCFMKG_05080	PG043_RS06540	54	431	100.0	1.26e-148
+NCFMKG_05085	PG043_RS06535	44	204	96.52509652509652	2.99e-63
+NCFMKG_05090	PG043_RS06530	66	450	100.0	5.38e-158
+NCFMKG_05095	PG043_RS06525	42	196	101.2448132780083	1.35e-60
+NCFMKG_05100	PG043_RS06515	52	438	98.39080459770115	5.9e-150
+
+
+
+>>
+28. NZ_QRXL01000003
+Source: Bacteroides eggerthii strain AF18-1 AF18-1.Scaf3, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2038.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DWX01_RS03810	DWX01_RS03810	86387	86715	-	sugar_phosphate_nucleotidyltransferase
+DWX01_RS03815	DWX01_RS03815	86775	87224	-	DegT/DnrJ/EryC1/StrS_family_aminotransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	DWX01_RS03780	46	319	97.84946236559139	3.79e-105
+NCFMKG_05080	DWX01_RS03760	54	431	100.0	1.79e-148
+NCFMKG_05085	DWX01_RS03765	44	202	96.52509652509652	8.49e-63
+NCFMKG_05090	DWX01_RS03770	66	451	100.0	1.88e-158
+NCFMKG_05095	DWX01_RS03775	42	199	101.2448132780083	1.19e-61
+NCFMKG_05100	DWX01_RS03785	51	436	98.39080459770115	3.38e-149
+
+
+
+>>
+29. NZ_CP117955
+Source: Bacteroides fragilis strain OB EAV1 11 D6 FAA chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2028.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	PT255_RS04085	46	323	98.65591397849462	1.61e-106
+NCFMKG_05080	PT255_RS04105	52	420	99.74554707379136	4.32e-144
+NCFMKG_05085	PT255_RS04100	46	210	96.52509652509652	9.87e-66
+NCFMKG_05090	PT255_RS04095	63	426	100.0	2.7e-148
+NCFMKG_05095	PT255_RS04090	43	219	101.65975103734439	7.42e-70
+NCFMKG_05100	PT255_RS04080	51	430	98.39080459770115	6.31e-147
+
+
+
+>>
+30. NZ_JADNGK010000026
+Source: Bacteroides fragilis strain 1001095H_141210_E11 NODE_26_length_69575_cov_25.5326, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2026.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	I2E51_RS18530	45	321	98.65591397849462	6.45e-106
+NCFMKG_05080	I2E51_RS18550	52	420	99.74554707379136	3.05e-144
+NCFMKG_05085	I2E51_RS18545	46	210	96.52509652509652	9.87e-66
+NCFMKG_05090	I2E51_RS18540	63	426	100.0	2.7e-148
+NCFMKG_05095	I2E51_RS18535	43	219	101.65975103734439	7.42e-70
+NCFMKG_05100	I2E51_RS18525	51	430	98.39080459770115	6.31e-147
+
+
+
+>>
+31. NZ_GL622543
+Source: Bacteroides eggerthii 1_2_48FAA supercont1.6, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2022.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	HMPREF1016_RS12055	45	303	95.16129032258065	3.72e-99
+NCFMKG_05080	HMPREF1016_RS12075	54	431	100.0	1.79e-148
+NCFMKG_05085	HMPREF1016_RS12070	44	202	96.52509652509652	8.49e-63
+NCFMKG_05090	HMPREF1016_RS12065	66	451	100.0	1.88e-158
+NCFMKG_05095	HMPREF1016_RS12060	42	199	101.2448132780083	1.19e-61
+NCFMKG_05100	HMPREF1016_RS12050	51	436	98.39080459770115	3.38e-149
+
+
+
+>>
+32. NZ_JAQNRR010000010
+Source: Bacteroides uniformis strain G3_h1001713B170204_200309 NODE_10_length_248109_cov_27.807964, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2015.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+POY93_RS14095	POY93_RS14095	43258	43443	+	nucleotidyltransferase_domain-containing_protein
+POY93_RS14140	POY93_RS14140	49258	50572	+	phosphoenolpyruvate_mutase
+POY93_RS14175	POY93_RS14175	57033	58339	+	Gfo/Idh/MocA_family_oxidoreductase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	POY93_RS14195	31	115	93.21428571428572	1.4e-28
+NCFMKG_05075	POY93_RS14145	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	POY93_RS14170	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	POY93_RS14160	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	POY93_RS14155	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	POY93_RS14150	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	POY93_RS14140	49	321	75.63218390804597	6.42e-105
+
+
+
+>>
+33. NC_013410
+Source: Fibrobacter succinogenes subsp. succinogenes S85, complete sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2015.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	FISUC_RS04955	49	336	101.61290322580645	8e-112
+NCFMKG_05080	FISUC_RS04935	58	437	99.23664122137404	9.16e-151
+NCFMKG_05085	FISUC_RS04940	44	206	97.2972972972973	2.12e-64
+NCFMKG_05090	FISUC_RS04945	62	418	100.0	3.17e-145
+NCFMKG_05095	FISUC_RS04950	42	199	100.4149377593361	1.02e-61
+NCFMKG_05100	FISUC_RS04960	49	419	97.93103448275862	1.21e-142
+
+
+
+>>
+34. NZ_AP019724
+Source: Bacteroides uniformis strain NBRC 113350 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1996.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FNR01_RS15295	FNR01_RS15295	3676892	3677641	-	transposase
+FNR01_RS15305	FNR01_RS15305	3678273	3679412	-	IS66_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	FNR01_RS21820	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	FNR01_RS15220	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	FNR01_RS15230	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	FNR01_RS15235	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	FNR01_RS21815	42	186	100.8298755186722	6.86e-57
+NCFMKG_05100	FNR01_RS15245	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+35. NZ_FOCK01000001
+Source: Prevotella sp. ne3005, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2008.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	BMY16_RS02280	49	331	101.88172043010752	8.67e-110
+NCFMKG_05080	BMY16_RS02255	55	430	99.74554707379136	4.93e-148
+NCFMKG_05085	BMY16_RS02265	45	192	96.13899613899613	1.21e-58
+NCFMKG_05090	BMY16_RS02270	66	444	100.0	1.03e-155
+NCFMKG_05095	BMY16_RS02275	42	197	100.8298755186722	4.22e-61
+NCFMKG_05100	BMY16_RS02285	49	414	97.93103448275862	1.59e-140
+
+
+
+>>
+36. NZ_WCTN01000001
+Source: Bacteroides uniformis strain BIOML-A7 scaffold1_size700001, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1999.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GAP54_RS00430	GAP54_RS00430	87433	88173	+	IS66_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	GAP54_RS00465	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	GAP54_RS00490	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	GAP54_RS00480	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	GAP54_RS00475	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	GAP54_RS00470	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	GAP54_RS00460	50	420	97.93103448275862	6.02e-143
+
+
+
+>>
+37. NZ_CP072220
+Source: Bacteroides uniformis strain CL11T00C07 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1997.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+INE90_RS17980	INE90_RS17980	4139815	4140555	-	IS66_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	INE90_RS17945	47	330	103.76344086021506	2.97e-109
+NCFMKG_05080	INE90_RS17920	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	INE90_RS17930	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	INE90_RS17935	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	INE90_RS17940	42	186	100.8298755186722	6.86e-57
+NCFMKG_05100	INE90_RS17950	50	420	97.93103448275862	6.02e-143
+
+
+
+>>
+38. NZ_JAQFBH010000003
+Source: Bacteroides uniformis strain OM18-7A OM18-7A.Scaf3, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1997.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+PG730_RS06265	PG730_RS06265	266474	267214	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	PG730_RS06230	47	330	103.76344086021506	2.97e-109
+NCFMKG_05080	PG730_RS06205	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	PG730_RS06215	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	PG730_RS06220	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	PG730_RS06225	42	186	100.8298755186722	6.86e-57
+NCFMKG_05100	PG730_RS06235	50	420	97.93103448275862	6.02e-143
+
+
+
+>>
+39. NZ_JAQNSN010000002
+Source: Bacteroides uniformis strain 1001283st1_H2_1001285I_161205 NODE_2_length_447132_cov_17.3943, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1996.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+POZ26_RS03465	POZ26_RS03465	361477	362217	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	POZ26_RS03430	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	POZ26_RS03405	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	POZ26_RS03415	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	POZ26_RS03420	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	POZ26_RS03425	41	186	100.8298755186722	6.86e-57
+NCFMKG_05100	POZ26_RS03435	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+40. NZ_QTLM01000001
+Source: Bacteroides sp. AM07-18 AM07-18.Scaf1, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1995.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DW096_RS03195	DW096_RS03195	718967	719707	-	IS66_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	DW096_RS19370	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	DW096_RS03140	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	DW096_RS03150	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	DW096_RS03155	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	DW096_RS19365	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	DW096_RS03165	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+41. NZ_QTNH01000004
+Source: Bacteroides sp. AM32-11AC AM32-11AC.Scaf4, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1995.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DW800_RS19910	DW800_RS19910	225001	225385	-	IS66_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	DW800_RS19610	48	333	103.76344086021506	1.83e-110
+NCFMKG_05080	DW800_RS06035	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	DW800_RS06045	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	DW800_RS06050	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	DW800_RS19605	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	DW800_RS06060	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+42. NZ_JAQNRV010000012
+Source: Bacteroides uniformis strain BSD2780120875st2_E11_BSD2780120875b_170604 NODE_12_length_169254_cov_19.9514, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1993.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+POY96_RS10920	POY96_RS10920	86307	87047	+	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	POY96_RS10955	47	331	103.76344086021506	1.04e-109
+NCFMKG_05080	POY96_RS10980	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	POY96_RS10970	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	POY96_RS10965	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	POY96_RS10960	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	POY96_RS10950	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+43. NZ_SPHH01000012
+Source: Bacteroides uniformis strain BSD2780061689st1_G7 NODE_12_length_149386_cov_31.9074, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1993.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FGQ92_RS10950	FGQ92_RS10950	82210	82950	-	IS66_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	FGQ92_RS22480	47	331	103.76344086021506	1.04e-109
+NCFMKG_05080	FGQ92_RS10895	57	447	100.25445292620864	1.11e-154
+NCFMKG_05085	FGQ92_RS10905	44	203	97.2972972972973	4.69e-63
+NCFMKG_05090	FGQ92_RS10910	62	411	100.30030030030031	1.17e-142
+NCFMKG_05095	FGQ92_RS22475	41	185	100.8298755186722	1.94e-56
+NCFMKG_05100	FGQ92_RS10920	49	416	97.93103448275862	2.78e-141
+
+
+
+>>
+44. NZ_CP053837
+Source: Aliarcobacter faecis strain CCUG 66484 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1986.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05080	AFAEC_RS00350	54	400	98.72773536895674	1.43e-136
+NCFMKG_05085	AFAEC_RS00355	41	166	94.20849420849422	1.91e-48
+NCFMKG_05090	AFAEC_RS00360	58	375	100.0	1.56e-128
+NCFMKG_05095	AFAEC_RS00365	40	178	101.2448132780083	1.06e-53
+NCFMKG_05100	AFAEC_RS00340	53	437	97.70114942528735	1.47e-149
+NCFMKG_05100	AFAEC_RS00370	52	430	99.3103448275862	8.94e-147
+
+
+
+>>
+45. NZ_JNKG01000011
+Source: Prevotella sp. RM4 T499DRAFT_scaffold00005.5_C, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1829.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	T499_RS0110850	50	341	100.26881720430107	8.11e-114
+NCFMKG_05080	T499_RS0110830	55	423	98.72773536895674	2.56e-145
+NCFMKG_05090	T499_RS0110840	66	449	100.0	2.18e-157
+NCFMKG_05095	T499_RS0110845	42	202	100.8298755186722	4.59e-63
+NCFMKG_05100	T499_RS0110855	49	414	97.93103448275862	1.12e-140
+
+
+
+>>
+46. NZ_QUHC01000001
+Source: Odoribacter sp. AF15-53 AF15-53.Scaf1, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1809.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	DWW52_RS00820	45	311	100.53763440860214	7.68e-102
+NCFMKG_05080	DWW52_RS00840	55	419	98.72773536895674	1.19e-143
+NCFMKG_05090	DWW52_RS00830	66	429	97.2972972972973	9.37e-150
+NCFMKG_05095	DWW52_RS00825	47	216	102.07468879668049	2.74e-68
+NCFMKG_05100	DWW52_RS00815	51	434	97.93103448275862	1.93e-148
+
+
+
+>>
+47. NZ_CP019606
+Source: Tessaracoccus aquimaris strain NSG39 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 797.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BW730_RS20015	BW730_RS20015	42806	43369	+	CDP-glycerol_glycerophosphotransferase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	BW730_RS00190	38	86	45.0	1.03e-16
+NCFMKG_05075	BW730_RS00185	41	279	101.0752688172043	2.32e-89
+NCFMKG_05100	BW730_RS00180	52	432	99.77011494252874	1.67e-147
+
+
+
+>>
+48. NZ_CP027777
+Source: Clostridium botulinum strain Mfbjulcb8 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1037.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05075	C7M56_RS01110	48	334	100.26881720430107	6.67e-111
+NCFMKG_05095	C7M56_RS01135	34	133	105.3941908713693	2.36e-36
+NCFMKG_05100	C7M56_RS01105	64	570	99.54022988505747	3.78e-202
+
+
+
+>>
+49. NZ_CP102274
+Source: Hungatella hathewayi strain DSM 13479 chromosome, complete genome
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1900.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+NQ487_RS01275	NQ487_RS01275	260720	261844	+	phosphonopyruvate_decarboxylase
+NQ487_RS01285	NQ487_RS01285	263241	264762	-	IS66_family_transposase
+NQ487_RS01300	NQ487_RS01300	265941	267585	+	IS66_family_transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	NQ487_RS01335	34	131	95.35714285714286	1.43e-34
+NCFMKG_05075	NQ487_RS01305	70	545	99.73118279569893	4.02e-194
+NCFMKG_05075	NQ487_RS01275	80	199	29.56989247311828	9.69e-62
+NCFMKG_05100	NQ487_RS01315	60	516	97.70114942528735	2.68e-177
+NCFMKG_05100	NQ487_RS01265	58	509	98.39080459770115	9.94e-175
+
+
+
+>>
+50. NZ_FQUG01000005
+Source: Schwartzia succinivorans DSM 10502, whole genome shotgun sequence
+Type: phosphonate
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1256.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+NCFMKG_05070	BUA83_RS07530	31	118	96.78571428571429	9.58e-30
+NCFMKG_05075	BUA83_RS07540	68	528	99.46236559139786	1.4e-187
+NCFMKG_05100	BUA83_RS07545	71	610	98.39080459770115	5.21e-218
+

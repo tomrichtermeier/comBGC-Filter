@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="228,35 233,30 266,30 266,40 233,40 228,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_05070&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 61 - 904" locus_tag="NCFMKG_05070" class="clusterblast-orf" id="dummy-1_q0_0_all"  />
+<polygon points="266,35 271,30 316,30 316,40 271,40 266,35 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_05075&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 912 - 2031" locus_tag="NCFMKG_05075" class="clusterblast-orf" id="dummy-1_q1_0_all"  />
+<polygon points="317,35 322,30 370,30 370,40 322,40 317,35 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_05080&lt;/b&gt;&lt;br&gt;Saccharopine dehydrogenase NADP binding domain-containing protein&lt;br&gt;Location: 2042 - 3224" locus_tag="NCFMKG_05080" class="clusterblast-orf" id="dummy-1_q2_0_all"  />
+<polygon points="370,35 375,30 405,30 405,40 375,40 370,35 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_05085&lt;/b&gt;&lt;br&gt;DUF6564 domain-containing protein&lt;br&gt;Location: 3225 - 4005" locus_tag="NCFMKG_05085" class="clusterblast-orf" id="dummy-1_q3_0_all"  />
+<polygon points="405,35 410,30 449,30 449,40 410,40 405,35 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_05090&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4005 - 5007" locus_tag="NCFMKG_05090" class="clusterblast-orf" id="dummy-1_q4_0_all"  />
+<polygon points="450,35 455,30 482,30 482,40 455,40 450,35 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_05095&lt;/b&gt;&lt;br&gt;putative phosphodiesterase&lt;br&gt;Location: 5019 - 5745" locus_tag="NCFMKG_05095" class="clusterblast-orf" id="dummy-1_q5_0_all"  />
+<polygon points="483,35 488,30 541,30 541,40 488,40 483,35 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_05100&lt;/b&gt;&lt;br&gt;Fosfomycin biosynthesis bifunctional protein Fom1&lt;br&gt;Location: 5754 - 7062" locus_tag="NCFMKG_05100" class="clusterblast-orf" id="dummy-1_q6_0_all"  />
+<polygon points="546,40 546,40 551,35 546,30 546,30 546,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;NCFMKG_05105&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 7179 - 7293" locus_tag="NCFMKG_05105" class="clusterblast-orf" id="dummy-1_q7_0_all"  />
+</g>
+<g label="NZ_HG796200" description="NZ_HG796200 (130987-149702): Methanobrevibacter oralis JMR01, whole genome sh... (37% of genes show similarity), phosphonate" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_HG796200&amp;start=130987&amp;end=149702" target="_blank">NZ_HG796200 (130987-149702)</a>: Methanobrevibacter oralis JMR01, whole genome sh... (37% of genes show similarity), phosphonate</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a1_000"  >
+<polygon points="0,85 5,80 24,80 24,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02935&lt;/b&gt;&lt;br&gt;glutathione peroxidase&lt;br&gt;Location: 131472 - 132011" locus_tag="TY05_RS02935" class="clusterblast-orf" id="dummy-1_h1_3_0"  />
+</g>
+<g id="a1_001"  >
+<polygon points="34,90 38,90 43,85 38,80 34,80 34,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS12680&lt;/b&gt;&lt;br&gt;AAA family ATPase&lt;br&gt;Location: 132242 - 132436" locus_tag="TY05_RS12680" class="clusterblast-orf" id="dummy-1_h1_3_1"  />
+</g>
+<g id="a1_002"  >
+<polygon points="47,90 51,85 47,80 47,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS12685&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 132546 - 132626" locus_tag="TY05_RS12685" class="clusterblast-orf" id="dummy-1_h1_3_2"  />
+</g>
+<g id="a1_003"  >
+<polygon points="51,90 82,90 87,85 82,80 51,80 51,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02940&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 132633 - 133439" locus_tag="TY05_RS02940" class="clusterblast-orf" id="dummy-1_h1_3_3"  />
+</g>
+<g id="a1_004"  >
+<polygon points="108,85 113,80 115,80 115,90 113,90 108,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS11015&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 133899 - 134051" locus_tag="TY05_RS11015" class="clusterblast-orf" id="dummy-1_h1_3_4"  />
+</g>
+<g id="a1_005"  >
+<polygon points="115,85 120,80 123,80 123,90 120,90 115,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02945&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 134054 - 134236" locus_tag="TY05_RS02945" class="clusterblast-orf" id="dummy-1_h1_3_5"  />
+</g>
+<g id="a1_006"  >
+<polygon points="131,85 136,80 195,80 195,90 136,90 131,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02950&lt;/b&gt;&lt;br&gt;flippase&lt;br&gt;Location: 134419 - 135846" locus_tag="TY05_RS02950" class="clusterblast-orf" id="dummy-1_h1_3_6"  />
+</g>
+<g id="a1_007"  >
+<polygon points="201,85 206,80 251,80 251,90 206,90 201,85 " style="fill:#4dd815; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02955&lt;/b&gt;&lt;br&gt;phosphonopyruvate decarboxylase&lt;br&gt;Location: 135988 - 137112&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_05075&lt;/b&gt;&lt;br&gt;Percentage identity: 74&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 574&lt;br&gt;E-value: 1.6e-205" locus_tag="TY05_RS02955" class="clusterblast-orf" id="dummy-1_h1_3_7"  />
+</g>
+<g id="a1_008"  >
+<polygon points="252,85 257,80 305,80 305,90 257,90 252,85 " style="fill:#1585d8; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02960&lt;/b&gt;&lt;br&gt;saccharopine dehydrogenase NADP-binding domain-containing protein&lt;br&gt;Location: 137128 - 138318&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_05080&lt;/b&gt;&lt;br&gt;Percentage identity: 81&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 662&lt;br&gt;E-value: 1.59e-239" locus_tag="TY05_RS02960" class="clusterblast-orf" id="dummy-1_h1_3_8"  />
+</g>
+<g id="a1_009"  >
+<polygon points="305,85 310,80 339,80 339,90 310,90 305,85 " style="fill:#d815bc; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02965&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 138311 - 139081&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_05085&lt;/b&gt;&lt;br&gt;Percentage identity: 65&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 353&lt;br&gt;E-value: 3.19e-122" locus_tag="TY05_RS02965" class="clusterblast-orf" id="dummy-1_h1_3_9"  />
+</g>
+<g id="a1_0010"  >
+<polygon points="343,85 348,80 384,80 384,90 348,90 343,85 " style="fill:#d8bc15; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02970&lt;/b&gt;&lt;br&gt;NAD(P)-dependent oxidoreductase&lt;br&gt;Location: 139168 - 140088&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_05090&lt;/b&gt;&lt;br&gt;Percentage identity: 80&lt;br&gt;Percentage coverage: 92&lt;br&gt;BLAST bit score: 501&lt;br&gt;E-value: 2.45e-178" locus_tag="TY05_RS02970" class="clusterblast-orf" id="dummy-1_h1_3_10"  />
+</g>
+<g id="a1_0011"  >
+<polygon points="385,85 390,80 412,80 412,90 390,90 385,85 " style="fill:#15d885; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02975&lt;/b&gt;&lt;br&gt;metallophosphoesterase family protein&lt;br&gt;Location: 140109 - 140714&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_05095&lt;/b&gt;&lt;br&gt;Percentage identity: 67&lt;br&gt;Percentage coverage: 83&lt;br&gt;BLAST bit score: 297&lt;br&gt;E-value: 3.84e-101" locus_tag="TY05_RS02975" class="clusterblast-orf" id="dummy-1_h1_3_11"  />
+</g>
+<g id="a1_0012"  >
+<polygon points="418,85 423,80 438,80 438,90 423,90 418,85 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS12690&lt;/b&gt;&lt;br&gt;isocitrate lyase/phosphoenolpyruvate mutase family protein&lt;br&gt;Location: 140849 - 141283&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_05100&lt;/b&gt;&lt;br&gt;Percentage identity: 85&lt;br&gt;Percentage coverage: 33&lt;br&gt;BLAST bit score: 241&lt;br&gt;E-value: 7.48e-77" locus_tag="TY05_RS12690" class="clusterblast-orf" id="dummy-1_h1_3_12"  />
+</g>
+<g id="a1_0013"  >
+<polygon points="439,85 444,80 477,80 477,90 444,90 439,85 " style="fill:#4d15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02980&lt;/b&gt;&lt;br&gt;isocitrate lyase/phosphoenolpyruvate mutase family protein&lt;br&gt;Location: 141301 - 142155&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_05100&lt;/b&gt;&lt;br&gt;Percentage identity: 80&lt;br&gt;Percentage coverage: 62&lt;br&gt;BLAST bit score: 455&lt;br&gt;E-value: 6.65e-159" locus_tag="TY05_RS02980" class="clusterblast-orf" id="dummy-1_h1_3_13"  />
+</g>
+<g id="a1_0014"  >
+<polygon points="484,85 489,80 521,80 521,90 489,90 484,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02985&lt;/b&gt;&lt;br&gt;LicD family protein&lt;br&gt;Location: 142313 - 143143&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_05070&lt;/b&gt;&lt;br&gt;Percentage identity: 49&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 271&lt;br&gt;E-value: 3.08e-89" locus_tag="TY05_RS02985" class="clusterblast-orf" id="dummy-1_h1_3_14"  />
+</g>
+<g id="a1_0015"  >
+<polygon points="521,85 526,80 557,80 557,90 526,90 521,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02990&lt;/b&gt;&lt;br&gt;LicD family protein&lt;br&gt;Location: 143157 - 143948&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with NCFMKG_05070&lt;/b&gt;&lt;br&gt;Percentage identity: 50&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 280&lt;br&gt;E-value: 6.55e-93" locus_tag="TY05_RS02990" class="clusterblast-orf" id="dummy-1_h1_3_15"  />
+</g>
+<g id="a1_0016"  >
+<polygon points="559,85 564,80 590,80 590,90 564,90 559,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS02995&lt;/b&gt;&lt;br&gt;2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase&lt;br&gt;Location: 144007 - 144702" locus_tag="TY05_RS02995" class="clusterblast-orf" id="dummy-1_h1_3_16"  />
+</g>
+<g id="a1_0017"  >
+<polygon points="591,85 596,80 634,80 634,90 596,90 591,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS03000&lt;/b&gt;&lt;br&gt;NAD(P)H-dependent glycerol-3-phosphate dehydrogenase&lt;br&gt;Location: 144712 - 145680" locus_tag="TY05_RS03000" class="clusterblast-orf" id="dummy-1_h1_3_17"  />
+</g>
+<g id="a1_0018"  >
+<polygon points="640,90 649,90 654,85 649,80 640,80 640,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS03005&lt;/b&gt;&lt;br&gt;multidrug efflux SMR transporter&lt;br&gt;Location: 145813 - 146133" locus_tag="TY05_RS03005" class="clusterblast-orf" id="dummy-1_h1_3_18"  />
+</g>
+<g id="a1_0019"  >
+<polygon points="656,90 670,90 675,85 670,80 656,80 656,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS03010&lt;/b&gt;&lt;br&gt;NUDIX domain-containing protein&lt;br&gt;Location: 146181 - 146597" locus_tag="TY05_RS03010" class="clusterblast-orf" id="dummy-1_h1_3_19"  />
+</g>
+<g id="a1_0020"  >
+<polygon points="673,85 678,80 714,80 714,90 678,90 673,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS03015&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 146559 - 147458" locus_tag="TY05_RS03015" class="clusterblast-orf" id="dummy-1_h1_3_20"  />
+</g>
+<g id="a1_0021"  >
+<polygon points="716,90 735,90 740,85 735,80 716,80 716,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS03020&lt;/b&gt;&lt;br&gt;manganese efflux pump MntP family protein&lt;br&gt;Location: 147509 - 148060" locus_tag="TY05_RS03020" class="clusterblast-orf" id="dummy-1_h1_3_21"  />
+</g>
+<g id="a1_0022"  >
+<polygon points="750,85 755,80 756,80 756,90 755,90 750,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS12695&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 148278 - 148406" locus_tag="TY05_RS12695" class="clusterblast-orf" id="dummy-1_h1_3_22"  />
+</g>
+<g id="a1_0023"  >
+<polygon points="757,85 762,80 780,80 780,90 762,90 757,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;TY05_RS03025&lt;/b&gt;&lt;br&gt;uracil-DNA glycosylase&lt;br&gt;Location: 148441 - 148935" locus_tag="TY05_RS03025" class="clusterblast-orf" id="dummy-1_h1_3_23"  />
+</g>
+</svg>

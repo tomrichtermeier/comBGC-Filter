@@ -1,0 +1,155 @@
+LOCUS       NODE_2091_length_2099_cov_51.9_cluster_1 2095 bp    DNA     linear   UNK 13-APR-2024
+DEFINITION  NODE_2091_length_2099_cov_51.9.
+ACCESSION   NODE_2091_length_2099_cov_51.9_cluster_1
+VERSION     NODE_2091_length_2099_cov_51.9_cluster_1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+REFERENCE   1
+  AUTHORS   Laura M Carroll, Martin Larralde, Jonas Simon Fleck, Ruby
+            Ponnudurai, Alessio Milanese, Elisa Cappio Barazzone, Georg Zeller
+  TITLE     Accurate de novo identification of biosynthetic gene clusters with
+            GECCO
+  JOURNAL   bioRxiv (2021.05.03.442509)
+  REMARK    doi:10.1101/2021.05.03.442509
+COMMENT     ##GECCO-Data-START##
+            version                :: GECCO v0.9.10
+            creation_date          :: 2024-04-13T22:59:37.141516
+            cluster_type           :: Polyketide
+            alkaloid_probability   :: 0.008
+            nrp_probability        :: 0.181
+            polyketide_probability :: 0.825
+            ripp_probability       :: 0.026
+            saccharide_probability :: 0.000
+            terpene_probability    :: 0.055
+            ##GECCO-Data-END##
+FEATURES             Location/Qualifiers
+     CDS             complement(1..291)
+                     /inference="ab initio prediction:Pyrodigal:3.3.0"
+                     /transl_table=11
+                     /locus_tag="NODE_2091_length_2099_cov_51.9_1"
+                     /translation="MSYAIVFPGQGAQEIGMGKDFFEEYEVSKAVFQDADEALGFPLSD
+                     FIFGGPDDELVKTAIAQPAILTVSIAVLRAVEEELRRHGVELSPSFYAGHSL"
+                     /function="unknown"
+                     /colour="128 128 128"
+                     /ApEinfo_fwdcolor="#808080"
+                     /ApEinfo_revcolor="#808080"
+     misc_feature    1..276
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF00698"
+                     /db_xref="InterPro:IPR014043"
+                     /note="e-value: 1.3484030529704942e-13"
+                     /note="p-value: 4.8749206542678746e-17"
+                     /function="Acyl transferase"
+                     /standard_name="PF00698"
+     CDS             complement(378..1325)
+                     /inference="ab initio prediction:Pyrodigal:3.3.0"
+                     /transl_table=11
+                     /locus_tag="NODE_2091_length_2099_cov_51.9_2"
+                     /translation="MFGSNRITQLLKIEYPVIQGAMAWVADADLAAAVSNAGGLGVIAA
+                     GNMPPDVLDQELVKIRTLTDKPFGLNIMLLSPTWQDALELAAHHLVPVVTTGAGLPGKV
+                     IERLSPLGVTVVPVIASVAHAERVKKQGAHAVIAEGMEAGGHIGEITTMALTAQVTAAV
+                     DIPVITAGGIADGRGMLAAFALGAEGIQLGTRFVCASESNVHENFKKKIVDANDRSTVV
+                     TGRSLGHPVRSIKNKFTQAFMEMEAKSVPIEELDTFGSGKLRAAVVDGDVEWGSVMSGQ
+                     IAGLVNKVQPVSEIIEEIVKEARKLSETITMRFE*"
+                     /function="catalytic activity"
+                     /colour="129 14 21"
+                     /ApEinfo_fwdcolor="#810e15"
+                     /ApEinfo_revcolor="#810e15"
+     misc_feature    1062..1310
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF03060"
+                     /db_xref="InterPro:IPR004136"
+                     /db_xref="GO:0018580"
+                     /note="e-value: 5.803158584631099e-26"
+                     /note="p-value: 2.098032749324331e-29"
+                     /function="Nitronate monooxygenase"
+                     /standard_name="PF03060"
+     misc_feature    420..1091
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF03060"
+                     /db_xref="InterPro:IPR004136"
+                     /db_xref="GO:0018580"
+                     /note="e-value: 9.25302439277314e-53"
+                     /note="p-value: 3.3452727378066307e-56"
+                     /function="Nitronate monooxygenase"
+                     /standard_name="PF03060"
+     CDS             complement(1349..2095)
+                     /inference="ab initio prediction:Pyrodigal:3.3.0"
+                     /transl_table=11
+                     /locus_tag="NODE_2091_length_2099_cov_51.9_3"
+                     /translation="SPDTLFPGVGPVVQDMIGADNAGGMDVQAGCPGGLYAMVAAAGGI
+                     ASGIWENVVVIGSEALTRMLDWTDRNTCVLFGDGAAAFVMGPWRESEKGMLRLTHADLR
+                     ADGGKSDLISFPGGLAAEPATNESVREKRHCVQMRGNEVFKFVNREIPRFLESFCRDSG
+                     VLPRDIDWWIFHQANLRILEGIARRMHIPMERMIVNLDRYGNTSSASIMLALHEAREDG
+                     RIRSGQRIVISSFGAGMTYGAVLLES*"
+                     /function="catalytic activity"
+                     /colour="129 14 21"
+                     /ApEinfo_fwdcolor="#810e15"
+                     /ApEinfo_revcolor="#810e15"
+     misc_feature    1775..2023
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF08545"
+                     /db_xref="InterPro:IPR013751"
+                     /db_xref="GO:0004315"
+                     /db_xref="GO:0006633"
+                     /note="e-value: 5.419848345910478e-24"
+                     /note="p-value: 1.9594534873139834e-27"
+                     /function="3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase
+                     III"
+                     /standard_name="PF08545"
+     misc_feature    1352..1672
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF02797"
+                     /db_xref="InterPro:IPR012328"
+                     /note="e-value: 2.2712302769364344e-06"
+                     /note="p-value: 8.211244674390579e-10"
+                     /function="Chalcone/stilbene synthase, C-terminal"
+                     /standard_name="PF02797"
+     misc_feature    1355..1618
+                     /inference="protein motif"
+                     /db_xref="PFAM:PF08541"
+                     /db_xref="InterPro:IPR013747"
+                     /note="e-value: 2.2599815477789813e-35"
+                     /note="p-value: 8.17057681771143e-39"
+                     /function="3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase
+                     III, C-terminal"
+                     /standard_name="PF08541"
+ORIGIN
+        1 aagactgtgt ccggcgtaaa acgatggcga cagctcaacg ccgtgtctgc gcaattcctc
+       61 ttccaccgcc ctcagaaccg cgatacttac ggtgagaatg gcgggttggg cgatcgcggt
+      121 ttttacaagt tcatcgtcgg gacctccgaa aataaaatcg gagaggggaa aaccaagcgc
+      181 ttcatccgca tcttggaata cggctttcga gacctcgtac tcttcgaaga aatcctttcc
+      241 catcccgatc tcctgtgctc cctgacctgg aaaaacaatg gcatacgaca aacaattccc
+      301 tcctctctcg atttctttac actcaaatta tatctcaaag aaacctccag tgaactcgtt
+      361 cagcggcctc ccgctttcta ttcaaaacgc atggtgatcg tttcactcag ctttcgggct
+      421 tccttcacaa tctcttcgat aatctccgaa acgggctgga ctttattcac caggccggcg
+      481 atctgtccgg acataacaga accccactcc acatctccat cgacgacggc tgccctgagt
+      541 ttaccggaac cgaaggtatc cagctcctct atcggcaccg atttcgcttc catctccata
+      601 aaagcttgcg tgaacttgtt tttgatggag cgcacgggat gtccgagcga acgcccggtg
+      661 accaccgtac tccgatcgtt ggcgtccacg atctttttct tgaaattctc gtgaacattc
+      721 gattcgctgg cacagacaaa gcgagtgccc agttgtatcc cctccgctcc caacgcgaag
+      781 gcggcaagca tacctcgacc gtcggcgatg ccaccggctg tgatcaccgg aatatcgacc
+      841 gccgccgtga cctgtgccgt aagggccatc gtcgtaatct ctccgatatg cccccctgct
+      901 tccatcccct cggcgatgac cgcgtgggca ccctgctttt tgaccctctc cgcgtgcgca
+      961 accgaggcga tcacgggaac gacggtcaca ccgaggggag agaggcgttc gatcacctta
+     1021 cccggcaagc cggcacccgt ggtcacgact ggcaccaaat ggtgtgcagc cagctccaac
+     1081 gcgtcctgcc atgtcgggga gagcagcatg atgttcaggc caaagggttt gtccgtcagc
+     1141 gttcgtattt tgactagctc ctgatccaag acgtcgggcg gcatatttcc ggcagcgatc
+     1201 acgccgagtc ccccggcatt gctcactgcc gcggcgaggt ccgcgtccgc aacccatgcc
+     1261 atcgcaccct gtatgactgg atattctatc ttcagcagtt gagtgattcg attggagcca
+     1321 aacatcacat cacctcggtt ctttcgtact aagactcgag caggacggct ccataggtca
+     1381 ttccggcgcc gaagctggat atcacgattc tctgcccact gcgaattcta ccgtcctccc
+     1441 tcgcttcatg caaggccaac atgatggatg cactggacgt gttgccgtat ctgtccagat
+     1501 tgacgatcat ccgctccatc gggatatgca ttctgcgggc aattccctcc agaatacgca
+     1561 gattcgcttg gtgaaagatc caccagtcta tatcccgagg caggacaccc gaatcacgac
+     1621 agaagctctc caaaaaacga gggatctccc tgtttacgaa cttgaaaacc tcgttgccac
+     1681 gcatctgaac acaatgtctt ttttccctga cggattcgtt tgtcgcgggc tccgccgcaa
+     1741 ggccccccgg gaaggagatc aggtcgcttt tccctccatc ggccctcagg tcggcatgag
+     1801 tcaaccggag catccctttt tcgctctcgc gccaagggcc catcacgaaa gcggccgctc
+     1861 cgtcgccgaa gagcacacag gtatttctat ccgtccaatc gagcatcctg gtgagagctt
+     1921 cggaaccgat gacgacgaca ttctcccata tcccggatgc gatgcctccc gccgcggcga
+     1981 ccatcgcgta caggcccccc gggcaaccgg cctgcacgtc cattccgccg gcgttgtccg
+     2041 caccgatcat atcctgtacg acgggtccga ccccggggaa cagcgtgtcg ggcga
+//

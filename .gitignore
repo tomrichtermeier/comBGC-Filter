@@ -1,0 +1,19 @@
+# Ignore build artifacts
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore compiled Python files
+combgc/functions/__pycache__/
+combgc/functions/__pycache__/*
+combgc/build/
+
+# Ignore egg metadata
+combgc/combgc.egg-info/
+comBGC.egg-info/
+
+# Ignore temporary source files
+combgc/src/
