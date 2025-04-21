@@ -1,0 +1,50 @@
+{% set name = "comBGC" %}
+{% set version = "0.6.9" %}
+
+package:
+  name: "{{ name|lower }}"
+  version: "{{ version }}"
+
+source:
+  url: https://pypi.io/packages/source/{{ name[0] | lower }}/{{ name | lower }}/{{ name | lower }}-{{ version }}.tar.gz
+  sha256: f9bf0157c49068efe92d22f2417f2cb105d133695c6f6ad1d01144cc7fb1cc2a
+
+build:
+  noarch: python
+  number: 0
+  script: "{{ PYTHON }} -m pip install . -vv"
+  entry_points:
+    - combgc = combgc:main
+
+requirements:
+  host:
+    - python >=3.8
+    - pip
+
+  run:
+    - python >=3.8
+    - pandas
+    - biopython
+
+test:
+  imports:
+    - combgc
+  commands:
+    - combgc --help
+
+about:
+  home: "https://github.com/tomrichtermeier/comBGC-Filter"
+  license: MIT
+  license_family: MIT
+  summary: "A parsing tool to filter, derepplicate and summarise the outputs from multiple BGC detection tools."
+  doc_url: "https://github.com/tomrichtermeier/comBGC-Filter/wiki"
+  dev_url: "https://github.com/tomrichtermeier/comBGC-Filter/tree/dev"
+
+extra:
+  recipe-maintainers:
+    - tomrichtermeier
+  keywords:
+    - BGC
+    - biosynthetic gene cluster
+    - filtering
+    - genomics
